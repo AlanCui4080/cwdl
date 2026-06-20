@@ -2,15 +2,30 @@
 
 用于识别CW Morse通讯的深度学习系统
 
+## 目录结构和文件
+
+checkpoints - 权重
+dataset - 数据集合成数据源
+cnntriset - 用于训练CNN+RNN以识别特征的三个集合（训练，验证，测试）
+experiment - 一些想法和实验
+
+cnnset.py - 用来生成v1 v2数据集的脚本
+cnnsetv3.py - 用来生成v3数据集的脚本
+spectrogram.py genmorese.py - 数据集生成辅助类
+train* model* - 模型和训练脚本
+eval_heatmap.py - 生成热力图
+
+
 ## 数据集和预处理
 
 oxford5000：牛津常见5000词，剔除了长度小于3个字母的词汇
 radioabbr：常见CW通讯缩写
 random6：10000个3-6位随机长度的随机字母数字
+random50：10000个30-50位随机长度的随机字母数字空格
 
 随后这些数据被合成为30WPM到60WPM的CW音频，其中：
 - 加入随机最大值在10Hz-100Hz的频率偏倚，FM调制函数是在0.2-1Hz的三角波
-- 加入WPM偏倚，范围为正负20%
+- 加入每个点划的WPM偏倚，范围为正负20%
 - 叠加指定的附加噪声功率后归一化
 - 经过200Hz带宽60dB/dec的成型滤波器
 - 采样率统一为48000Hz，前20ms和后20ms是保护间隔。
@@ -65,3 +80,22 @@ v2 (~~变形金刚~~版 1.92M) 结构：
 此处完全移除了1D卷积层，意图使Transfomer模型直接理解1D莫尔斯序列
 - EncoderOnlyTransfomer dmodel128 dffn512 nhead4 layer4 drop0.3
 最终贪心以后得到结果，损失直接使用标准CTCLoss。效果十分不好（）
+
+v3 结构：
+- 3x3 conv2d stride4x1 padding0x1 Norm ReLU 32ch
+- 3x3 conv2d stride4x1 padding0x1 Norm ReLU 64ch
+- 3x1 conv1d dilation1 padding1 Norm ReLU 128ch
+- 3x1 conv1d dilation2 padding2 Norm ReLU 128ch
+- 3x1 conv1d dilation4 padding4 Norm ReLU 128ch
+- BiLSTM layer3 input128 hidden256 drop0.3
+该神经网络只用 random50 进行训练。
+- 附加噪声功率的范围改变到+12dB到-15dB，3dB每步
+- 验证集和测试集WPM范围改为10 25 30 35 40 45 50 55 60 65 80
+- 加入每个点划的WPM偏倚，范围为正负20%
+- 添加了新的QSB和QRN干扰 算法摘自WC9F的cwsim，有85%的样本加入了QRN，QRN最高强度和白噪声强度是统一的，有20%的样本加入了（10% 12dB 20% 9dB 70% 6dB）的QSB。
+- 添加白噪声随机的CW载波带宽变化正负20%
+- 删去原本的白噪声 QRN
+- 50%的样本添加了随机的0.1-0.25单位的多径延迟，随机抽取3-5个多径
+这总共产生了约6.6G+2.2G+2.2G的数据集
+
+
