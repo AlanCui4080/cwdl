@@ -1,0 +1,8 @@
+.conda
+
+__pycache__
+
+testset
+trainset
+valset
+runs

@@ -1,0 +1,5 @@
+name: /home/alan/.conda/envs
+channels:
+  - defaults
+dependencies: []
+prefix: /home/alan/.conda/envs
