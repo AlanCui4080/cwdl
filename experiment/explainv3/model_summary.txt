@@ -1,0 +1,16 @@
+CWModel v3  params=0.788M  vocab=37
+checkpoint epoch=0 cer=0.0661
+
+== layers ==
+cnn.0              Conv2d       (16, 1, 3, 3)
+cnn.1              BatchNorm2d  (16,)
+cnn.3              Conv2d       (32, 16, 3, 3)
+cnn.4              BatchNorm2d  (32,)
+conv1d_1           Conv1d       (64, 32, 3)
+conv1d_2           Conv1d       (64, 64, 3)
+conv1d_3           Conv1d       (64, 64, 3)
+bn1                BatchNorm1d  (64,)
+bn2                BatchNorm1d  (64,)
+bn3                BatchNorm1d  (64,)
+bigru              GRU          
+head               Linear       (38, 256)
