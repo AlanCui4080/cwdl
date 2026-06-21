@@ -12,13 +12,13 @@ import numpy as np
 import torch
 from torch.utils.data import DataLoader
 
-from dataset import CWSeqDataset, collate, IDX2CHAR
+from cnnset import CnnSet, collate, IDX2CHAR
 from model_v11 import CWModel, greedy_decode, CNN_T
 
 ROOT = Path(__file__).parent
 CKPT = ROOT / "checkpoints" / "best_v11.pt"
-TEST_CSV = ROOT / "testset" / "index.csv"
-TEST_ROOT = ROOT / "testset"
+TEST_CSV = ROOT / "cnntriset" / "testset" / "index.csv"
+TEST_ROOT = ROOT / "cnntriset" / "testset"
 _SEQ_RE = re.compile(r"(\d+)_[^_]+_b(\d+)\.png$")
 
 def _edit(a: str, b: str) -> int:
@@ -65,7 +65,7 @@ def main():
     model.eval()
     print(f"loaded {args.ckpt}  epoch={ck.get('epoch')}  cer={ck.get('cer')}")
 
-    ds = CWSeqDataset(TEST_CSV, TEST_ROOT)
+    ds = CnnSet(TEST_CSV, TEST_ROOT)
     meta = load_meta(TEST_CSV)
 
     loader = DataLoader(ds, batch_size=args.batch_size, shuffle=False,

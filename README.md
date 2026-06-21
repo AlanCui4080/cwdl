@@ -38,7 +38,7 @@ random50：10000个30-50位随机长度的随机字母数字空格
 
 每个词组具有不定长度的后黑，这是刻意保留而未填充为白噪声的，意图使得模型学会处理实时输入和可能的后黑。
 
-## 架构和训练
+## 架构和训练日志
 分为两个神经网络，第一个CNN通过提取音频的频谱图得到特征向量，第二个BiGRU通过提取前后特征最终给出解码结论，两个网络是协同训练的，在训练中，CNN接受预切割好的窗口，每个上下文训练滑动整个词汇的一个区块，整个序列不去重的送入BiGRU，去重由CTC实现。
 
 CNN网络首先通过卷积层快速将高度压缩到1px，意图使网络快速学会忽略和压缩频偏，然后做1D CNN提取点划空特征，随后提取到的这些特征送入BiGRU，接入CTC后进行学习。
@@ -72,7 +72,8 @@ v1.1(参数加大加宽版 0.7M) 结构：
 ![](cer_heatmapv11.png)
 
 纵然CER仍相对较高，但是我认为这是测试集中存在较低SNR和较极端WPM的样本，
-尤其的，有较低WPM的样本，模型感受野可能不足以识别整个点划。
+尤其的，有较低WPM的样本，模型感受野可能不足以识别整个点划。 顺便一提
+在这个任务上，LSTM没有比GRU表现的更佳，但是慢许多，所以选用GRU
 
 v2 (~~变形金刚~~版 1.92M) 结构：
 - 3x3 conv2d stride4x1 padding0x1 Norm ReLU 64ch
@@ -81,21 +82,29 @@ v2 (~~变形金刚~~版 1.92M) 结构：
 - EncoderOnlyTransfomer dmodel128 dffn512 nhead4 layer4 drop0.3
 最终贪心以后得到结果，损失直接使用标准CTCLoss。效果十分不好（）
 
-v3 结构：
+v3 0.79M）结构：
+- 3x3 conv2d stride4x1 padding0x1 Norm ReLU 16ch
 - 3x3 conv2d stride4x1 padding0x1 Norm ReLU 32ch
-- 3x3 conv2d stride4x1 padding0x1 Norm ReLU 64ch
-- 3x1 conv1d dilation1 padding1 Norm ReLU 128ch
-- 3x1 conv1d dilation2 padding2 Norm ReLU 128ch
-- 3x1 conv1d dilation4 padding4 Norm ReLU 128ch
-- BiLSTM layer3 input128 hidden256 drop0.3
-该神经网络只用 random50 进行训练。
-- 附加噪声功率的范围改变到+12dB到-15dB，3dB每步
-- 验证集和测试集WPM范围改为10 25 30 35 40 45 50 55 60 65 80
+- 3x1 conv1d dilation1 padding1 Norm ReLU 64ch
+- 3x1 conv1d dilation2 padding2 Norm ReLU 64ch
+- 3x1 conv1d dilation4 padding4 Norm ReLU 64ch
+- BiGRU layer3 input64 hidden128 drop0.3
+该神经网络只用 random50 进行训练,加入了DataParallel。
+- 附加噪声功率的范围改变到+18dB到-15dB，3dB每步 （验证集只执行+10到-10dB）
+- 验证集和测试集WPM范围改为10 25 30 35 40 45 50 55 60 65 80 （验证集只执行25到65）
 - 加入每个点划的WPM偏倚，范围为正负20%
-- 添加了新的QSB和QRN干扰 算法摘自WC9F的cwsim，有85%的样本加入了QRN，QRN最高强度和白噪声强度是统一的，有20%的样本加入了（10% 12dB 20% 9dB 70% 6dB）的QSB。
+- 添加了新的QSB和QRN干扰 算法摘自WC9F的cwsim，有85%的样本加入了QRN，有20%的样本加入了（10% 12dB 20% 9dB 70% 6dB）的QSB。
 - 添加白噪声随机的CW载波带宽变化正负20%
 - 删去原本的白噪声 QRN
 - 50%的样本添加了随机的0.1-0.25单位的多径延迟，随机抽取3-5个多径
-这总共产生了约6.6G+2.2G+2.2G的数据集
+这总共产生了约6.6G+2.2G+2.2G的数据集 发现val集有4w条数据，非常大，按1：5均匀抽取后，最终结果就是6：0.4 = 15：1
+（阅读实现，发现LLM的val集一直是从test集中抽0.5%抽出来的，所以一定要盯着LLM写实现）
 
-
+v3.1 结构：
+- 3x3 conv2d stride4x1 padding0x1 Norm ReLU 32ch
+- 3x3 conv2d stride4x1 padding0x1 Norm ReLU 32ch
+- 3x1 conv1d dilation1 padding1 Norm ReLU 64ch
+- 3x1 conv1d dilation2 padding2 Norm ReLU 128ch
+- 3x1 conv1d dilation4 padding4 Norm ReLU 128ch
+- BiGRU layer3 input128 hidden128 drop0.3
+这个修订意图通过增大1d卷积层通道数，减小步幅，增强CNN层感受细节的能力

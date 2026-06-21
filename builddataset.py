@@ -229,16 +229,16 @@ def main():
 
     print(f"workers: {args.workers if args.workers>0 else os.cpu_count()}")
 
-    print("\n[trainset]")
-    _build_split(ROOT / "trainset", TRAIN_WPMS, TRAIN_PER_CAT,
+    print("\n[cnntriset/trainset]")
+    _build_split(ROOT / "cnntriset" / "trainset", TRAIN_WPMS, TRAIN_PER_CAT,
                  w_train, n_train, workers=args.workers)
 
-    print("\n[valset]")
-    _build_split(ROOT / "valset", EVAL_WPMS, EVAL_PER_CAT,
+    print("\n[cnntriset/valset]")
+    _build_split(ROOT / "cnntriset" / "valset", EVAL_WPMS, EVAL_PER_CAT,
                  w_val, n_val, workers=args.workers)
 
-    print("\n[testset]")
-    _build_split(ROOT / "testset", EVAL_WPMS, EVAL_PER_CAT,
+    print("\n[cnntriset/testset]")
+    _build_split(ROOT / "cnntriset" / "testset", EVAL_WPMS, EVAL_PER_CAT,
                  w_test, n_test, workers=args.workers)
 
     print("\nall sets generated.")

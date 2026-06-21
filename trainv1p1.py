@@ -13,7 +13,7 @@ import torch
 from torch.utils.data import DataLoader
 from torch.utils.tensorboard import SummaryWriter
 
-from dataset import CWSeqDataset, collate, IDX2CHAR, encode
+from cnnset import CnnSet, collate, IDX2CHAR, encode
 from modelv1p1 import CWModel, ctc_loss, greedy_decode, CNN_T
 from tqdm import tqdm
 
@@ -33,8 +33,8 @@ except Exception:
     trange = range
 
 ROOT = Path(__file__).parent
-TRAIN_CSV = ROOT / "trainset" / "index.csv"
-TRAIN_IMG = ROOT / "trainset"
+TRAIN_CSV = ROOT / "cnntriset" / "trainset" / "index.csv"
+TRAIN_IMG = ROOT / "cnntriset" / "trainset"
 CKPT_DIR = ROOT / "checkpoints"
 
 def set_seed(seed: int):
@@ -130,7 +130,7 @@ def main():
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     print(f"device={device}")
 
-    full = CWSeqDataset(TRAIN_CSV, TRAIN_IMG)
+    full = CnnSet(TRAIN_CSV, TRAIN_IMG)
     print(f"sequences: {len(full)}")
     tr_idx, val_idx = split_val(full.seqs, args.val_frac, args.seed)
     print(f"train={len(tr_idx)} val={len(val_idx)}")
