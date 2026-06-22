@@ -82,7 +82,7 @@ v2 (~~变形金刚~~版 1.92M) 结构：
 - EncoderOnlyTransfomer dmodel128 dffn512 nhead4 layer4 drop0.3
 最终贪心以后得到结果，损失直接使用标准CTCLoss。效果十分不好（）
 
-v3 0.79M）结构：
+v3 (0.79M)结构：
 - 3x3 conv2d stride4x1 padding0x1 Norm ReLU 16ch
 - 3x3 conv2d stride4x1 padding0x1 Norm ReLU 32ch
 - 3x1 conv1d dilation1 padding1 Norm ReLU 64ch
@@ -98,13 +98,17 @@ v3 0.79M）结构：
 - 删去原本的白噪声 QRN
 - 50%的样本添加了随机的0.1-0.25单位的多径延迟，随机抽取3-5个多径
 这总共产生了约6.6G+2.2G+2.2G的数据集 发现val集有4w条数据，非常大，按1：5均匀抽取后，最终结果就是6：0.4 = 15：1
-（阅读实现，发现LLM的val集一直是从test集中抽0.5%抽出来的，所以一定要盯着LLM写实现）
 
-v3.1 结构：
+（阅读实现，发现LLM的val集一直是从test集中抽0.5%抽出来的，所以一定要盯着LLM写实现）
+最终结果： epoch=3  cer=0.044039199433132344
+分析特征图发现似乎卷积通道和1dCNN并没有提取出很好的特征，感觉过大是没必要的？
+
+v4 (2.02M) 结构：
 - 3x3 conv2d stride4x1 padding0x1 Norm ReLU 32ch
-- 3x3 conv2d stride4x1 padding0x1 Norm ReLU 32ch
-- 3x1 conv1d dilation1 padding1 Norm ReLU 64ch
+- 3x3 conv2d stride4x1 padding0x1 Norm ReLU 64ch
+- 3x1 conv1d dilation1 padding1 Norm ReLU 128ch
 - 3x1 conv1d dilation2 padding2 Norm ReLU 128ch
 - 3x1 conv1d dilation4 padding4 Norm ReLU 128ch
-- BiGRU layer3 input128 hidden128 drop0.3
-这个修订意图通过增大1d卷积层通道数，减小步幅，增强CNN层感受细节的能力
+- Transfomer d_model128 dimff512 nhead8 encode4 decode4 drop0.15
+再试试变形金刚,GeLu是从whisper论文中学来的,FlashAttention!
+- 添加了<bos>和<eos>token，添加了<unk>token
