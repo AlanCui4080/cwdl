@@ -112,3 +112,17 @@ v4 (2.02M) 结构：
 - Transfomer d_model128 dimff512 nhead8 encode4 decode4 drop0.15
 再试试变形金刚,GELU
 - 添加了<bos>和<eos>token，添加了<unk>token
+阅读了代码 添加了便于读者理解的辅助注释
+结果不收敛 依然非常不好
+
+v5 (4.02M)结构
+- 3x3 conv2d stride4x1 padding0x1 Norm ReLU 32ch
+- 3x3 conv2d stride4x1 padding0x1 Norm ReLU 32ch
+- 3x1 conv1d dilation1 padding1 Norm ReLU 64ch
+- 3x1 conv1d dilation2 padding2 Norm ReLU 64ch
+- 3x1 conv1d dilation4 padding4 Norm ReLU 128ch
+- BiLSTM layer3 input128 hidden256 drop0.3
+该神经网络用 random50 和 realcomm 进行训练， 添加了特殊的token [DEL]，在序列化的时候产生4-8个dot,dot间间隔有可能是1dot 有可能是2dot 但是这几个之间间隔是完全一样的 添加了特殊的token [SK] 在序列化的时候是	···-·- 添加了特殊的token [BK]  在序列化的时候是-···-·- 
+CNN层从v3best中net2net到v5作为起始权重
+考虑到超长的序列需求，这里换用了LSTM
+考虑到超长的序列需求，重定义了损失函数，只要输出一个space, 则gt无论有多少连续space都是0损失的

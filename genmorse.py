@@ -4,6 +4,7 @@ from __future__ import annotations
 from pathlib import Path
 
 import numpy as np
+import re
 import soundfile as sf
 from scipy import signal
 
@@ -56,6 +57,28 @@ MORSE_MAP = {
     "\"": ".-..-.", "$": "...-..-", "@": ".--.-.",
 }
 
+# 特殊 token: 序列化时作为单个 prosign 发送 (符号间 1-dot 间隔)
+_PROSIGN_CODE = {
+    "[SK]": "...-.-",
+    "[BK]": "-...-.-",
+}
+
+_SPECIAL_TOKEN_RE = re.compile(r"\[DEL\]|\[SK\]|\[BK\]", re.IGNORECASE)
+
+
+def _tokenize_word(word: str) -> list[str]:
+    """将一个 (已大写) word 拆成 prosign token 与单字符的序列。"""
+    elems: list[str] = []
+    pos = 0
+    for m in _SPECIAL_TOKEN_RE.finditer(word):
+        if m.start() > pos:
+            elems.extend(word[pos:m.start()])
+        elems.append(m.group(0).upper())
+        pos = m.end()
+    if pos < len(word):
+        elems.extend(word[pos:])
+    return elems
+
 def _min_segment_samples() -> int:
     return int(round(SAMPLE_RATE * MIN_SEGMENT_MS / 1000.0))
 
@@ -86,19 +109,31 @@ def _build_envelope(text: str, wpm: float
     cursor = guard_n
     words = text.upper().split()
     for wi, word in enumerate(words):
-        for ci, ch in enumerate(word):
-            code = MORSE_MAP.get(ch)
-            if code is None:
-                continue
+        elems = _tokenize_word(word)
+        for ci, elem in enumerate(elems):
             ch_start = cursor
-            for si, sym in enumerate(code):
-                n = jittered_units(1.0 if sym == "." else 3.0)
-                pulses.append((cursor, cursor + n))
-                cursor += n
-                if si < len(code) - 1:
-                    cursor += jittered_units(1.0)
-            char_spans.append((ch, ch_start, cursor))
-            if ci < len(word) - 1:
+            if elem == "[DEL]":
+                # 4-8 个 dot; 间隔统一为 1-dot 或 2-dot (本实例内完全一致)
+                n_dots = int(np.random.randint(4, 9))
+                gap_n = jittered_units(1.0 if np.random.rand() < 0.5 else 2.0)
+                for di in range(n_dots):
+                    n = jittered_units(1.0)
+                    pulses.append((cursor, cursor + n))
+                    cursor += n
+                    if di < n_dots - 1:
+                        cursor += gap_n
+            else:
+                code = MORSE_MAP.get(elem) or _PROSIGN_CODE.get(elem)
+                if code is None:
+                    continue
+                for si, sym in enumerate(code):
+                    n = jittered_units(1.0 if sym == "." else 3.0)
+                    pulses.append((cursor, cursor + n))
+                    cursor += n
+                    if si < len(code) - 1:
+                        cursor += jittered_units(1.0)
+            char_spans.append((elem, ch_start, cursor))
+            if ci < len(elems) - 1:
                 cursor += jittered_units(3.0)
         if wi < len(words) - 1:
             sp_start = cursor

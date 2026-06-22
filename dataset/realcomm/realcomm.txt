@@ -1,0 +1,1000 @@
+CQ NA M2AO                                                                                           CQ NA M2AO           TT1YDG                TT1YDG 5NN NR 314           TU M2AO 5NN NR 606
+CQ AF Z7IIR                  JZ0GY          JZ0GY          JZ0GY          JZ0GY            JZ0GY 5NN NR 584 K          TU Z7IIR 5NN NR 442
+CQ AS XS0RFV                                                                         CQ CQ AS XS0RFV                                                                         CQ CQ AS XS0RFV                   O6VIH                          O6VIH      O6VIH 5NN NR J33 [DEL] 813                TU GO0RFV [DEL] XS0RFV 5NN NR 510
+CQ AF JP4RUB             TW3CW           TW3CW 5NN NR 680 K                    TU JP4RUB 5NN NR 859
+CQ CQ DX VZ5ZXK                                                CQ DX VZ5ZXK              Y9KU       Y9KU 5NN NR 893                   TU VZ5ZXK 5NN NR 028
+CQ OC EV5XEV                                                                                  CQ CQ OC EV5XEV                                                                                  CQ CQ OC EV5XEV                WJ3WV                           WJ3WV                           WJ3WV            WJ3WV 5NN NR 808      TU EV5XEV 5NN NR 635
+CQ CQ TEST F1ZIF                         CQ TEST F1ZIF                         CQ TEST F1ZIF                         VK0KL              VK0KL 5NN NR 055          TU F1ZIF 5NN NR 584
+CQ AF B8PV                             GW7MBC                   GW7MBC                   GW7MBC                   GW7MBC                   GW7MBC       GW7MBC 5NN NR 153         TU B8PV 5NN NR 216 BK
+CQ AS C5TQF                                                                                CQ CQ AS C5TQF           V5MM              V5MM 5NN NR 322           TU C5TQF 5NN NR 632
+CQ EU D6BKV                                                                          CQ CQ EU D6BKV                                                                          CQ CQ EU D6BKV                       WF3IG      WF3IG 5NN NR 519 K           TU D6BKV 5NN NR 578
+CQ OC QC7EK                                                                               CQ OC QC7EK            RN1SB          RN1SB 5NN NR 822 K                   TU QC7EK 5NN NR 478
+CQ CQ AS US7BM                                                                                                   CQ AS US7BM                            P3UHG         P3UHG 5NN NR 449     TU US7BM 5NN NR 437
+CQ AS MH1UUR                                                 CQ CQ AS MH1UUR                     RP0UAT         RP0UAT 5NN NR 624 K       TU MH1UUR 5NN NR 284
+CQ AN XY7PAR                           NV9GSH            NV9GSH 5NN NR 969 K     TU XY7PAR 5NN NR 576
+CQ AF E6ME                                                 CQ AF E6ME               Y5JPD              Y5JP9 [DEL] Y5JPD 5NN NR 361 K               TU E6ME 5NN NR 193
+CQ SA OD6YG                                                                          CQ SA OD6YG                                                                          CQ SA OD6YG                    QX8OWS                          QX8OWS                          QX8OWS                          QX8OWS     QX8OWS 5NN NR 243 K       TU OD6YG 5NN NR 118
+CQ SA O3CO               II9ZDI     II9ZDI 5NN NR 150              TU O3CO 5NN NR 827 BK
+CQ AN W2VQ              B6CT          B6CT 5NN NR 816 K                   TU W2VQ 5NN NR 432
+CQ CQ TEST J7LCI            Q6WQ                 Q6WQ 5NN NR 253 K                TU J7LCI 5NN NR 752
+CQ CQ EU L8UVD                                     CQ EU L8UVD                                     CQ EU L8UVD          Y0FO           Y0FO 5NN NR 550               TU L8UVD 5NN NR 841
+CQ AF C4JML               W6HE             W6HE             W6HE      W6HE 5NN NR 008     TU C4JML 5NN NR 806
+CQ TEST EY7NX                                                                                CQ CQ TEST EY7NX                                                                                CQ CQ TEST EY7NX                        U6HYE           U6HYE                    U6HYE 5NN NR 677        TU EY7NX 5NN NR 911
+CQ AF X6YK                      NS1QZ      NS1QZ 5NN NR 960 K            TU X6YK 5NN NR 784
+CQ CQ EU IG2HS                           D7JPZ             D7JPZ        D7JPZ 5NN NR 307        TU IG2HS 5NN NR 021
+CQ AN GY5LCA                              CQ CQ AN GY5LCA                              CQ CQ AN GL5LCA [DEL] GY5LCA             P1KAS         P1KAS 5NN NR 952             TU GY5LCA 5NN NR 130
+CQ DX AH2UEM                                                            CQ CQ DX AH2UEM                                                            CQ CQ DX AH2UEM                 JO4RAA                JO4RAA 5NN NR 012                    TU AH2UEM 5NN NR 777 BK
+CQ CQ AS P8DT                                           CQ CQ AS P8DT                                           CQ CQ AS P8DT                              N1DF                 N1DF 5NN NR 692                 TU P8DT 5NN NR 826 [DEL] 526
+CQ TEST U4JG              HJ8QQB                           HJ8QQB                           HJ8QQB                           HJ8QQB          HJ8QQB 5NN NR 578        TU U4JG 5NN NR 490
+CQ EU I0VP           C1CS                              C1CS                    C1CS 5NN NR 074                  TU I0VP 5NN NR 952
+CQ CQ AN B9SR               M9FVJ       M9FVJ 5NN NR 084 K             TU B9SR 5NN NR 540
+CQ CQ AF Q1WQM                                                 CQ AF W1WQ5 [DEL] Q1WQM                                                 CQ CQ AF Q1WQM                   G3MRX             G3MRX             G3MRX            G3MRX 5NN NR 263 K        TU Q1WQM 5NN NR 743
+CQ CQ EU H6JM                     UF0CUR                    UF0CUR 5NN NR 965                    TU H6JM 5NN NR 057 BK
+CQ NA RA3OL           E0UF     E0UF 5NN NR 964        TU RA3OL 5NN NR 442 BK
+CQ CQ AN W5GJP                                           CQ CQ AN W5GJP                Y2PR      Y2PR 5NN NR 231                TU W5GJP 5NN NR 497
+CQ OC AO7QB                                                                      CQ CQ OC AO7QB                                                                      CQ OC AO7QB                    VG4ZQ                 VG4ZQ                    VG4ZQ 5NN NR 714 K                    TU AO7QB 5NN NR 646
+CQ CQ AN PV0XMA                                                                                                    CQ CQ AN PV0XMA                                                                                                    CQ AN PV0S2A [DEL] PV0XMA                      U1CHY      U1CHY 5NN NR 634 K                    TU PV0XMA 5NN NR 566 BK
+CQ NA KY1SRA           SZ7MDX            SZ7MDX 5NN NR 851                TU KY1SRA 5NN NR 105
+CQ AF AH0QZY                                                                       CQ CQ AF AH0QZY                                                                       CQ CQ AF AH0QZY                         B0FRF                           B0FRF                           B0FRF      B0FRF 5NN NR 812       TU AH0QZY 5NN NR 894
+CQ CQ TEST S1BH                                                                                    CQ CQ TEST S1BH                      M5UJO                    M5UJO 5NN NR 386 K           TU S1BH 5NN NR 775 BK
+CQ OC C6ZKF                                                                               CQ OC C6ZKF                                                                               CQ CQ OC C6ZKF            QN2OM        QN2OM 5NN NR 811           TU C6ZKF 5NN NR 567
+CQ AS O3ZN                L3WKC                  L3WKC 5NN NR 471 K           TU O3ZN 5NN NR 479
+CQ AS V1SS                HZ7SGT       HZ7SGT 5NN NR 742 K        TU V1SS 5NN NR 759
+CQ AS ZR1WOB                                                            CQ CQ AS ZR1WOB                                                            CQ CQ AS ZR1WOB                         GY1IE                             GY1IE                             GY1IE                             GY1IE         GY1IE 5NN NR 536 K             TU ZR1WOB 5NN NR 576
+CQ CQ SA I7HR                          ED9QO     ED9QO 5NN NR 299 K     TU I7HR 5NN NR 462
+CQ CQ OC WA7BV                          RU7NGP         RU7NGP 5NN NR 704             TU WA7BV 5NN NR 637
+CQ EU VC3UZJ                       CQ CQ EU VC3UZJ                       CQ EU VC3UZJ                      Q0TJ                  Q0TJ               Q0TJ 5NN NR 764 K       TU VC3UZJ 5NN NR 256
+CQ DX B7EJV                     WY0WM              WY0WM 5NN NR 906 K            TU B7EJV 5NN NR 512
+CQ CQ DX SS1MR                                       CQ DX SS1MR                                       CQ CQ DX SS1MR                           VA0EFV      VA0EFV 5NN NR 976 K              TU SS1MR 5NN NR 640
+CQ OC NC7QYZ                                                                                                   CQ OC NC7QYZ              W6OXL       W6OXL 5NN NR 481 K                 TU NC7QYZ 5NN NR 241
+CQ CQ SA V5FDA                                                                                              CQ SA V5FDA                                                                                              CQ SA V5FDA                         M12D [DEL] B1WD              QRZ?                B1WD               B1WD 5NN NR 363 K                    TU V5FDA 5NN NR 531 BK
+CQ DX I5WIL                                                          CQ DX I5WIL                                                          CQ CQ DX I5WIL                             MY1JZ                 MY1JZ 5NN NR 944     TU I5WIL 5NN NR 140
+CQ CQ AS D9WD           RU4DC               RU4DC 5NN NR 295 K                 TU D9WD 5NN NR 752
+CQ NA Q1IW                                                                                                  CQ NA Q1IW                                                                                                  CQ NA Q1IW             Y5RR          Y5RR 5NN NR 427 K                 TU Q1IW 5NN NR 680
+CQ CQ EU V3TW                                                                CQ CQ EU V3TW                      DO7HTI                        DO7HTI             DO7HTI 5NN NR 037 K            TU V3TW 5NN NR 671
+CQ AF M6GX                        J1XR           J1XR           J1XR                  J1XR 5NN NR 766               TU M6GX 5NN NR 566
+CQ NA LC6FF                          CQ NA LC6FF                          CQ NA LC6FF                          L6OXK              QRZ?            L6OXK L6OXK                L6OXK 5NN NR 731 K       TU LC6FF 5NN NR 576
+CQ CQ OC XA2PJ                                                      CQ OC XA2PJ                 JU3FS            JU3FS 5NN NR 183             TU XA2PJ 5NN NR 946
+CQ AF BL6GCD                            CN8EP              CN8EP 5NN NR 099                 TU BL6GCD 5NN NR 896
+CQ AS FM5XNW            ZS8TYU                    ZSTTYU 5NN NR 643 QRZ ZS8TYU ZS8TYU              ZS8TYU 5NN NR 643 K             TU FM5XNW 5NN NR 660
+CQ AS OL4LDP                                                                 CQ CQ AS OL4LDP                                                                 CQ AS OL4LDP                  CR2EST     CR2EST 5NN NR 132 K         TU OL4LDP 5NN NR 545
+CQ TEST OA1GD                                                                                                   CQ CQ TEST OA1GD                                                                                                   CQ TEST OA1GD               N4COM       N4COM 5NN NR 828 K      TU CA1GD [DEL] OA1GD 5NN NR 944
+CQ CQ SA R5FHQ                                                    CQ CQ SA R5FHQ                    Z9UH                        Z9UH                        Z9UH                        Z9UH                 Z9UH 5NN NR 854 K         TU R5FHQ 5NN NR 461
+CQ CQ AF J4VJJ                                                                               CQ CQ AF J4VJJ                        Z9NAB                   Z9NAB 5NN NR 612 K     TU J4VJJ 5NN NR 259
+CQ AN F3MEB          LJ1BH                  LJ1BH 5NN NR 588       TU F3MEB 5NN NR 183
+CQ CQ SA T9EUN          H2VWE                H2VWE 5NN NR 101 K                  TU T9EUN 5NN NR 723
+CQ CQ TEST OH1BAK                                                                                         CQ CQ TEST OH1BAK                          A1WJ                   A1WJ 5NN NR 916 K                 TU OH1BAK 5NN NR 263
+CQ EU KA0MW                       CQ CQ EU KA0MW                       CQ CQ EU KA0MW                 V9UP             V9UP 5NN NR 267           TU KA0MW 5NN NR 037 BK
+CQ AF IL6PPS                            V8ULN              V8ULN              V8ULN                  V8ULN 5NN NR 667 K      TU IL6PPS 5NN NR 885
+CQ CQ TEST V3JH                                                                         CQ CQ TEST V3JH                                                                         CQ TEST V3JH                          O0ULO             O0ULO 5NN NR 509 K               TU V3JH 5NN NR 343
+CQ CQ AN RU8DW              O9VN                       O9VN              O9VN 5NN NR 739               TU RU8DW 5NN NR 099
+CQ CQ NA XT7VV                            HX5ZTL                 HX5ZTL 5NN NR 605 K           TU XT7VV 5NN NR 400 BK E  E  E
+CQ CQ TEST VU2NSI                                                                                    CQ CQ TEST VU2NSI           J8ISK            J8ISK 5NN NR 982 K         TU VU2NSI 5NN NR 875 BK
+CQ CQ AN BW3ZL                                                                        CQ AN BW3ZL                                                                        CQ CQ AN BW3ZL                F1ND                   F1ND 5NN NR 011       TU BW3ZL 5NN NR 983
+CQ CQ DX E2CP                                                                   CQ DX E2CP            AW1ML                        AW1ML                   AW1ML 5NN NR 616 K        TU E2CP 5NN NR 022
+CQ NA UB2EMN                                       CQ NA UB2EMN                                       CQ NA UB2EMN                           FF4JW                           FF4JW                           FF4JW                           FF4JW                           FF4JW            FF4JW 5NN NR 667                   TU UB2EMN 5NN NR 015
+CQ CQ SA C7XWB                             S9QLX              S9QLX              S9QLX              S9QLX        S9QLX 5NN NR 821 K            TU C7XWB 5NN NR 074
+CQ AF V2PT                         HB0HYK                              HB0HYK      SB0HYK [DEL] HB0HYK 5NN NR 787        TU V2PT 5NN NR 865
+CQ CQ OC D5LUF                           BZ4LAR                          BZ4LAR                 QRZ?                BZ4LAR         BZ4LAR 5NN NR 194                 TU D5LUF 5NN NR 621
+CQ AF F9UC                      CQ AF F9UC                        XX0FIV                              XX0FIV                              XX0FIV                              XX0FIV                XX0FIV 5NN NR 341 K                   TU F9UC 5NN NR 592 BK
+CQ OC E3RV             OV7DX             OV7DX 5NN NR 703          TU E3RV 5NN NR 239
+CQ CQ NA DQ0DF                       IC6KYJ        IC6KYJ 5NN NR 441     TU DQ0DF 5NN NR 222
+CQ CQ SA V7XE                     O0MG             O0MG 5NN NR 021 K          TU V7XE 5NN NR 836
+CQ CQ DX QD9JR                      P8ZJJ                 P8ZJJ 5NN NR 551 K                 TU QD9JR 5NN NR 396 BK
+CQ CQ AF M7DO            Y2KT                     Y2KT                     Y2KT                     Y2KT            Y2KT 5NN NR 366                TU M7DO 5NN NR 834
+CQ OC N5COS                                                    CQ OC N5COS                                                    CQ CQ OC N5COS           V4BFB       V4BFB 5NN NR 562                  TU N5COS 5NN NR 475
+CQ AS FX1KRJ               D7VF                  D7VF 5NN NR 685 K                    TU FX1KRJ 5NN NR 878 BK
+CQ CQ SA R7FQ                 K5KC        K5KC 5NN NR 939 K            TU R7FQ 5NN NR 036
+CQ CQ NA Y6NF                                                                  CQ CQ NA Y6NF                                                                  CQ NA Y6NF                      Y8YW                  Y8YW        Y8YW 5NN NR 479            TU Y6NF 5NN NR 282 BK
+CQ AF M8ZRT                           UA3VQH           UA3VQH           UA3VQH             UA3VQH 5NN NR 932                    TU M8ZRT 5NN NR 303
+CQ CQ SA GA7GQ                                                                                              CQ CQ SA GA7GQ                         GD3BO                    GD3BO      GD3BO 5NN NR 539 K            TU GA7GQ 5NN NR 686 BK
+CQ TEST T9HWM [DEL] T9HWB                                                                CQ TEST T9HWB                                                                CQ CQ TEST T9HWB                              YM4BIB             YM4BIB             YM4BIB          YM4BIB 5NN NR 343              TU T9HWB 5NN NR 165 BK
+CQ OC UG5UQ                                       CQ CQ OC UG5UQ            L5EM                              L5EM                              L5EM                 L5EM 5NN NR 234 K                   TU UG5UQ 5NN NR 116 BK
+CQ CQ AN L1AZW                                                     CQ CQ AN L1AZW          M6SKQ              M6S3Q [DEL] M6SKQ 5NN NR 890 K     TU L1AZW 5NN NR 367
+CQ CQ SA IZ3DKS                                                                 CQ CQ SA IZ3DKS                             H1RD                   H1RD 5NN NR 028      TU IZ3DKS 5NN NR 285
+CQ CQ TEST MV8FJ                                                                                         CQ CQ TEST MV8FJ                                                                                         CQ CQ TEST MV8FJ                   Q1IRP           Q1IRP 5NN NR 935 K             TU MV8FJ 5NN NR M74 [DEL] 174
+CQ AF P9IR                                                                                            CQ AF P9IR                          BZ2OF            BZ2OF 5NN NR 639             TU P9IR 5NN NR 500
+CQ CQ DX N0CY                                                                   CQ DX N0CY                                                                   CQ DX N0CY                    CR6WM                       CR6WM                       CR6WM                       CR6WM              CR6WM 5NN NR 019 K            TU N0CY 5NN NR 206 BK
+CQ CQ TEST C8DZ                  W8WQN        W8WQN 5NN NR 917         TU C8DZ 5NN NR 068
+CQ CQ AF YJ8QEG                                                          CQ AF YJ8QEG                                                          CQ AF YJ8QEG                      N2ZZ                             N2ZZ                             N2ZZ                             N2ZZ                   N2ZZ 5NN NR 300 K              TU YJ8QEG 5NN NR 975
+CQ SA Z4SNR                                                                                       CQ CQ SA Z4SNR                                                                                       CQ CQ SA Z4SNR                   O6YJP     O6YJP 5NN NR 228 K     TU Z4SNR 5NN NR 373
+CQ CQ OC P1DX                                                      CQ CQ OC P1DX               YY4NH       YY4NH 5NN NR 326       TU P1DX 5NN NR 512 BK
+CQ EU IU4XR                                                       CQ EU IU4XR                                                       CQ CQ EU IU4XR               I6IHF              I6IHF 5NN NR 979 K                 TU IU4XR 5NN NR 353
+CQ CQ EU BU3KQ                                                           CQ EU BU3KQ                                                           CQ CQ EU BU3KQ                          V5XF          V5XF            V5XF 5NN NR 633              TU BU3KQ 5NN NR 114
+CQ OC ZR0KCA                                                                                           CQ CQ OC ZR0KCA            V0OLG                  V0OLG 5NN NR 346 K                    TU ZR0KCA 5NN NR 261
+CQ CQ NA X7CIY                                                                                              CQ CQ NA X7CIY                       P5AQI                  P5AQI                  P5AQI                    P5AQI 5NN NR 583 K           TU X7CIY 5NN NR 942
+CQ CQ OC SA8OV                          ZK3XOE               ZK3XOE                  ZK3XOE 5NN NR 491 K           TU SA8OV 5NN NR 593
+CQ AN DT0UG              PD1CN      PD1CN 5NN NR 458 K      TU DT0UG 5NN NR 528
+CQ NA LV2KL           L1BQ                L1BQ 5NN NR 869 K                    TU LV2KL 5NN NR 835
+CQ CQ AS X3CGV                                          CQ CQ AS X3CGV                                          CQ AS X3CGV              OF6CR                         OF6CR                OF6CR 5NN NR 173               TU X3CGV 5NN NR 204 BK
+CQ CQ EU W3GR                             V6WWY                  V6WWY             V6WWY 5NN NR 646          TU W3GR 5NN NR 510
+CQ CQ OC L1ZLD                                                                              CQ CQ OC L1ZLD            YE8IEV               YE8IEV 5NN NR 118 K                  TU L1ZLD 5NN NR 940
+CQ CQ AS I0RA                                                                         CQ CQ AS I0RA                    V0EFC        V0EFC 5NN NR 089        TU I0RA 5NN NR 898 BK
+CQ CQ EU W0MZD                                      CQ EU W0MZD                        B4PF                    B4PF 5NN NR 872            TU W0MZD 5NN NR 717
+CQ EU ED9BZ                           CQ CQ EU ED9BZ                           CQ EU ED9BZ              DL2ZC                 DL2ZC 5NN NR 133                TU ED9BZ 5NN NR 624
+CQ CQ NA QT3KPC                                     CQ NA QT3KPC                                     CQ NA QT3KPC          BY7ED                           BY7ED                           BY7ED                   BY7ED 5NN NR 282 K            TU QT3KPC 5NN NR 786
+CQ EU FR0IA                           RO5FP           RO5FP 5NN NR 851 K              TU FR0IA 5NN NR 850
+CQ NA I6NBU                                                                              CQ CQ NA I6NBU                   R0PQM                   R0PQM 5NN NR 897                   TU I6NBU 5NN NR 223
+CQ CQ AS M8PYY                             CQ AS M8PYY                   Z0NR                 Z0NR 5NN NR 123     TU M8PYY 5NN NR 538
+CQ OC DF4XUX                                                                                            CQ OC DF4XUX                 EA9WL                 EA9WL         EA9WL 5NN NR 678               TU DF4XUX 5NN NR 391
+CQ AF WF8TJR                             CQ AF WF8TJR                             CQ AF WF8TJR             H7QF      H7QF 5NN NR 889 K             TU WF8TJR 5NN NR 523
+CQ SA C5MQ                                                   CQ SA C5MQ                                                   CQ SA C5MQ          G8CLF       G8CLF 5NN NR 108 K         TU C5MQ 5NN NR 843 BK
+CQ TEST VH5QV                                                                                          CQ TEST VH5QV                          TF5QLZ                TF5QLZ 5NN NR 635 K             TU VH5QV 5NN NR 285
+CQ NA OX4AWN              W9IY       W9IY 5NN NR 357                  TU OX4AWN 5NN NR 704
+CQ CQ AF F6JJZ                   XE9VX           XE9VX           XE9VX           XE9VX                   XE9VX 5NN NR 911 K            TU F6JJZ 5NN NR 996
+CQ OC J6ZO                 QN2JBL       QN2JBL 5NN NR 559 K        TU J6ZO 5NN NR 002
+CQ AS OX4SM                          EP2RGB         EP2RGB 5NN NR 671 K     TU OX4SM 5NN NR 382
+CQ AN J7PT                                                                                        CQ CQ AN J7PT                                                                                        CQ AN J7PT             N7HY          N7HY                    N7HY 5NN NR 357 K       TU J7PT 5NN NR 823
+CQ CQ TEST OY0RRC                                                CQ TEST OY0RRC               HX0LN           HX0LN 5NN NR 430 K     TU OY0RRC 5NN NR 617
+CQ CQ AS AO1ST                        CQ CQ AS AO1ST                       W2ZQ                   W2ZQ 5NN NR 632 K          TU AO1ST 5NN NR 622
+CQ DX W1OK                          PX8SN                    PX8SN                    PX8SN     PX8SN 5NN NR 276 K     TU W1OK 5NN NR 602
+CQ CQ AS JK4VGD                                      CQ CQ AS JK4VGD                                      CQ CQ AS JK4VGD               C5AI                       C5AI      C5AI 5NN NR 231              TU JK4VGD 5NN NR 897
+CQ SA VD1DT                                                       CQ SA VD1DT             F0CLN                              F0CLN                              F0CLN                              F0CLN                              F0CLN          F0CLN 5NN NR 422         TU VD1DT 5NN NR 931
+CQ NA WL6CWB                                                                           CQ CQ NA WL6CWB                    F1EV                        F1EV       F1EV 5NN NR 955 K        TU WL6CWB 5NN NR 577 E  E  E
+CQ AN GS4WU                                                          CQ CQ AN GS4WU                  JX8VY              JX8VY 5NN NR 019 K                  TU GS4WU 5NN NR 501
+CQ CQ SA F2BMA                                                                                             CQ SA F2BMA                                                                                             CQ SA F2BBA [DEL] F2BMA           VD0UHA                              VD0UHA                              VD0UHA        VD0UHA 5NN NR 702           TU F2BMA 5NN NR 672 BK
+CQ DX L6ZOI                                            CQ DX L6ZOI                                            CQ CQ DX L6ZOI                            D3AJQ        D3AJQ 5NN NR 362       TU L6ZOI 5NN NR 458
+CQ NA M8NEU              VU7IP                           VU7IP                           VU7IP             VU7IP 5NN NR 367                    TU M8NEU 5NN NR 834
+CQ CQ NA VH0BT              YN7LC          YN7LC 5NN NR 629 K            TU VH0BT 5NN NR 255
+CQ CQ EU M3VX                                                                                                  CQ CQ EU M3VX               QK8HBH                              QK8HBH                              QK8HBH                              QK8HBH                              QK8HBH                 QK8HBH 5NN NR 567 K                   TU M3VX 5NN NR 549
+CQ SA AX7ZOW                                                                                                    CQ CQ SA AX7ZOW                     JC2QKW                    JC2QKW 5NN NR 399 K        TU AX7ZOW 5NN NR 634
+CQ CQ EU AJ6DLA                   H5ZR               H5ZR 5NN NR 194              TU MJ60LA [DEL] AJ6DLA 5NN NR 445
+CQ CQ OC K2UK                           WT6PKA         WT6PKA 5NN NR 017 K                 TU K2UK 5NN NR 270 BK
+CQ CQ AF JC9JJF              Y9JQF                  Y9JQF 5NN NR 891 K                 TU JC9JJF 5NN NR 263
+CQ CQ SA XO9BN                       CQ SA XO9BN              C0PUP                   C0PUP 5NN NR 371 K             TU XO9BN 5NN NR 069
+CQ CQ DX AQ4JW                                     CQ DX AQ4JW                                     CQ DX AQ4JW          F1RO                 F1RO          F1RO 5NN NR 332           TU AQ4JW 5NN NR 033 E  E
+CQ EU XV8MNI                                  CQ CQ EU XV8MNI                       UH1KK               UH1KK 5NN NR 165 K     TU XV8MNI 5NN NR 402 BK
+CQ CQ NA F9UH                                                                                   CQ NA F9UH                         Q4UA                  Q4UA 5NN NR 803               TU F9UH 5NN NR 667
+CQ CQ DX UF5WWW             BP2OFB              BP2O5B 5NN NR 367 QRZ BP2OFB BP2OFB             BP2OFB 5NN NR 367      TU UF5WWW 5NN NR 164
+CQ CQ AN H4OXP                         ST9XBV       ST9XBV 5NN NR 941 K         TU H4OXP 5NN NR 881
+CQ CQ OC J9EJK                            CQ CQ OC J9EJK                            CQ OC J9EJK           F4KF            F4KF 5NN NR 902 K                  TU J9EJK 5NN NR 955 BK
+CQ CQ DX LO2YH             V8TF      V8TF 5NN NR 714               TU LO2YH 5NN NR 106
+CQ CQ AN QA8XX [DEL] QA8XX                                                    CQ AN QA8XX            J5TC               J5TC               J5TC               J5TC               J5TC                  J5TC 5NN NR 827               TU QA8XX 5NN NR 149
+CQ SA RB9KMW                                                      CQ SA RB9KMW                                                      CQ SA RB9KMW                              V3ALL           V3ALL 5NN NR 082 K           TU RB9KMW 5NN NR 501 BK
+CQ DX YM0WW                                                        CQ CQ DX YM0WW                                                        CQ DX YM0WW                         C7AV           C7AV 5NN NR 406                  TU YM0WW 5NN NR 171 BK
+CQ TEST VY6VQ                           QE3WHD                QE3WHD 5NN NR 425            TU VY6VQ 5NN NR 685
+CQ NA OR6MW                     UG45ND [DEL] UG4TND                 UG4TND 5NN NR 478 K              TU OR6MW 5NN NR 262 BK E  E  E
+CQ TEST P3HG                            N3SK               N3SK               N3SK          N3SK 5NN NR 050 K             TU P3HG 5NN NR 648
+CQ CQ SA PR6LL                                                                                    CQ SA PR6LL                                                                                    CQ CQ SA PR6LL               SX0SD     SX0SD 5NN NR 588           TU PR6LL 5NN NR 625
+CQ CQ TEST BU0BDY                        YG0IIG              YG0IIG 5NN NR 393        TU BU0BDY 5NN NR 221
+CQ SA E3DQQ                         M6LXH     QRZ?                    M6LXH           M6LXH 5NN NR 964 K                 TU E3DQQ 5NN NR 565
+CQ AF S4AFI                                                                     CQ AF S4AFI                                                                     CQ CQ AF S4AFI                          IS7LNP                    IS7LNP 5NN NR 522                TU S4AFI 5NN NR 327
+CQ AF IN2ETS                                                                                  CQ AF IN2ETS                C6UZL     C6UZL 5NN NR 555                    TU IN2ETS 5NN NR 125
+CQ CQ AN DQ6JQO                                                                                   CQ CQ AN DQ6JQO                                                                                   CQ CQ AN DQ6JQO                  WT2HFP            WT2HFP 5NN NR 998                    TU DQ6JQO 5NN NR 059
+CQ SA IQ7EFC                         CQ CQ SA IQ7EFC              O7XJP                            O7XJP                            O7XJP                O7XJP 5NN NR 939 K           TU IQ7EFC 5NN NR 616 BK E  E  E
+CQ CQ EU H2HO                         CJ9RAH               CJ9RAH               CJ9RAH               CJ9RAH 5NN NR 669              TU H2HO 5NN NR 525
+CQ SA V1XYN                                                                                           CQ CQ SA V1XYN                                                                                           CQ CQ SA V1XYN                       B3UQC             QRZ?                B3UQC       B3UQC 5NN NR 449              TU V1XYN 5NN NR 391 BK
+CQ CQ AN J5NXG                                                                               CQ AN J5NXG                       T0ABV     T0ABV 5NN NR 627        TU J5NXG 5NN NR 515
+CQ DX EY4LHM               Y0OA          Y0OA          Y0OA          Y0OA          Y0OA       Y0OA 5NN NR 408 K      TU EY4LHM 5NN NR 726 BK
+CQ CQ AF Z6FT                            HA4DG                  HA4DG 5NN NR 108 K              TU Z6FT 5NN NR 648
+CQ CQ OC BJ1QOL                              HI1KPP      HI1KPP 5NN NR 468 K          TU BJ1QOL 5NN NR 916 BK
+CQ AN NI1HY                UC1BC               UC1BC 5NN NR 690           TU NI1HY 5NN NR 889
+CQ CQ SA M9AEJ                           FR0YW                            FR0YW                            FR0YW                            FR0YW                            FR0YW     FR0YW 5NN NR 886 K            TU M9AEJ 5NN NR 600
+CQ SA CN6PQ                   C4SOT                C4SOT 5NN NR 172             TU CN6PQ 5NN NR 734
+CQ CQ OC IC4VEM                                                                                     CQ CQ OC IC4VEM                                                                                     CQ OC IC4VEM                      HG6JIS               HG6JIS 5NN NR 311 K           TU IC4VEM 5NN NR 574
+CQ AS JM4RJG                    CQ CQ AS JM4RJG                    CQ AS JM4RJG                    N3JXY                          N3JXY                          N3JXY                          N3JXY     N3JXY 5NN NR 880 K        TU JM4RJG 5NN NR 758
+CQ CQ EU RH0LAE                     AT7KSY                     AT7KSY                  AT7KSY 5NN NR 226           TU RH0LAE 5NN NR 536
+CQ AN EF2EZL                                                              CQ AN EF2EZL                                                              CQ AN EF2EZL                    SA1NMY     SA1NMY 5NN NR 479               TU EF2EZL 5NN NR 411
+CQ CQ AN VN7FAW                       C5PDA              C5PDA 5NN NR 182      TU 1NWFAW [DEL] VN7FAW 5NN NR 175
+CQ CQ AS ID3RDY                         N7KIE                       N7KIE                       N7KIE                    N7KIE 5NN NR 461 K       TU ID3RDY 5NN NR 365 BK
+CQ CQ AN A4HYC                                                      CQ CQ AN A4HYC                           IB2JFK        IB2JFK 5NN NR 770 K                  TU A4HYC 5NN NR 948
+CQ AS PZ0RTX           HO9XX                HO9XX 5NN NR 086 K              TU PZ0RTX 5NN NR 016
+CQ CQ AN BP2PPY                          YS2IGW        YS2IGW 5NN NR 372 K             TU BP2PPY 5NN NR 884
+CQ CQ AS K3BT                                                                                              CQ CQ AS K3BT                TW1VXB        TW1VXB 5NN NR 599                  TU K3BT 5NN NR 762
+CQ CQ DX HF1VT            S6OKZ              S6OKZ              S6OKZ                S6OKZ 5NN NR 039 K         TU HF1VT 5NN NR 669
+CQ DX N2SSA                                                                  CQ CQ DX N2SSA                       X0LU                    X0LU 5NN NR 933         TU N2SSA 5NN NR 095
+CQ CQ AF I5THF                                               CQ AF I5THF                           L7VMJ                             L7VMJ              L7VMJ 5NN NR 633 K          TU I5THF 5NN NR 771
+CQ TEST L3FC                                                                                               CQ TEST L3FC                    DP9QS             DP9QS 5NN NR 643             TU L3FC 5NN NR 400
+CQ OC P2SYI                                                                     CQ OC P2SYI            JC9DL                JC9DL 5NN NR 379          TU P2SYI 5NN NR 705
+CQ EU Y0NHO                                                CQ EU Y0NHO          DN8PC           DN8PC 5NN NR 380 K       TU Y0NHO 5NN NR 990 BK
+CQ AF YZ2HOT                    CQ AF YZ2HOT                   HK5WV                 HK5WV                 HK5WV                   HK5WV 5NN NR 457 K              TU YZ2HOT 5NN NR 779
+CQ CQ AN U1VW                                        CQ AN U1VW               JY0KQ      JY0KQ 5NN NR 797     TU U1VW 5NN NR 048
+CQ CQ AS A3WKD                                                    CQ AS A3WKD                        CH8ZX     CH8ZX 5NN NR 224 K       TU A3WKD 5NN NR 911
+CQ CQ OC R8UK                    FT1YRD                            FT1YRD           FT1YRD 5NN NR 367 K                   TU R8UK 5NN NR 035
+CQ CQ AS NP8XJ                           ZF8XX      ZF8XX 5NN NR 40X [DEL] 403                    TU NP8XJ 5NN NR 186
+CQ AF D7HSL                                                                                                CQ CQ AF D7HSL                                                                                                CQ AF D7HSL                  W4MJR       QRZ?          W4MJR     W4MJR 5NN NR 612 K               TU D7HSL 5NN NR 143
+CQ AS NP4IG                                                            CQ AS NP4IG                        TM5IO                     TM5IO                    TM5IO 5NN NR 094           TU NP4IG 5NN NR 212
+CQ TEST QD4WG                                                             CQ CQ TEST QD4WG             E8YX                              E8YX               E8YX 5NN NR 850            TU QD4WG 5NN NR 959
+CQ TEST M9TFO                                                                                          CQ CQ TEST M9TFO                 F6GJX            F6GJX 5NN NR 735                    TU M9TFO 5NN NR 807
+CQ CQ AN KC7KU                                                                                 CQ AN KC7KU                                                                                 CQ CQ AN KC7KU                              M6MS     M6MS 5NN NR 407           TU KC7KU 5NN NR 131
+CQ CQ AS NF2CLE                    CQ AS NF2CLE                    CQ CQ AS NF2CLE                           WO1BCW                   WO1BCW                   WO1BCW                   WO1BCW          WO1BCW 5NN NR 518      TU NF2CLE 5NN NR 914
+CQ CQ AN M1TO                                         CQ CQ AN M1TO                                         CQ CQ AN M1TO                        U9HLB       U9HLB 5NN NR 277           TU M1TO 5NN NR 847
+CQ SA EK4KXP                     TI9VC            TI9VC            TI9VC     TI9VC 5NN NR 945 K                    TU EK4KXP 5NN NR 043
+CQ CQ OC FE9ZTN                             CY0WWI                          CY0WWI                   CY0WWI 5NN NR 113 K                 TU FE9ZTN 5NN NR 109 BK
+CQ SA AS9DJL                                                                CQ SA AS9DJL                                                                CQ CQ SA AS9DJL                  UF3MX             UF3MX 5NN NR 909      TU AS9DJL 5NN NR 550
+CQ CQ SA SI0QU                          K0CF                     K0CF                K0CF 5NN NR 577 K                TU SI0QU [DEL] SI0QU 5NN NR 999
+CQ OC I8DE                                                                                        CQ CQ OC I8DE                                                                                        CQ CQ OC I8DE                            LT2NOF            LT2NOF          LT2NOF 5NN NR 993     TU I8DE 5NN NR 550
+CQ CQ AS E6PV                                   CQ AS E6PV                                   CQ AS E6PV                       VI2QU          VI2QU          VI2QU      VI2QU 5NN NR 173                    TU E6PV 5NN NR 245
+CQ CQ EU N9IPQ                                                                         CQ EU N9IPQ                                                                         CQ CQ EU N9IPQ                              Z0CV                 Z0CV 5NN NR 362 K                 TU N9IPQ 5NN NR 874
+CQ EU N9VY           J0SEH                  J0SEH 5NN NR 588          TU N9VY 5NN NR 195
+CQ OC OJ6FNH                                                        CQ CQ OC OJ6FNH                                                        CQ OC OJ6FNH          A2FW      A2FW 5NN NR 450 K     TU OJ6FNH 5NN NR 250
+CQ NA AB7NPJ                                                                               CQ NA AB7NPJ                                                                               CQ NA AB7NPJ                          HW2CW      HW2CW 5NN NR 509     TU AB7NPJ 5NN NR 994
+CQ NA TH2HSJ                                                                                         CQ NA TH2HSJ                                                                                         CQ CQ NA TH2HSJ                        PQ0VZ       PQ0VZ 5NN NR 136       TU TH2HSJ 5NN NR 852 BK
+CQ DX D4KPH                                                                CQ CQ DX D4KPH               T4GP            T4GP 5NN NR 584 K           TU D4KPH 5NN NR 519 BK
+CQ CQ SA TB3VGP                 F0ES             F0ES 5NN NR 380 K                 TU TB3VGP 5NN NR 306
+CQ AS DC8KQQ                              SV8NIO              SV8NIO 5NN NR 154              TU DC8KQQ 5NN NR 591
+CQ CQ AS HZ0XFY                     ZO1GDL                ZO1GDL 5NN NR 051 K           TU HZ0XFY 5NN NR 036
+CQ CQ SA Y5RSO                                                                           CQ SA Y5RSO           B4OD                   C43D 5NN NR 750 QRZ B4OD B4OD               B4OD 5NN NR 750                  TU Y5RSO 5NN NR 877
+CQ DX EK1RT                RL8PBQ                    RL8PBQ 5NN NR 285 K               TU EK1RT 5NN NR 536 BK
+CQ CQ AF TB5SKA             LB6BL0 [DEL] LB6BLX            LB6BLX 5NN NR 899 K     TU TB5SKA 5NN NR 346 BK
+CQ CQ NA D4KH                                                                                         CQ CQ NA D4KH                                                                                         CQ CQ NA D4KH                   G7MJO           G7MJO 5NN NR 488 K              TU D4KH 5NN NR 639
+CQ SA HA6PX                                                     CQ SA HA6PX                                                     CQ SA HA6PX                        T6IDM [DEL] T6IKM                          T6IKM           T6IKM 5NN NR 646 K                 TU HA6PX 5NN NR 992
+CQ TEST OR0GD                            U1STW              U1STW              U1STW              U1STW             U1STW 5NN NR 039           TU OR0GD 5NN NR 350
+CQ CQ TEST O9BT                                     CQ CQ TEST O9BT                                     CQ CQ TEST O9BT                       KR5WA            KR5WA 5NN NR 037          TU O9BT 5NN NR 486
+CQ OC Q5NV                                    CQ CQ OC Q5NV                          W2YK               W2YK 5NN NR 431 K       TU Q5NV 5NN NR 034
+CQ OC B8OZ [DEL] B8MR                                                                                    CQ OC B8MR                                                                                    CQ OC B8MR                            Z0CX       Z0CX 5NN NR 510              TU B8MR 5NN NR 039 E  E  E
+CQ CQ AN AE8ZR                         CQ CQ AN AE8ZR                              C6XT          C6XT 5NN NR 257 K       TU AE8ZR 5NN NR 980 E  E  E
+CQ OC Z6WM                      CQ CQ OC Z6WM                              T0JI         T0JI 5NN NR 475          TU Z6WM 5NN NR 566 BK
+CQ SA OQ8AR                                             CQ SA OQ8AR                              EA3XA                 EA3XA 5NN NR 009 K               TU OQ8AR 5NN NR 738
+CQ CQ DX R8JE                                                                          CQ DX R8JE             Q0LP            Q0LP 5NN NR 886 K      TU R8JE 5NN NR 622
+CQ CQ AF TJ1KRC                                                                                             CQ CQ AF TJ1KRC                   PN9LLQ                  PN9LLQ 5NN NR 347              TU TJ1KRC 5NN NR 573
+CQ AF U4LR           H0LJN         H0LJN 5NN NR 170 K      TU U4LR 5NN NR 908
+CQ CQ AN TB3VSK                                                                          CQ CQ AN TB3VSK                              R1CDT                             R1CDT       R1CDT 5NN NR 745 K            TU TB3VSK 5NN NR 302
+CQ CQ SA DD2WVF                                                                                            CQ CQ SA DD2WVF                       U9USZ              U9UXZ 5NN NR 256 QRZ U9USZ U9USZ       U9USZ 5NN NR 256              TU DD2WVF 5NN NR 643 BK
+CQ CQ NA F7GPD              Z3SQG        Z3SQG 5NN NR 534 K            TU F7GPD 5NN NR 961
+CQ AF X2QGE                                                  CQ CQ AF X2QGE               IV3IYK          IV3IYK 5NN NR 836 K            TU X2QGE 5NN NR 143
+CQ NA IR2DO                                                          CQ NA IR2DO                       F1EQS             F1EQS 5NN NR 500           TU IR2DO 5NN NR 694
+CQ AF B9HB           HU9PI                  HU9PI                  HU9PI                  HU9PI                  HU9PI 5NN NR 020          TU B9HB 5NN NR 280
+CQ TEST S4TH                                     CQ TEST S4TH                              IX7GC                   IX7GC                   IX7GC                   IX7GC                   IX7GC      IX7GC 5NN NR 386                  TU S4TH 5NN NR 635 E  E  E
+CQ AF Z2HY                                                                                     CQ AF Z2HY                                                                                     CQ CQ AF Z2HY                    BQ1GYG                 CQ1GY0 [DEL] BQ1GYG 5NN NR 860       TU Z2HY 5NN NR 502
+CQ AS H8CQS                                                           CQ CQ AS H8CQS                                                           CQ CQ AS H8CQS                            N0ZC                N0ZC 5NN NR 079 K          TU H8CQS 5NN NR 990
+CQ AS J8YBO                                                         CQ AS J8YBO                                                         CQ CQ AS J8YBO                 B5GOG               B5GOG               B5GOG           B5GOG 5NN NR 903 K       TU J8YBO 5NN NR 702 E  E  E
+CQ CQ OC QH3OEH                  BS3QW                   BS3QW 5NN NR 436 K      TU QH3OEH 5NN NR 107
+CQ CQ NA P6VS                                                       CQ CQ NA P6VS                                                       CQ NA P6VS            VV0NT             VV0NT 5NN NR 197                  TU P6VS 5NN NR 764
+CQ CQ EU G8BWW                     CQ CQ EU G8BWW                     CQ CQ EU G8BWW             DY8YDQ                   DY8YDQ 5NN NR 474 K                    TU G8BWW 5NN NR 625
+CQ AN K0IH                        K0XR                K0XR 5NN NR 404 K                 TU K0IH 5NN NR 436 BK
+CQ SA TD3IJN                       CQ SA TD3IJN                       CQ SA TD3IJN                  LU1KJ           LU1KJ 5NN NR 089          TU TD3IJN 5NN NR 707
+CQ SA XK4IT                             W1YA          W1YA          W1YA 5NN NR 511 K               TU XK4IT 5NN NR 976
+CQ AS H5IRD                                       CQ AS H5IRD                   BQ0QSJ      TJ0QSJ 5NN NR 239 QRZ BQ0QSJ BQ0QSJ              BQ0QSJ 5NN NR 239 K                   TU H5IRD 5NN NR 533
+CQ CQ OC NZ1RUW                                                                 CQ CQ OC NZ1RUW                                                                 CQ CQ OC NZ1RUW           W0VHA                     W0VHA                     W0VHA                     W0VHA                     W0VHA         W08PA [DEL] W0VHA 5NN NR 756     TU NZ1RUW 5NN NR 608
+CQ NA Y5UKA                        CQ NA Y5UKA                             BB4DJ              BB4DJ              BB4DJ              BB4DJ              BB4DJ           BB4DJ 5NN NR 592                    TU Y5UKA 5NN NR 269
+CQ CQ EU S8ADC                              Z5IQY                   Z5IQY                   Z5GQY [DEL] Z5IQY      Z5IQY 5NN NR 878 K                   TU S8ADC 5NN NR 676
+CQ TEST X8LYX              J7TTG                              J7TTG               J7TTG 5NN NR 306          TU X8LYX 5NN NR 075
+CQ NA E9CSF                                                                                     CQ NA E9CSF                                                                                     CQ CQ NA E9CSF             IT2ZYA                 IT2ZYA     IT2ZYA 5NN NR 438 [DEL] 468 K            TU E9CSF 5NN NR 390
+CQ CQ NA H9YEX                                                                      CQ NA H9YEX                        UB7HK           UB7HK 5NN NR 571                 TU H9YEX 5NN NR 776
+CQ DX XA5VN                             T6DD                   T6DD 5NN NR 748                 TU XA5VN 5NN NR 131
+CQ CQ SA DM4DK                              O5OI           O5OI 5NN NR 413                 TU DM4DK 5NN NR 882
+CQ DX FF6VJ                     CQ CQ DX FF6VJ                     CQ DX FF6VJ                     VV6DD          VVPD8 5NN NR 419 QRZ VV6DD VV6DD      VV6DD 5NN NR 419                 TU FF6VJ 5NN NR 038
+CQ CQ TEST FB2YG                                                                  CQ CQ TEST FB2YG                             NT5KB       NT5KB 5NN NR ZB3 [DEL] 733 K                  TU FB2YG 5NN NR 551
+CQ OC EG2EF            HS1QQ                  HS1QQ             HS1QQ 5NN NR 714 K            TU EG2EF 5NN NR 824
+CQ CQ SA IW5VP                   XI9XUT                             XI9XUT                             XI9XUT                             XI9XUT                   XI9XUT 5NN NR 730 K             TU IW5VP 5NN NR 285
+CQ AS O3HWF                          S3CZ          S3CZ                    S3CZ 5NN NR 428     TU O3HWF 5NN NR 11I [DEL] 148 BK
+CQ DX W9KG                                                                CQ DX W9KG                                                                CQ CQ DX W9KG                             I7RC     I7RC 5NN NR 488                    TU W9KG 5NN NR 881
+CQ AF F4EZO          MH2JI             MH2JI 5NN NR 665             TU F4EZO 5NN NR 453
+CQ CQ OC KD8GMG                               CQ OC KD8GMG            A6MZ                   A6MZ 5NN NR 621         TU KD8GMG 5NN NR 832
+CQ CQ AN O5YQ                     CQ CQ AN O5YQ                     CQ AN O5YQ                         S9DGT [DEL] T9DGT                     T9DGT           T9DGT 5NN NR 93W [DEL] 935 K          TU O5YQ 5NN NR 099 BK
+CQ AF J4CV                                                                                               CQ CQ AF J4CV                         M1NCI     M1NCI 5NN NR 562 K                  TU J4CV 5NN NR 692
+CQ CQ OC UG9CPM                                                                                             CQ CQ OC UG9CPM             J7KRH            JBK6H [DEL] J7KRH 5NN NR 133 K             TU UG9CPM 5NN NR 685
+CQ DX IS5ZH                                         CQ CQ DX IS5ZH                                         CQ DX IS5ZH                         SM2SL                  SM2SL 5NN NR 120 K                TU IS5ZH 5NN NR 301
+CQ AN ES9OM                                                                          CQ CQ AN ES9OM                                                                          CQ CQ AN ES9OM                            HB3ZVK                 HB3ZVK 5NN NR 286 K       TU ES9OM 5NN NR 484
+CQ AS V7BWI                                                                                         CQ CQ AS V7BWI                                                                                         CQ CQ AS V7BWI                         T2TEX         T2TEX 5NN NR 183              TU V7BWI 5NN NR 449
+CQ TEST QN8JR                T4UDR [DEL] T4URR                T4URR 5NN NR 009              TU QN8JR 5NN NR 817
+CQ NA V5AK                                                                                  CQ NA V5AK             WA5SMU           WA5SMU 5NN NR 156                   TU V5AK 5NN NR 615
+CQ CQ TEST PU0HWE                      YO0UO          YO0UO       YO0UO 5NN NR 555               TU PU0HWE 5NN NR 617
+CQ CQ SA Y3FAA                                                                     CQ CQ SA Y3FAA                                                                     CQ CQ SA Y3FAA               R6NV                R6NV                 R6NV 5NN NR 041        TU Y3FAA 5NN NR 036
+CQ CQ TEST R8ZAM                       L4UEH                      L4UEH              L4UEH 5NN NR 170                 TU R8ZAM 5NN NR 251
+CQ AN K2ESR                                      CQ AN K2ESR           QV6KP              QV6KP 5NN NR 941 K                   TU K2ESR 5NN NR 133
+CQ CQ SA SR5UR                                                                 CQ SA SR5UR                                                                 CQ CQ SA SR5UR          A6TYV          A6TYV 5NN NR 001            TU SR5UR 5NN NR 639 BK
+CQ CQ EU U1TNL                                                        CQ EU U1TNL                          O4DWY            O4DWY 5NN NR 982 K                TU U1TNL 5NN NR 932
+CQ OC N73RR [DEL] NP3QR                    U1VP          U1VP 5NN NR 281          TU NP3QR 5NN NR 190
+CQ CQ AS FM7GY                                                                           CQ AS FM7GY                   NV1JH                              NV1JH                  NV1JH 5NN NR 406          TU FM7GY 5NN NR 548
+CQ NA SQ7DPV                     AN9BL                       AN9BL                       AN9BL            AN9BL 5NN NR 183 K           TU SQ7DPV 5NN NR 766
+CQ TEST K3LT                                                        CQ TEST K3LT                                                        CQ TEST K3LT                      QT0QT                 QT0QT 5NN NR 900 K         TU K3LT 5NN NR 602
+CQ CQ AF D5XO                ZO1SD     ZO1SD 5NN NR 623 K             TU D5XO 5NN NR 600
+CQ CQ EU IJ1MS                      MH5JRM                  MH5JRM 5NN NR 262 K      TU IJ1MS 5NN NR 787
+CQ AF SR9DFE                                                                                  CQ CQ AF SR9DFE                         CF9ZSK          CF9ZSK 5NN NR 188      TU SR9DFE 5NN NR 854 BK
+CQ CQ NA N3FMA                                                                                   CQ CQ NA N3FMA                                                                                   CQ CQ NA N3FMA                    JO7GB            JO7GB                 JO7GB 5NN NR 810 K           TU N3FMA 5NN NR 801
+CQ TEST YQ6QE                                                                      CQ TEST YQ6QE                                                                      CQ TEST YQ6QE               JS8JI         JS8JI 5NN NR 115 K               TU YQ6QE 5NN NR 341
+CQ CQ AN I9YOH                R9RTE                  R9RTE                  R9RTE     R9RTE 5NN NR 979 K     TU I9YOH 5NN NR 047
+CQ AF L5DVQ                    QO3GL                QO3GL 5NN NR 771 K      TU L5DVQ 5NN NR 162 BK
+CQ NA X7WF                                                       CQ NA X7WF                                                       CQ CQ NA X7WF                     EV4SHE               EV4SHE 5NN NR 857 K       TU X7WF 5NN NR 643
+CQ DX F7BK                                     CQ DX F7BK                                     CQ DX F7BK                            I2ZY       I2ZY 5NN NR 655 K            TU F7BK 5NN NR 603
+CQ CQ AF TP7IUT                                                              CQ CQ AF TP7IUT                  D9NMZ                              D9NMZ                D9NMZ 5NN NR 985 K               TU TP7IUT 5NN NR 574 BK
+CQ NA C3EO                                      CQ NA C3EO                       MN1GK             MN1GK 5NN NR 839 K                   TU C3EO 5NN NR 400 BK
+CQ AF B5IBZ                                                      CQ AF B5IBZ                                                      CQ AF B5IBZ                       K8TZJ                 K8TZJ           K8TZJ 5NN NR 224 K           TU B5IBZ 5NN NR 672
+CQ CQ TEST Z4UV                     CQ CQ TEST Z4UV                G8MLM                  G8MLM 5NN NR 447              TU ZBKV [DEL] Z4UV 5NN NR 000 BK E  E  E
+CQ EU KT4YAV                                                            CQ EU KT4YAV                                                            CQ CQ EU KT4YAV                             EJ2XR      EJ2XR 5NN NR 405 K             TU KT4YAV 5NN NR 268
+CQ CQ SA Q5SAW                                                                         CQ CQ SA Q5SAW                                                                         CQ SA Q5SAW                         O1QYF       O1QYF 5NN NR 397 K                    TU Q5SAW 5NN NR 320
+CQ AS M1SN                                    CQ AS M1SN                                    CQ AS M1SN          WB0PU                      WB0PU                      WB0PU             WB0PU 5NN NR 443 K            TU M1SN 5NN NR 458
+CQ AN QN7MHN                                                                                           CQ CQ AN QN7MHN                              KG3SYZ               KG3SYZ 5NN NR 884 K         TU QN7MHN 5NN NR 722 BK
+CQ CQ AN LA1BXO              E6XDZ                E6XDZ                E6XDZ                E6XDZ               E6XDZ 5NN NR 103                 TU LA1BXO 5NN NR 811
+CQ CQ OC Q1PSM                YA5RC         YA9RC 5NN NR 561 QRZ YA5RC YA5RC               YA5RC 5NN NR 561 K               TU Q1PSM 5NN NR 310
+CQ SA G5SR                                  CQ CQ SA G5SR                              QM7HUR                QM7HUR 5NN NR 321              TU G5SR 5NN NR 595
+CQ OC E5HXS                                                                                      CQ CQ OC E5HXS                                                                                      CQ OC E5HXS                             C3JJ                C3JJ 5NN NR 895           TU E5HXS 5NN NR 991 BK
+CQ CQ NA WM7TSG                             Z6KNB          Z6KNB 5NN NR 757      TU WM7TSG 5NN NR 503 E  E
+CQ TEST A2QQV                                                                            CQ TEST A2QQV                T0QEP            T0QEP 5NN NR 374           TU A2QQV 5NN NR 744
+CQ TEST NI7JT                                                         CQ CQ TEST NI7JT                                                         CQ CQ TEST NI7JT                            LX4PSJ                      LX4PSJ                      LX4PSJ                      LX4PSJ                   LX4PSJ 5NN NR 685        TU NI7JT 5NN NR 038 BK
+CQ CQ AN F0ZK                 YF5YC                YF5YC 5NN NR 512        TU F0ZK 5NN NR 515 E  E  E
+CQ TEST TI0KP                                  CQ TEST TI0KP                LA3KA       LA3KA 5NN NR 946         TU TI0KP 5NN NR 825
+CQ CQ NA E8WZ                                                    CQ CQ NA E8WZ             M6GXA             M6GXA 5NN NR 925 K        TU E8WZ 5NN NR 088
+CQ CQ EU CN1CTH                                              CQ CQ EU CN1CTH                                              CQ CQ EU CN1CTH                J9MFC                          J9MFC                          J9MFC              J9MFC 5NN NR 738                  TU CN1CTH 5NN NR 665 E  E  E
+CQ EU FG8EL                                                                         CQ EU FG8EL                                                                         CQ EU FG8EL                 A1OIB                 A1OIB 5NN NR 959 K             TU FG8EL 5NN NR 486 BK
+CQ CQ AF A3OZL                 X7BL            X7BL 5NN NR 290                TU A3OZL 5NN NR H86 [DEL] 086
+CQ OC RU5SH                   BA7IEZ                 BA7IEZ 5NN NR 068 K      TU RU5SH 5NN NR 846
+CQ TEST ZM7TR                                                                                CQ TEST ZM7TR                             QY6YLA                    QY6YLA 5NN NR 706 K                TU ZM7YR [DEL] ZM7TR 5NN NR 396
+CQ TEST A3JT                        CQ CQ TEST A3JT                O1RGY                             O1RGY                  O1RGY 5NN NR 994 K          TU A3JT 5NN NR 437
+CQ EU T9PKX                              A6PJ                 A6PJ 5NN NR 492 K      TU T9PKX 5NN NR 570
+CQ SA G9FZ                                                                               CQ SA G9FZ                                                                               CQ CQ SA G9FZ                            H4QEX                   H4QEX              H4QEX 5NN NR 712 K                TU G9FZ 5NN NR 395 BK
+CQ CQ DX R4ZXI                       CQ DX R4ZXI                       CQ DX R4ZXI                    QW2FR              QW2FR              QW2FR              IW22R [DEL] QW2FR         QW2FR 5NN NR 656         TU R4ZXI 5NN NR 909
+CQ NA IWZSI [DEL] I7ZSQ                             U6EQ          U6EQ 5NN NR 377 [DEL] 637 K          TU I7ZSQ 5NN NR 050
+CQ NA Z0FX                                        CQ CQ NA Z0FX                                        CQ CQ NA Z0FX            F5GC                            F5GC     F5GC 5NN NR 607 K         TU Z0FX 5NN NR 243 BK
+CQ OC U9VY                                                                      CQ CQ OC U9VY                        X4EW              X4EW 5NN NR 475 K        TU U9VY 5NN NR 833 BK
+CQ CQ SA N6BSH                                        CQ CQ SA N6BSH             LS6SI                LS6SI 5NN NR 498                  TU N6BSH 5NN NR 188 E  E  E
+CQ CQ EU S0UR                                                                                                CQ EU S0UR                                                                                                CQ EU S0UR                             L5HE           L5HE 5NN NR 812 K     TU S0UR 5NN NR 894
+CQ EU V9KE                           SW3DM                            SW3DM                            SW3DM                            SW3DM          SW3DM 5NN NR 876 K      TU V9KE 5NN NR 366
+CQ TEST UQ2JPW                                          CQ TEST UQ2JPW                           OF7LD     OF7LD 5NN NR 550     TU UQ2JPW 5NN NR 635
+CQ CQ TEST TY4NNG                   KJ7GQZ                            KJ7GQZ                 KJ7GQZ 5NN NR 070 K              TU TY4NNG 5NN NR 532
+CQ EU JZ3LA             UH3BM           UH3BM 5NN NR 131          TU JZ3LA 5NN NR 890
+CQ AF NL8VAR                       YP2GL     YP2GL 5NN NR 342              TU NL8VAR 5NN NR 111
+CQ NA D2QQ                                                   CQ NA D2QQ                                                   CQ NA D2QQ          GM1RIC               GM1RIC 5NN NR 334 K               TU D2QQ 5NN NR 939
+CQ AF IH1RXE                                                                                 CQ CQ AF IH1RXE                                                                                 CQ AF IH1RXE                        C9RM        C9RM 5NN NR 439     TU IH1RXE 5NN NR 835 BK
+CQ AN J4IOL                         Z9JPP              Z9JPP 5NN NR 122        TU J4IOL 5NN NR 028
+CQ CQ AS W1BP                                                                                              CQ AS W1BP                                                                                              CQ CQ AS W1BP                        BU2HTW                BU2HTW 5NN NR 600 K                 TU W1BP 5NN NR 7VA [DEL] 793
+CQ CQ SA JB3WM                                                                                        CQ CQ SA JB3WM           IS2RR             IS2RR 5NN NR 430       TU JB3WM 5NN NR 025 BK
+CQ CQ EU D4BH                             CQ CQ EU D4BH                             CQ CQ EU D9BH [DEL] D4BH          AC7DW                  AC7DW 5NN NR 009 K              TU D4BH 5NN NR 764
+CQ AS R4USY                              CQ CQ AS R4USY                             K8DS                  K8DS 5NN NR 332 K          TU R4USY 5NN NR 402
+CQ CQ OC UE8WH          LY3QW                    LY3QW 5NN NR 089 K        TU UE8WH 5NN NR 308
+CQ CQ OC ZAQET [DEL] Z1QET                                                                                                    CQ CQ OC Z1QET                 N7DNL        N7DNL 5NN NR 430             TU Z1QET 5NN NR 265
+CQ CQ TEST RK7IDB                                            CQ TEST RK7IDB                  JD8LT     JD8LT 5NN NR 446 K                 TU RK7IDB 5NN NR 962
+CQ OC K0PSJ                          A4FNK     A4FNK 5NN NR 308        TU K0PSJ 5NN NR 339
+CQ CQ DX I7PDF                           B2YK       B2YK 5NN NR 296 K                TU I7PDF 5NN NR 203
+CQ AS EH0HU                     R7DOH      R71OH [DEL] R7DOH 5NN NR 305 K              TU EH0HU 5NN NR 594 E  E  E
+CQ TEST T1YX                       CQ CQ TEST T1YX                            MM1OI       MM1OI 5NN NR 2B0 [DEL] 210 K                    TU T1YX 5NN NR 491
+CQ EU T1NZN                                         CQ CQ EU T1NZN            K0WI                    K0WI 5NN NR 266 K               TU T1NZN 5NN NR 560
+CQ CQ EU H2GJV                                         CQ EU H2GJV                UJ0TT                    UJ0TT          UJ0TT 5NN NR 612              TU H2GJV 5NN NR 795
+CQ AF P3COS                                         CQ AF P3COS                I3ENJ          I3ENJ 5NN NR 758              TU P3COS 5NN NR 026 BK
+CQ CQ AS SB4MJ                                                               CQ CQ AS SB4MJ                        T7LJ          T7LJ 5NN NR 752           TU SB4MJ 5NN NR 823 BK E  E
+CQ CQ DX IK6IW                                              CQ CQ DX IK6IW                                              CQ DX IK6IW           B3OC                   B3OC                   B3OC      B3OC 5NN NR 866 K            TU IK6IW 5NN NR 480
+CQ CQ TEST Z7ON                          LZ8ZU           LZ8ZU 5NN NR 116 K                 TU Z7ON 5NN NR 998
+CQ DX FF2HP                                                                       CQ CQ DX FF2HP               WM1GU                   QRZ?          WM1GU WM1GU                WM1GU 5NN NR 998               TU FF2HP 5NN NR 334
+CQ CQ DX XN6KOG                   LP4SZ                       LP4SZ                       LP4SZ                       LP4SZ                       LP4SZ        LP4SZ 5NN NR 175       TU XN6KOG 5NN NR 288
+CQ DX GP4EDT                            B6AUY           B6AUY 5NN NR 152 K                  TU GP4EDT 5NN NR 110
+CQ OC Y8XBL                                                                                 CQ OC Y8XBL                                                                                 CQ OC Y8XBL                              MG1AY               MG1AY 5NN NR 712           TU Y8XBL 5NN NR 142
+CQ CQ AF LQ6HMT                                                                                            CQ CQ AF LQ6HMT                          FU8OFF            FU8OFF 5NN NR 209           TU LQ6HMT 5NN NR 057 BK
+CQ AS MT4BCT                         CQ CQ AS MT4BCT                         CQ AS MT4BCT                        FC7UAQ                    FC7UAQ                    FC7UAQ                    FC7UAQ                    FC7UAQ       FC7UAQ 5NN NR 878 K             TU MT4BCT 5NN NR 013
+CQ DX U1ZM                                                                                                 CQ CQ DX U1ZM                    B5DV              B5DV 5NN NR 094 K           TU U1ZM 5NN NR 471
+CQ AS AQ0VUW                                                CQ CQ AS AQ0VUW                                                CQ AS AQ0VUW                        N9HRU          N9HRU 5NN NR 469 K     TU AQ0VUW 5NN NR 267
+CQ CQ SA OG4DTX                                                                        CQ CQ SA OG4DTX                                                                        CQ SA OG4DTX                         NM4JZB              NM4JZB              NM4JZB              NM4JZB          NM4JZB 5NN NR 344 K            TU OG4DTX 5NN NR 789
+CQ CQ SA T4EEH                                                        CQ SA T4EEH                      RQ9SN                 RQ9SN             RQ9SN 5NN NR 659                TU T4EEH 5NN NR 422
+CQ CQ AS N1RH                                                                                         CQ CQ AS N1RH                      L9OJD                     L9OJD                     L9OJD                     L9OJD                   LM7JD [DEL] L9OJD 5NN NR 644 K                TU N1RH 5NN NR 982 BK
+CQ CQ AN G6DRT                                               CQ AN G6DRT                                               CQ CQ AN G6DRT                    R5QG            R5QG 5NN NR 339 K        TU G6DRT 5NN NR 324 BK E  E  E
+CQ AN S1LY                                           CQ AN S1LY                              R1IJ                   R1IJ 5NN NR 322       TU S1LY 5NN NR 168
+CQ AN EM7RED                                        CQ CQ AN EM7RED                                        CQ AN EM7RED                B5HGQ                         B5HGQ                         B5HGQ             B5HGQ 5NN NR 053 K            TU EM7RED 5NN NR 342
+CQ DX C7XT                                            CQ DX C7XT                                            CQ DX C7XT                     XW3TW              XW3TW 5NN NR 146 K              TU C7XT 5NN NR 570 BK
+CQ CQ NA DP8ZV                     ME6NF                           ME6NF                           ME6XF [DEL] ME6NF                           ME6NF       ME6NF 5NN NR 279 K      TU DP8ZV 5NN NR 414
+CQ NA MI7EBI          CT9BDW             CT9BDW        CT9BDW 5NN NR 584 K                   TU MI7EBH [DEL] MI7EBI 5NN NR 745
+CQ AF X9NZP           U6FA                   U6FA                   U6FA                   U6FA              U6FA 5NN NR 816 K                 TU X9NZP 5NN NR 433 BK
+CQ DX R1MT                                                         CQ CQ DX R1MT                  SH8RHJ           SH8RHJ           SH8RHJ           SH8RHJ                 SH8RHJ 5NN NR 947              TU R1MT 5NN NR 972
+CQ DX KV9LA                             HQ3UIW        HQ3UIW 5NN NR 739 K     TU KV9LA 5NN NR 228 E  E  E
+CQ CQ DX Z2ZNC                                                                                          CQ CQ DX Z2ZNC                       Z1ZMT      Z1ZMT 5NN NR 070 K                TU Z2ZNC 5NN NR 661
+CQ CQ OC LS3JUK                                                                                                    CQ OC LS3JUK                                                                                                    CQ OC LS3JUK                   WR0YVM                    WR0YVM 5NN NR 777                    TU LS3JUK 5NN NR A84 [DEL] 584
+CQ CQ EU J0ZJ                      OP0BT             OP0BT 5NN NR 750 K           TU J0ZJ 5NN NR 008
+CQ EU SX2TIT                EQ7DWL         EQ7DWL 5NN NR 046              TU SX2TIT 5NN NR 072
+CQ CQ AS NF4FK                                                                                        CQ AS NF4FK                                                                                        CQ AS NF4FK           A4GKK      A4GKK 5NN NR 783 K                 TU NF4FK 5NN NR 162
+CQ CQ AS QZ3AIX                            CQ CQ AS QZ3AIX                            CQ CQ AS QZ3AIX                  RS9CI                    RS9CI 5NN NR 129 K             TU QZ3AIX 5NN NR 862
+CQ CQ SA TT8XDN                                                                              CQ SA TE8XAN [DEL] TT8XDN                             L7BR                L7BR 5NN NR 120 K                   TU TT8XDN 5NN NR 421
+CQ AS PC4ZQ                                CQ CQ AS PC4ZQ                            WP8HN                         WP8HN                  WP8HN 5NN NR 565               TU PC4ZQ 5NN NR 324
+CQ CQ OC J8CZ                     EC6VMQ                  EC6VMQ 5NN NR 287         TU J8CZ 5NN NR 752 E  E
+CQ CQ DX FU3QXW                                CQ CQ DX FU3QXW                                CQ CQ DX FU3QXW                          QY8JGQ                         QY8JGQ                         QY8JGQ                         QY8JGQ          QY8JGQ 5NN NR 262 K         TU FU3QXW 5NN NR 921
+CQ CQ DX A4MZ                                                                  CQ CQ DX A4MZ                             XZ9NNC              XZ9NNC              XZ9NNC          XZ9NNC 5NN NR 836                  TU A4MZ 5NN NR 017
+CQ CQ AN L2WK                                                                    CQ AN L2WK                                                                    CQ CQ AN L2WK                       QX9SM                            QX9SM                            QX9SM                            QX9SM                  QX9SM 5NN NR 666 K                TU LXWL [DEL] L2WK 5NN NR 929
+CQ DX IW4EPQ                                CQ CQ DX IW4EPQ                                CQ DX IW4EPQ                 J8XXE                       J8XXE            J8XXE 5NN NR 717 K                   TU IW4EPQ 5NN NR 319 BK
+CQ CQ DX QJ4BP                                             CQ CQ DX QJ4BP                             WI1IGR            WI1IGR 5NN NR 704 K                    TU QJ4BP 5NN NR 493
+CQ DX C0YE                                                                                     CQ CQ DX C0YE                                                                                     CQ CQ DX C0YE                   OS0JX              OS0JX              OS0JX 5NN NR 266                   TU C0YE 5NN NR 629
+CQ CQ EU RK2LWD                                                                                             CQ EU RK2LWD                                                                                             CQ CQ EU RK2LWD             QM5PSL         QM5PSL 5NN NR 818          TU RK2LWD 5NN NR 545
+CQ CQ NA FC9LL                                                                CQ CQ NA FC9LL                      TD9EZ                 TD9EZ                    TD9EZ 5NN NR 235        TU FC9LL 5NN NR 112
+CQ CQ NA Y8UGL                    FB5NF                 FB5NF 5NN NR 010 K          TU Y8UGL 5NN NR 857
+CQ AF L0VWX                                                                                                    CQ CQ AF L0VWX                              UL1IO                 UL1IO                 UL1IO                 UL1IO 5NN NR 458       TU L0VWX 5NN NR 448
+CQ EU RD6XX                                                        CQ EU RD6XX                                                        CQ EU RD6XX                  MM6NRP                MM6NRP 5NN NR 342      TU RD6XX 5NN NR 969 BK
+CQ DX HB9GO                                                          CQ DX HB9GO                     T1ZN                             T1ZN                             T1ZN                T1ZN 5NN NR 147          TU HB9GO 5NN NR 665 BK
+CQ CQ AN W4SU                    ZT9YOU              ZT9YOU 5NN NR 793          TU W4SU 5NN NR 773
+CQ CQ TEST XT4KAU                              CQ CQ TEST XT4KAU                              CQ CQ TEST XS4KAU [DEL] XT4KAU            RI9ZWF             RI9ZWF 5NN NR 562 K            TU XT4KAU 5NN NR 094
+CQ EU Y1HBX           EC6UA             EC6UA 5NN NR 471 K        TU Y1HBX 5NN NR 624
+CQ AF D8XZI                   A6YNX     A6YNX 5NN NR 692 K                  TU D8XZI 5NN NR 397 BK
+CQ NA H1XI                                    CQ NA H1XI                                    CQ CQ NA H1XI                              NS2G [DEL] N0ZG     N0ZG 5NN NR 362            TU H1XI 5NN NR 303
+CQ AF MN4CGM            AZ8HJ                    AZ8HJ 5NN NR 20T [DEL] 207       TU MN4CGM 5NN NR 937
+CQ AN FF5CG                              CQ AN FF5CG                              CQ AN FFWCG [DEL] FF5CG                         DK6EO                        DK6EO                        DK6EO                        DK6EO                    DK6EO 5NN NR 614                    TU FF5CG 5NN NR 690
+CQ EU WI4DU              K0EY      K0EY 5NN NR 301 K             TU WI4DU 5NN NR 435
+CQ NA NR2UHD                  IP1KY                 IP1KY 5NN NR 332 K        TU NR2UHD 5NN NR 471
+CQ DX R1OLF                  JW6GIE                JW6GIE 5NN NR 078 K          TU R1OLF 5NN NR 940
+CQ AF TZ2DT                     D5AD                    D5AD 5NN NR 098 K        TU TZ2DT 5NN NR 636
+CQ AS XO8JS                                                                                           CQ AS XO8JS                                                                                           CQ AS XO8JS                        NV0LAO                    NV0LAO 5NN NR 285 K       TU XO8JS 5NN NR 309
+CQ TEST Z7QC                                             CQ CQ TEST Z7QC                                             CQ TEST Z7QC                       TU3RN                    TU3RN       TU3RN 5NN NR 339             TU Z7QC 5NN NR 837 BK
+CQ AN M1PY                            EP3LRK                 EP3LRK 5NN NR 814 K             TU M1PY 5NN NR 783
+CQ CQ NA G2QCM                 G9UIS                   G9UIS 5NN NR 569                   TU G2QCM 5NN NR 988
+CQ SA CA3HD                                                                                 CQ SA CA3HY [DEL] CA3HD                                                                                 CQ SA CA3HD                  JN5XAV       JN5XAV 5NN NR 817 K              TU CA3HD 5NN NR 491 BK
+CQ NA O0UY                      IH9DCM                 IH9DCM 5NN NR 760       TU O0UY 5NN NR 468
+CQ EU VG2KLE                                                         CQ CQ EU VG2KLE                          PD6WRV              PD6WRV 5NN NR 766       TU VG2KLE 5NN NR 909
+CQ EU XQ0WYD                                                     CQ CQ EU XQ0WYD                           SQ6KZ           SQ6KZ 5NN NR 840 K                   TU XQ0WYD 5NN NR 421
+CQ TEST N7HP                 H6ZYZ          H6ZYZ 5NN NR 391       TU N7HP 5NN NR 900
+CQ DX J7VN          K8DAQ                    K8DAQ 5NN NR 080 K         TU J7VN 5NN NR 748
+CQ CQ NA J1XQB                                 CQ CQ NA J1XQB                              LZ8DQ             LZ8DQ 5NN NR 941               TU J1XQB 5NN NR 050 BK
+CQ CQ AS LL1XWO                                                                 CQ AS LL1XWO                                                                 CQ CQ AS LL1XWO                     OX2CIO                          OX2CIO                    OX2CIO 5NN NR 316             TU LL1XWO 5NN NR 752
+CQ SA E3VWC                                                                                   CQ CQ SA E3VWC                                                                                   CQ SA E3VWC                            Y7PZ            Y7PZ              Y7PZ 5NN NR 708                 TU E3VWC 5NN NR 031
+CQ CQ NA K5DHV                                             CQ CQ NA K5DHV                         QT0QQ       QT0QQ 5NN NR 428 K                    TU K5DHV 5NN NR 815 BK
+CQ NA XW3UX              M6YC     M6YC 5NN NR 727 K                   TU XW3UX 5NN NR 949
+CQ CQ NA UL6TH                                                                                  CQ CQ NA UL6TH             X2NJ            X2NJ 5NN NR 284               TU UL6TH 5NN NR 498 BK
+CQ CQ SA O6NVT                                        CQ CQ SA O6NVT                                        CQ SA O6NVT          C3ZY                     C3ZY                     C3ZY         C3ZY 5NN NR 720 K            TU O6NVT 5NN NR 185 BK
+CQ DX AS7QTX                   CP1CGZ                          CP1CGZ                          CP1CGZ         CP1CGZ 5NN NR 296 K     TU AS7QTX 5NN NR 396 BK
+CQ AN BR8LV [DEL] BR8LH                           RH8TBF           QRZ?                    RH8TBF               RH8TBF 5NN NR 133 K            TU BR8LH 5NN NR 847
+CQ CQ SA NN3CCU                                        CQ CQ SA NN3CCU                     BN1DB                   BN1DB 5NN NR 294 K                   TU NN3CCU 5NN NR 269
+CQ CQ AF IU6JCM                                         CQ CQ AF IU6JCM                          Z4MP           Z4MP           Z4MP           Z4MP           Z4MP      Z4MP 5NN NR 635 K                TU IU6JCM 5NN NR 062
+CQ CQ AN H3SZ                                                                                               CQ CQ AN H3SZ                                                                                               CQ CQ AN H3SZ                             M9KAP                  M9KAP                  M9KAP                 M9KAP 5NN NR 878 K                   TU H3SZ 5NN NR 819
+CQ AF XR2LB                  F5ZO                      F5ZO     F5ZO 5NN NR 730 K              TU XR2LB 5NN NR 571 BK
+CQ CQ SA Z3VS                       CQ CQ SA Z3VS                       CQ SA Z3VS                              L1HKB         L1HKB 5NN NR 397         TU Z3VS 5NN NR 321
+CQ TEST LB8LHC                                                                                          CQ TEST LB8LHC               MD4ZVC                          MD4ZVC                          MD4ZVC          MD48VC [DEL] MD4ZVC 5NN NR 151              TU LB8LHC 5NN NR 961
+CQ CQ DX E9DJV                     CQ CQ DX E9DJV                     CQ DX E9DJV                     K7LLU           K7LLU 5NN NR 999                    TU E9DJV 5NN NR 962
+CQ SA GC9QY                                                                        CQ CQ SA GC9QY               WX4IXT                    WX4IXT 5NN NR 636 K        TU GC9QY 5NN NR 018
+CQ EU T4LMI                          Y9YC            Y9YC 5NN NR 131 K                   TU T4LMI 5NN NR 819 BK
+CQ CQ AS II5XF                                                                                        CQ CQ AS II5XF                                                                                        CQ CQ AS II5XF                  N4IG               N4IG               N4IG     N4IG 5NN NR 712           TU II5XF 5NN NR 536
+CQ CQ DX W4PP                                                                                             CQ CQ DX W4PP                  SQ7JN       SQ7JN 5NN NR 649                  TU W4PP 5NN NR 272
+CQ CQ EU N7BDG                                                                                     CQ EU N7BDG                                                                                     CQ EU N7BDG                   KE9ZJ       QRZ?                    KE9ZJ KE9ZJ             KE9ZJ 5NN NR 282             TU N7BDG 5NN NR 199 E  E  E
+CQ CQ NA NO8UK                                                                          CQ CQ NA NO8UK                 M0JB               M0JB 5NN NR 331 K       TU NO8UK 5NN NR 643
+CQ DX TT8EYK                   Z9UR                  Z9UR                  Z9UR           Z9UR 5NN NR 095 K         TU TT8EYK 5NN NR 235
+CQ CQ AN KU4RE                JT7RN       JT7RN 5NN NR 254 K              TU KU4RE 5NN NR 080
+CQ CQ DX N7FXU                                      CQ DX N7FXU                    O1TFJ                 O1TFJ 5NN NR 998 K          TU N7FXU 5NN NR 987
+CQ EU YU3HJW               U6VJQ           U6VJQ 5NN NR 038 [DEL] 078       TU YU3HJW 5NN NR 966 BK E  E
+CQ CQ DX RZ7IF               SU0ZW           SU0ZW 5NN NR 510                   TU RZ7IF 5NN NR 371
+CQ CQ OC F1QN                                     CQ OC F1QN                                     CQ OC F1QN                HU3UCJ          HU9CCJ [DEL] HU3UCJ          HU3UCJ              HU3UCJ 5NN NR 624 K                TU F1QN 5NN NR 671
+CQ AF J3LAR                                                    CQ AF J3LAR                                                    CQ CQ AF J3LAR                      UH4VG             UH4VG 5NN NR 387 K      TU J3LAR 5NN NR 595
+CQ CQ EU S6AO                   L4OM                     L4OM                     L4OM     L4OM 5NN NR 664                 TU S6AO 5NN NR 709 BK
+CQ CQ OC V4IN                  TG5VH            TG5VH 5NN NR 698               TU V4IN 5NN NR 218
+CQ AF AJ1YD               LE3II           LE3II                  LE3II 5NN NR 339              TU AJ1YD 5NN NR 792
+CQ CQ AS QK8FJU                                                                            CQ AS QK8FJU                     G0DQI      G0DQI 5NN NR 213 K               TU QK8FJU 5NN NR 036
+CQ CQ TEST IF7AJ                       C2TFR          C2TFR 5NN NR 297                    TU IF7AJ 5NN NR 801
+CQ OC AU5YJ                                                                                     CQ OC AU5YJ                                                                                     CQ OC AU5YJ          Z6VC                    Z6VC 5NN NR 374     TU AU5YJ 5NN NR 586
+CQ SA PH4FC                                                                 CQ SA PH4FC                                                                 CQ CQ SA PH4FC                        SU0QH             SU0QH             SU0QH       SU0QH 5NN NR 744 K               TU PH4FC 5NN NR 292
+CQ CQ OC B1DRR                   XA0JKA               XA0JKA 5NN NR 626            TU B1DRR 5NN NR 281 BK
+CQ CQ OC UF8YY                                                                  CQ CQ OC UF8YY                            X5KL           X5KL 5NN NR 194 K                   TU UF8YY 5NN NR 907
+CQ CQ AS Q7LEN                                                                           CQ AS Q7LEN                        F1WUP                      F1WUP             F1WUP 5NN NR 586                  TU Q7LEN 5NN NR 866 BK
+CQ CQ DX Z1FGY                                                           CQ CQ DX Z1FGY                             S2VS                 S2VS                  S2VS 5NN NR 747 K         TU Z1FGY 5NN NR 139
+CQ TEST J6RP                                         CQ CQ TEST J6RP                         Y4JZ                            Y4JZ                            Y4JZ                            Y4JZ              Y4JZ 5NN NR 494 K        TU J6RP 5NN NR 039
+CQ DX UT7CFX                      CQ CQ DX UT7CFX                       X1XEB            X1XEB 5NN NR 747     TU UT7CFX 5NN NR 888
+CQ CQ AN I6HTG                                                                       CQ AN I6HTG                        VC2ZBH         VC2ZBH 5NN NR 229                 TU I6HTG 5NN NR 519
+CQ CQ TEST X2ZP                                                                                         CQ CQ TEST X2ZP                 D9MQD                D9MQD 5NN NR 923           TU X2ZP 5NN NR 542
+CQ EU WR0TI                 NN6FZK      NN6FZK 5NN NR 205        TU WR0TI 5NN NR 086 E  E
+CQ CQ NA UA8UWL                          NT2RWZ             NT2RWZ 5NN NR 048     TU UA8UWL 5NN NR 589
+CQ CQ SA D5XCT                                                                                                CQ CQ SA D5XCT                                                                                                CQ CQ SA D5XCT                          Q4YJF             Q4YJF 5NN NR 662      TU D5XCT 5NN NR 714
+CQ CQ SA K5QKX                      CQ CQ SA K5QKX           HK9OQC      HK9OQC 5NN NR 324                 TU K5QKX 5NN NR 329
+CQ OC G0YQM                                                                                        CQ CQ OC G0YQM                                                                                        CQ CQ OC G0YQM                           MH9OR                   MH9OR                   MH9OR                   MH9OR                   MH9OR      MH9OR 5NN NR 441                 TU G0YQM 5NN NR 800 BK
+CQ CQ TEST Z3POE          OE9QR          OE9QR 5NN NR 931                    TU Z3POE 5NN NR 182
+CQ CQ TEST A1PVT                                                                CQ TEST A1PVT                            J4MRW                 J4MRW                 J4MRW            J4MRW 5NN NR 021                TU A1PVT 5NN NR 220
+CQ CQ DX ME1YO                                    CQ CQ DX ME1YO                                    CQ DX ME1YO            D1ATG                             D1ATG       D1ATG 5NN NR 940 K          TU ME1YO 5NN NR 902
+CQ DX N8DSK                            A2DI                           A2DI                           A2DI              A2DI 5NN NR 688                TU N8DSK 5NN NR 807 BK
+CQ CQ SA Q1NRG                                            CQ SA Q1NRG                          S7OMM           S7OMM               S7OMM 5NN NR 099            TU Q1NRG 5NN NR 155
+CQ CQ DX ED2QX            U2ZF       U2ZF 5NN NR 748 K              TU ED2QX 5NN NR 958
+CQ AS N1XS [DEL] D5XS                                                                                              CQ CQ AS D5XS                                                                                              CQ CQ AS D5XS           FL2IJI               FL2IJI          FL2IJI 5NN NR 522 K                  TU D5XS 5NN NR 533
+CQ CQ AS WH8FY                                        CQ AS WH8FY                                        CQ CQ AS WH8FY                          Q2HG                Q2HG 5NN NR 669             TU WH8FY 5NN NR 512 E  E  E
+CQ CQ NA Q5DQB                                                                       CQ CQ NA Q5DQB                             TN4NUG          TN4NUG          TN4NUG                TN4NUG 5NN NR 940                   TU Q5DQB 5NN NR 022
+CQ SA OL1ZFW                          CQ CQ SA OL1ZFW                  WP4JLE           WP4JLE 5NN NR 253           TU OL1ZFW 5NN NR 561
+CQ CQ AF Y0AC                         O1DI               O1DI               O1DI               O1DI        O1DI 5NN NR 694 K                TU Y0AC 5NN NR 822
+CQ CQ TEST YP0JVK            XW9JST              XW9JST 5NN NR 104                TU YP0JVK 5NN NR 521
+CQ CQ AS PV0WSJ                                             CQ CQ AS PV0WSJ                MQ7DJP     MQ7DJP 5NN NR 958 K               TU PV0WSJ 5NN NR 360
+CQ AN L7LJ          GE5WOD                        GE5WOD                        GE5WOD                        GE5WOD                 GE5WOD 5NN NR 766 K       TU L7LJ 5NN NR 313
+CQ OC BV3XX                     XN6MR          XN6MR 5NN NR 835                  TU BV3XX 5NN NR 981 BK
+CQ CQ AF BZ4BD                   U4VRM                    U4VRM                    U4VRM        U4VRM 5NN NR 135 K              TU BZ4BD 5NN NR 112
+CQ CQ OC L3HSE          UH4NO              UH4NO              UH4NO              UH4NO 5NN NR 828              TU L3HSE 5NN NR 739 BK
+CQ TEST F7WU             B8KIF            B8KIF            B8KIF            B8KIF            B6KIF [DEL] B8KIF                   B8KIF 5NN NR 466 K      TU F7WU 5NN NR 405
+CQ EU B5HLG              R5WHR           YQWHR [DEL] R5WHR 5NN NR 599 K          TU B5HLG 5NN NR 288 BK
+CQ AS X8CA                                                   CQ CQ AS X8CA                                                   CQ CQ AS X8CA                RZ5WPZ                RZ5WPZ 5NN NR 638     TU X8CA 5NN NR 582
+CQ DX AY8BZF                V8UJ                    QRZ?           V8UJ      V8UJ 5NN NR 817 K                   TU AY8BZF 5NN NR 939 BK
+CQ SA B6JHM                       N4MZE        N4MZE 5NN NR 758      TU B6JHM 5NN NR 132
+CQ NA QV5PSO                                    CQ CQ NA QV5PSO                   B2DSV          B2DSV 5NN NR 466          TU QV5PSO 5NN NR 493
+CQ EU CC6ZRY                                           CQ CQ EU CC6ZRY           VD0AJY                  VD0AJY                VD0AJY 5NN NR 6Q8 [DEL] 642                   TU CC6ZRY 5NN NR 401
+CQ CQ AS WY9GX                                                       CQ CQ AS WY9GX                  N2EW          N2EW 5NN NR 127 K      TU WY9GX 5NN NR 774
+CQ CQ AS P9TIE                                                                                     CQ CQ AS P9TIE                                                                                     CQ AS P9TIE                          YA1MLB           YA1MLB 5NN NR 180 K                  TU P9TIE 5NN NR 328 BK
+CQ CQ OC N8DB          C3VB                           C3VB                 C3VB 5NN NR 017 K      TU N8DB 5NN NR 173
+CQ CQ AS I4EES                                        CQ CQ AS I4EES                                        CQ CQ AS I4EES                    XQ1TI                    XQ1TI 5NN NR 331 K          TU I4EES 5NN NR 059
+CQ OC D3KB                                                                 CQ CQ OC D3KB           XT6LL                 XT6LL 5NN NR 084 K               TU D3KB 5NN NR 745
+CQ OC HZ1GN                 F7BV                        F7BV                 F7BV 5NN NR 199 K           TU HZ1GN 5NN NR 873 BK
+CQ CQ SA D6RI                      J7QW         J7QW 5NN NR 502                    TU D6RI 5NN NR 825
+CQ CQ TEST J0DG                                        CQ CQ TEST J0DG              N0JMA                 N0JMA 5NN NR 405 K                 TU J0DG 5NN NR 735
+CQ SA Y9HGN          X8ERL              X8ERL 5NN NR 287          TU Y9HGN 5NN NR 493 BK
+CQ CQ AS S5EL                                                                                                   CQ CQ AS S5EL                 N0BT        N0BT 5NN NR 123 K      TU XDEL [DEL] S5EL 5NN NR 295 BK
+CQ DX BF2YP                                                                                            CQ CQ DX BF2YP                      E5EIO                 E5EIO 5NN NR 068             TU BF2YP 5NN NR 651 BK
+CQ DX NM0NH           F0AF       QRZ?                    F0AF               F0AF 5NN NR 171 K       TU NM0NH 5NN NR 476 BK
+CQ AS EE0OHB          C3QIC                    C3QIC 5NN NR 843 K             TU EE0OHB 5NN NR 940
+CQ CQ NA HL1CWS                        ZO2JHO                 ZO2JHO 5NN NR 184                    TU HL1CWS 5NN NR 836
+CQ NA WQ6RE                                     CQ NA WQ6RE                         V3AYP              V3AYP 5NN NR 345                   TU WQ6RE 5NN NR 107
+CQ EU KC9MCK                 K3NCT              K3NCT              K3NCT              K3NCT             K3NCT 5NN NR 876        TU KC9MCK 5NN NR 920
+CQ CQ EU M8SU                  W7NY              W7NY 5NN NR 980 K        TU M8SU 5NN NR 202
+CQ CQ AS K5EBX           RN9XFS             RN9XFS 5NN NR 597 K               TU K5EBX 5NN NR 310 BK
+CQ NA F2VW                   RM9BMG         RM9BMG 5NN NR 823                    TU F2VW 5NN NR 640 BK
+CQ CQ DX C9IT                                                               CQ DX C9IT                         UZ2ZM               UZ2ZM 5NN NR 100 K       TU C9IT 5NN NR 518
+CQ CQ SA NH5IP                                           CQ SA NH5IP               TX9BTB                    TX9BTB 5NN NR 389 K         TU NH5IP 5NN NR 334 BK
+CQ DX F8KU                    M6TH                   M6TH                    M6TH 5NN NR 204 K      TU F8KU 5NN NR 188
+CQ CQ AN RY7WQ                                                                                            CQ AN RY7WQ                 EP1PUV           EP1PUV            EP1PUV 5NN NR 042                   TU RY7WQ 5NN NR 740
+CQ AS TR2QBI                         W9MF             W9MF             W9MF        W9MF 5NN NR 921 K                TU TR2QBI 5NN NR 438
+CQ OC PC3OTK                            CQ CQ OC PC3OTK                            CQ CQ OC PC3OTK                     MI2CB                MI2CB 5NN NR 238                TU PC3OTK 5NN NR 070
+CQ SA SP5FO             R9GAA                     R9GAA                     R9GAA                     R9GAA                    R9GAA 5NN NR 092          TU SP5FO 5NN NR 413
+CQ CQ DX Q1WS                                                                                      CQ DX Q1WS              GR5CG         GR5CG 5NN NR 825 K            TU Q1WS 5NN NR 371
+CQ NA J9NY                                     CQ NA J9NY                        Q4YQZ                   Q4YQZ 5NN NR 477 K               TU J9NY 5NN NR 552
+CQ SA KI0PLZ                            VB2BKU                   VB2BKU                   VB2BKU                   VB2BKU                   VB2BKU                   VB2BKU 5NN NR 257                   TU KI0PLZ 5NN NR 203 BK E  E  E
+CQ NA IX3DK                GT0ZG      GT0ZG 5NN NR 691 K               TU IX3DK 5NN NR 233
+CQ AN KQ3DI                                                                                     CQ CQ AN KQ3DI                                                                                     CQ AN KQ3DI              YE0OEF           YE0OEF 5NN NR 153              TU KQ3DI 5NN NR 884
+CQ CQ OC CZ1EP                      XCYWQ [DEL] Q3YWQ       Q3YWQ 5NN NR 693 K                   TU CZ1EP 5NN NR 511
+CQ AS OS6GZ                                                                         CQ CQ AS OS6GZ                                                                         CQ AS OS6GZ                    UU0PR            UU0PR 5NN NR 751               TU OS6GZ 5NN NR 014
+CQ CQ TEST OL0LE                                                                             CQ CQ TEST OL0LE                         I2QBM       I2QBM 5NN NR 775                  TU OL0LE 5NN NR 540
+CQ CQ AF H9NDI                 NH4PC                NH4PC 5NN NR 143       TU H9NDI 5NN NR 808
+CQ CQ EU Y4OK                                                          CQ EU Y4OK                                                          CQ EU Y4OK                 D7RU     D7RU 5NN NR 993 K                 TU Y4OK 5NN NR 484
+CQ NA L7RXE                                  CQ CQ NA L7RXE                        ZJ7RR               ZJ7RR 5NN NR 255            TU L7RXE 5NN NR 103
+CQ AN A9LMF                                              CQ CQ AN A9LMF                                              CQ CQ AN A9LMF                      Q9VD                 Q9VD 5NN NR 005     TU A9LMF 5NN NR 643
+CQ AN G7RUF                  N2KI            N2KI 5NN NR 048                TU G7RUF 5NN NR 313
+CQ CQ AS N3DL                                                                                             CQ CQ AS N3DL               V8JFW       V8JFW 5NN NR 596     TU N3DL 5NN NR 080 BK
+CQ CQ NA AY9PI                  PD1FGD       PD1FGD 5NN NR 826 K               TU AY9PI 5NN NR 981 BK
+CQ NA O1LOP                                                               CQ NA O1LOP                                                               CQ CQ NA O1LOP                        G8LSS       G8LSS 5NN NR 974         TU O1LOP 5NN NR 257
+CQ AF Z0ON                               CQ CQ AF Z0ON                               CQ CQ AF Z0ON                          SI2TA           SI2TA 5NN NR 234 K                   TU Z0ON 5NN NR 074
+CQ TEST B2RWZ                                                                                              CQ TEST B2RWZ                                                                                              CQ CQ TEST B2RWZ                              E8LES                 E8LAS [DEL] E8LES 5NN NR 280          TU B2RWZ 5NN NR 503
+CQ CQ AS M0FE                                                                      CQ CQ AS M0FE                                                                      CQ CQ AS M0FE                           Q7YBT                 Q7YBT 5NN NR 041 K       TU M0FE 5NN NR 609
+CQ CQ OC VE7VUK                                               CQ OC VE7VUK                             W5AL                  W5AL 5NN NR 496 K            TU VE7VUK 5NN NR 624
+CQ CQ AS FJ4GP                     CQ AS FJ4GP                           KB3SZ         KB3SZ 5NN NR 447              TU FJ4GP 5NN NR 457 BK
+CQ CQ AS E2YI                                                                              CQ CQ AS E2YI                                                                              CQ CQ AS E2YI                          V4EQ                        V4EQ                        V4EQ                        V4EQ        V4EQ 5NN NR 498                    TU E2YI 5NN NR 628
+CQ OC WZ4FY                                                                                     CQ OC WZ4FY                        T3YBQ                        T3YBQ                        T3YBQ                 T3YBQ 5NN NR Z60 [DEL] 260 K           TU WZ4FY 5NN NR 368 BK
+CQ CQ AS L6FD                       G1JK         G17K [DEL] G1JK 5NN NR 167 K                  TU L6FD 5NN NR 202
+CQ TEST UG1QJQ                                                                                   CQ TEST UG1QJQ                                                                                   CQ TEST UG1QJQ                          PP1SKT          PP1SKT 5NN NR 349 K               TU UG1QJQ 5NN NR 321
+CQ CQ OC 90KKH [DEL] M0KDH                     CQ CQ OC M0KDH                PQ1MF                PQ1MF            PQ1MF 5NN NR 943 K         TU M0KDH 5NN NR 108
+CQ OC T4UA                                                     CQ OC T4UA                 GU9KI         GU9KI 5NN NR 719             TU T4UA 5NN NR 851
+CQ SA IR0ZD                                                                         CQ SA IR0ZD                       Z9GUV               Z9GUV 5NN NR 855         TU IR0ZD 5NN NR 476
+CQ AF Y4LMA                      QG8KNE                QG8KNE         QG8KNE 5NN NR 974              TU Y4LMA 5NN NR 110
+CQ CQ OC X1SU                                     CQ OC X1SU                           1M9BAR [DEL] GM9BZR     GM9BZR 5NN NR 260 K                 TU X1SU 5NN NR 555 BK
+CQ CQ EU TI4DW               IW1GUA                   IW1GUA 5NN NR 691 K               TU TI4DW 5NN NR 728
+CQ NA YX2BH                                                                                  CQ NA YX2BH                                                                                  CQ NA YX2BH                  CH8TL            CH8TL 5NN NR 869             TU YX2BH 5NN NR 366
+CQ CQ AN OD3VL                    A8TQB                A8TQB 5NN NR 569            TU OD3VL 5NN NR 323
+CQ CQ AN Q1BEY                        LV8ZVF                  LV8ZVX [DEL] LV8ZVF 5NN NR 568                    TU Q1BEY 5NN NR 903
+CQ CQ AS JY1CR                                                  CQ AS JY1CR                     T2RVC                    T2RVC 5NN NR 284 K               TU JY1CR 5NN NR 277
+CQ SA S7MX                                              CQ CQ SA S7MX                        BZ2GUE               BZ2GUE 5NN NR 196 K            TU S7MX 5NN NR 461
+CQ TEST TN2HBG                             AL7IHT                      AL7IHT                    AL7IHT 5NN NR 494           TU TN2HBG 5NN NR 440 BK
+CQ AN Q2SKU                                                                                CQ CQ AN Q2SKU                           Z9UY               Z9UY               Z9UY               Z9UY     Z9UY 5NN NR 915                  TU Q2SKU 5NN NR 548
+CQ CQ DX PN1DB                                                       CQ CQ DX PN1DB                                                       CQ DX PN1DB                 BT7AP     BT7AP 5NN NR 512       TU PN1DB 5NN NR 215
+CQ CQ DX GM1HTF                     CQ DX GM1HTF                     CQ CQ DX GM1HTF                     W3HL              W3HL              W3HL 5NN NR 855 K        TU GM1HTF 5NN NR 340
+CQ TEST R8RUH                            YP4OF        YP4OF 5NN NR 138      TU R8RUH 5NN NR 346
+CQ CQ SA BW1HPI                                         CQ SA BW1HPI                                         CQ SA BW1HPI                       I0SJ            I0SJ            I0SJ            I0SJ               I0SJ 5NN NR 718                   TU BW1HPI 5NN NR 807 BK
+CQ NA FF8DUM                                                   CQ NA FF8DUM          U3SIX                    U3SIX                    U3SIX                    U3SIX               U3SIX 5NN NR 600       TU FF8DUM 5NN NR 763 BK E  E
+CQ CQ NA C5MK                                                                                   CQ NA C5MK                                                                                   CQ NA C5MK          P6GB     P3GU [DEL] P6GB 5NN NR 029 K               TU C5MK 5NN NR 340
+CQ CQ EU OO4JMJ                                                                                    CQ CQ EU OO4JMJ                                                                                    CQ EU OO4JMJ                          U4UM            U4UM 5NN NR 632 K       TU OO4JMJ 5NN NR 316
+CQ SA UP9VAD                                             CQ CQ SA UP9VAD                                             CQ CQ SA UP9VAD           QH7CN              QH7CN 5NN NR 550           TU UP9VAD 5NN NR 910
+CQ CQ NA H4QZ                                                                                       CQ CQ NA H4QZ                                                                                       CQ NA H4QZ                 P3PC              P3PC 5NN NR 732 K           TU H4QZ 5NN NR 010 BK
+CQ CQ SA G5ULT                                                                                    CQ SA G5ULT                                                                                    CQ CQ SA G5ULT             ZA9TGW     ZA9TGW 5NN NR 910        TU G5ULT 5NN NR 956 BK
+CQ CQ EU DA3RPG                              CQ CQ EU DA3RPG               QR3OX            QR3OX 5NN NR 968 K             TU DA3RPG 5NN NR 625 E  E  E
+CQ CQ SA R1DV                         CS7BF          CS7BF 5NN NR 320               TU R1DV 5NN NR 704 BK
+CQ TEST OA1ZI                      LC2HO              LC2HO 5NN NR 682         TU OA1ZI 5NN NR 298
+CQ OC E8CIQ                                 CQ OC E8CIQ                         CK2XOX              CK2XOX 5NN NR 964 K                  TU E8CIQ 5NN NR 032
+CQ EU SY6GC                                                      CQ CQ EU SY6GC           BT9YDQ       BT9YDQ 5NN NR 666                TU SY6GC 5NN NR 839 BK E  E  E
+CQ CQ SA UI3DL                                                           CQ CQ SA UI3DL                                                           CQ SA UI3DL                  R6QA              R6QA 5NN NR 367 K       TU UI3DL 5NN NR 857
+CQ AF U5SFV                                                     CQ CQ AF U5SFV                                                     CQ CQ AF U5SFV            AK7US      AK7US 5NN NR 734       TU U5SFV 5NN NR 210 E  E
+CQ CQ AF Z2ROS                                CQ AF Z2ROS               OW4MJ                          OW4MJ                          OW4MJ                          OW4MJ          OW4MJ 5NN NR 828 K        TU Z2ROS 5NN NR 057 BK
+CQ CQ NA GT1RXG                                                                                                  CQ NA GT1RXG               B1IAD                 B1IAD 5NN NR 972                  TU GT1RXG 5NN NR 377
+CQ CQ OC C7NT                TT2JK        TT2JK 5NN NR P93 [DEL] 623 K         TU C7NT 5NN NR 766
+CQ EU SD0VG                     UA3SMM               UA3SMM 5NN NR 654                   TU SD0VG 5NN NR 165 BK
+CQ AF U5MP                                                                     CQ AF U5MP                                                                     CQ AF U5MP                         O3MWE            O3MWE            O3MWE          O3MWE 5NN NR 987                    TU U5MP 5NN NR 480
+CQ CQ DX H6KJ                                                                             CQ CQ DX H6KJ                                                                             CQ DX H6KJ                Q1UP        Q1UP 5NN NR 533        TU H6KJ 5NN NR 007
+CQ CQ AF PJ2BUR                                                                                     CQ AF PJ2BUR                        Z5LA                  Z5LA 5NN NR 962 K           TU PJ2BUR 5NN NR 241
+CQ CQ TEST AW0YC                                              CQ CQ TEST AW0YC               RG7YIO            RG7YIO            RG7YIO           RG7YIO 5NN NR 044 K                   TU AW0YC 5NN NR 844 BK
+CQ OC WC3HT                          OT8TS          OT8TS 5NN NR 996 K         TU WC3HT 5NN NR 056
+CQ DX P2BZV            A2RCI                    A2RCI 5NN NR 262 K                  TU P2BZV 5NN NR 364
+CQ CQ OC EN6BQP                     CQ CQ OC EN6BQP              JB5BX          JB5BX 5NN NR 030        TU EN6BQP 5NN NR 717 BK
+CQ AS U1DTS                                            CQ CQ AS U1DTS                                            CQ AS U1DTS           AG4LO                       AG4LO                       AG4LO                       AG4LO                       AG4LO                    AG4LO 5NN NR 699               TU U1DTS 5NN NR 043
+CQ TEST REERXA [DEL] RE3RXA          S7CBH       S7CBH 5NN NR 826 K             TU RE3RXX [DEL] RE3RXA 5NN NR 065
+CQ CQ NA CZ1EAT                             IX6FWM                        IX6FWM                        IX6FWM      IX6FWM 5NN NR 667                  TU CZ1EAT 5NN NR 115
+CQ AS J2MM                                                                        CQ CQ AS J2MM                   F0ZZS               F0ZZS 5NN NR 782 K          TU J2MM 5NN NR 782
+CQ CQ OC ES5DQZ                                                                                          CQ OC ES5DQZ                              J8YUN                 J8YUN                 J8YUN                 J8YUN         J8YUN 5NN NR 936          TU ES5DQZ 5NN NR 665
+CQ EU D2CLB                                      CQ EU D2CLB                   D4TJ                  D4T1 5NN NR 121 QRZ D4TJ D4TJ                    D4TJ 5NN NR 121 K                   TU D2CLB 5NN NR 491 [DEL] 091
+CQ EU VV4BO                                   CQ EU VV4BO           K9OUM         K9OUM 5NN NR 439       TU VV4BO 5NN NR 656
+CQ OC PR3EDQ               PY7OV          PY7OV 5NN NR 803 K                    TU PR3EDQ 5NN NR 956
+CQ CQ DX WK1PS                       OQ8EJU          OQ8EJU 5NN NR 303 K           TU WK1P5 [DEL] WK1PS 5NN NR 127
+CQ AN IJ8NV               NK9PO                  NK9PO 5NN NR 609               TU IJ8NV 5NN NR 446 E  E
+CQ NA AO7RCC                   CM5LB                     CM5LB                     CM5LB                   CM5LB 5NN NR 748       TU AO7RCC 5NN NR 060
+CQ EU QB8FIY                                                CQ EU QB8FIY                                                CQ EU QB8FIY                     SG9OIY                SG9OIY 5NN NR 580 K                   TU QB8FIY 5NN NR 745
+CQ CQ OC ZB0KFW                                                                              CQ CQ OC ZB0KFW                                                                              CQ OC ZB0KFW                       D5EIR      D5EIR 5NN NR 021 K                  TU ZB0KFW 5NN NR 762
+CQ CQ AS R2MFR                                                                                            CQ CQ AS R2MFR                                                                                            CQ CQ AS R2MFR           ZS6IGC      ZS6IGC 5NN NR 944                    TU R2MFR 5NN NR 971
+CQ AF N7SH                                                         CQ AF N7SH                                                         CQ CQ AF N7SH                U4EPX        U4EPX 5NN NR 186 K          TU N7SH 5NN NR 261
+CQ AN WZ9HCT                      CW3ID       CW3ID 5NN NR 221              TU WZ9HCT 5NN NR 324
+CQ CQ EU W7CH                                                                         CQ CQ EU W7CH                                                                         CQ CQ EU W7CH                  ZH7NB                   ZH7NB 5NN NR 361               TU W7CH 5NN NR 280 BK
+CQ CQ AN I0CYK                                               CQ AN I0CYK                          OJ3LCD                 OJ3LCD 5NN NR 920            TU I0CYK 5NN NR 131
+CQ NA O2MY                                                                       CQ NA O2MY             V3OD                          V3OD                          V3OD                          V3OD            V3OD 5NN NR 207 K                TU O2MY 5NN NR 416
+CQ AN KP5GUM                                            CQ CQ AN KP5GUM                                            CQ AN KP5GUM                R8WUL                 R8WUL 5NN NR 825             TU KP5GUM 5NN NR 019 BK
+CQ AN LP3FR                                                                                      CQ CQ AN LP3FR                                                                                      CQ CQ AN LP3FR                    V5CT      V5CT 5NN NR I49 [DEL] 441 K                  TU LP3FR 5NN NR 246
+CQ DX T0XS                                                                                         CQ DX T0XS                                                                                         CQ DX T0XS                             Z5WA                  Z5WA 5NN NR 778 K                   TU T0XS 5NN NR 691 BK
+CQ CQ EU N7QKC                                                 CQ EU NKQKC [DEL] N7QKC                      H6LS               H6LS               H6LS               H6LS 5NN NR 175 K               TU N7QKC 5NN NR 416
+CQ OC L8DK                                                                               CQ OC L8DK              V5CW          V5CW 5NN NR 524                  TU L8DK 5NN NR 169
+CQ CQ TEST WC8NFY                          CQ CQ TEST WC8NFY                 D3IDA      D3IDA 5NN NR 095 K               TU WC8NFY 5NN NR 598
+CQ CQ EU X0JKX                       Y3RAE     Y3RAE 5NN NR 407     TU X0JKX 5NN NR 041
+CQ DX MK3MWZ                                                                                               CQ CQ DX MK3MWZ                            I8UYU            I8UYU 5NN NR 984 K                  TU MK3MWZ 5NN NR 351
+CQ CQ SA Y7BX                                                           CQ CQ SA Y7BX              ET8BUU                          ET8BUU                          ET8BUU                          ET8BUU                ET8BUU 5NN NR 463 K          TU Y7BX 5NN NR 040
+CQ SA KZ4TSE                                     CQ CQ SA KZ4TSE                        G2ARE                       G2ARE        G2ARE 5NN NR 362      TU KZ4TSE 5NN NR 601
+CQ AS M0XFA                EF5JT                     EF5JT                     EF5JT                  EF5JT 5NN NR 088     TU M0XFA 5NN NR 803
+CQ CQ OC C5JP                       VE0KXF                        VE0KXF                        VE0KXF                        VE0KXF                        VE0KXF             VE0KXF 5NN NR 504 K             TU C5JP 5NN NR 225 BK
+CQ CQ EU PM0ZA                Y8PZS         Y8PZS 5NN NR 235         TU PM0ZA 5NN NR 970
+CQ DX F4RE           LP5HP              LP5HP 5NN NR 205 K                    TU F4RE 5NN NR 321
+CQ AN O1CT                  I7YG                           I7YG          I7YG 5NN NR 317      TU O1CT 5NN NR 637 BK
+CQ CQ AF K8KSO                          CQ CQ AF K8KSO               TV6AX            BV6A3 5NN NR 871 QRZ TV6AX TV6AX              TV6AX 5NN NR 871                   TU K8KSO 5NN NR 000 BK
+CQ CQ AF BV1CK                                                                                 CQ CQ AF BV1CK                 G3UG          G3UG 5NN NR 856 K           TU BV1CK 5NN NR 222
+CQ OC O7XA                             XB7MBE       XB7MBE 5NN NR 942 K      TU O7XA 5NN NR 454 BK
+CQ CQ AF F8SZJ                                                            CQ CQ AF F8SZJ                                                            CQ AF F8SZJ                         P8KM         P8KM 5NN NR 02D [DEL] 026 K                 TU F8SZJ 5NN NR 010
+CQ NA JL8GO                                                   CQ NA JL8GO           P6BM                 P6BM 5NN NR 003 K                  TU JL8GO 5NN NR 629
+CQ CQ OC T8RO                                  CQ CQ OC T8RO                                  CQ CQ OC T8RO          E5QE                    E5QS 5NN NR 061 QRZ E5QE E5QE          E5QE 5NN NR 061 K       TU T8RO 5NN NR 924
+CQ CQ OC V1PKJ                   Q6IE                  Q6IE 5NN NR 032 K             TU V1PKJ 5NN NR 093
+CQ CQ EU BM9LO                                                                             CQ CQ EU BM9LO                   NJ9LH               NJ9LH               NJ9LH                  VJ9LH [DEL] NJ9LH 5NN NR 348             TU BM9LO 5NN NR 251
+CQ SA I8KI                  RD4KMJ       RD4KMJ 5NN NR 154 K        TU I8KI 5NN NR 421
+CQ CQ DX J6AQ           IE3ZYT               IE3ZYT 5NN NR 351 K                 TU J6AQ 5NN NR 441
+CQ SA A3SMS                                                                             CQ CQ SA A3SMS           W0SG            W0SG 5NN NR 591 K                   TU A3SMS 5NN NR 604 BK
+CQ NA OT7NXW                                                                        CQ CQ NA OT7NXW                                                                        CQ NA OT7NXW             S1RNV              S1RNV 5NN NR 448                    TU OT7NXW 5NN NR 147
+CQ CQ TEST F9CN                                CQ CQ TEST F9CN                        N4CL            N4CL 5NN NR 687 K                   TU F9CN 5NN NR 796 BK
+CQ CQ AS Y9VCA                                                   CQ CQ AS Y9VCA                                                   CQ AS Y9VCA                           F1NB                            F1NB                            F1NB                F1NB 5NN NR 844          TU Y9VCA 5NN NR 117
+CQ EU CB0BZ                                                                                       CQ EU CB0BZ                  DY2ZV       DY2ZV 5NN NR 970                 TU CB0BZ 5NN NR 736 BK
+CQ NA L0AD                                                                     CQ CQ NA L0AD                             N5PS         N5PS 5NN NR 410 K                 TU L0AD 5NN NR 468
+CQ CQ DX EA9DOE                                                   CQ DX EA9DOE                                                   CQ CQ DX EA9DOE                    DD1QNM           DD1QNM           DD1QNM           DD1QNM           DD1QNM         DD1QNM 5NN NR 183                   TU EA9DOE 5NN NR 304
+CQ TEST LB7NBB                      CQ CQ TEST LB7NBB                      CQ CQ TEST LB7NBB                            U6JY          U6JY 5NN NR 941       TU LB7NBB 5NN NR 307 E  E
+CQ CQ EU PM2AKS              XH2FG          XH2FG 5NN NR 643 K         TU PM2AKS 5NN NR 470
+CQ AN F9NXO           VM2YJ          CM4YJ 5NN NR 331 QRZ VM2YJ VM2YJ            VM2YJ 5NN NR 331 K                   TU F9NXO 5NN NR 051
+CQ DX N2CUK                           M7VB         M7VB 5NN NR 457 K       TU N2CUK 5NN NR 679
+CQ TEST IU2JW                        GN8BI                 GN8BI                 GN8BI              GN8BI 5NN NR 061                  TU IU2JW 5NN NR 715
+CQ CQ AN TA1PC                                                                                                   CQ CQ AN TA1PC                          PD3EY        PD3EY 5NN NR 480          TU TA1PC 5NN NR 565
+CQ CQ AN WI9YFY                                                                 CQ AN WI9YFY                                                                 CQ AN WI9YFY          Q6ACY                   Q6ACY                   Q6ACY                   Q6ACY        Q6ACY 5NN NR 041                 TU WI9YFY 5NN NR 910 BK
+CQ CQ AN Q7SSQ                              BT2FY     BT2FY 5NN NR 769 K      TU Q7SSQ 5NN NR 699
+CQ TEST LQ8QTK                                                                 CQ CQ TEST LQ8QTK                                                                 CQ CQ TEST LQ8QTK                          ZK9DA          ZK9DA          ZK9DA                   ZK9DA 5NN NR 322 K     TU LQ8QTK 5NN NR 383
+CQ CQ OC HO9GKA                                                                                                  CQ CQ OC HO9GKA                       L9KB                        L9KB                        L9KB             L9KB 5NN NR 333            TU HO9GKA 5NN NR 838
+CQ CQ AF M6VUJ                                          CQ CQ AF M6VUJ              PE8DN                    PE8DN 5NN NR 317           TU M6VUJ 5NN NR 130
+CQ CQ TEST S10X [DEL] S1IX                                                          CQ CQ TEST S1IX                        T5NHX                  T5NHX 5NN NR 130 K       TU S1IX 5NN NR 534
+CQ NA X5ORH                      N7IOV        QRZ?                    N7IOV                 N7IOV 5NN NR 856 K            TU X5ORH 5NN NR 845
+CQ CQ TEST FP3USK                     HL1AP                HL1AP 5NN NR 701 K       TU FP3USK 5NN NR 676
+CQ AF M8UPZ                         CQ CQ AF M8UPZ                   V1JL                     V1JL                  GHJL [DEL] V1JL 5NN NR 666     TU M8UPZ 5NN NR 017 BK
+CQ CQ EU B0NY                            CQ CQ EU B0NY                            CQ EU B0NY                Z9UYT                           Z9UYT                           Z9UYT                  Z9UYT 5NN NR 119        TU B0NY 5NN NR 049
+CQ CQ AN C8GP                        CQ AN C8GP                        CQ AN C8GP                             N7KYO          N7KYO 5NN NR 817 K                   TU C8GP 5NN NR 356
+CQ AN O6FSD                                                                    CQ CQ AN O6FSD                        E8LGL                E8LGL 5NN NR 383              TU O6FSD 5NN NR 745
+CQ AS YF7LC                    CQ AS YF7LC                      HA9MR             HA9MR 5NN NR 582                 TU YF7LC 5NN NR 647 BK
+CQ OC P0GH                                                                                            CQ CQ OC P0GH              M8IX               M8IX             38IS 5NN NR 465 QRZ M8IX M8IX                 M8IX 5NN NR 465 K     TU P0GH 5NN NR 732
+CQ CQ NA DM4MMM                           M3TOU          M3TOU 5NN NR 921 K                    TU DM4MMM 5NN NR 954
+CQ CQ OC YY6EBB                                                                                                 CQ OC YY6EBB                              ET9EYQ              ET9EYQ 5NN NR 128 K        TU YY6EBB 5NN NR 892
+CQ OC A1XSW                                                                                                    CQ OC A1XSW                       J6UNR                    J6UNR 5NN NR 102        TU A1XSW 5NN NR 336
+CQ CQ OC B3PJX                     Q4YR                  Q4YR 5NN NR 083             TU B3PJX 5NN NR 680
+CQ CQ OC D3WE                                              CQ CQ OC D3WE          XY0GZV     XY0GZV 5NN NR 304      TU D3WE 5NN NR 213
+CQ CQ EU Z7DJG                                               CQ EU Z7DJG          Q4NM                   Q4NM 5NN NR 517        TU Z7DJG 5NN NR 744
+CQ CQ OC KS2XJG                       CQ CQ OC KS2XJG                  JS1COE                  JS1COE                  JS1COE                  JS1COE     JS1COE 5NN NR 816                   TU KS2XJG 5NN NR 029
+CQ CQ AF QK5CG                                                                                                   CQ AF QK5CG            EC7XZE          EC7XZE 5NN NR 550 K                 TU QK5CG 5NN NR 475
+CQ AF XN8LZX                                                                     CQ CQ AF XN8LZX           FZ4DIN           FZ4DIN 5NN NR 249 K       TU XN8LZX 5NN NR 101
+CQ CQ DX EF3SW             R3PE                   R3PE     R3PE 5NN NR 097                 TU EF3SW 5NN NR 386 [DEL] 480
+CQ CQ NA VU9PHK                                                                                         CQ NA VU9PHK                         B8EN                B8EN 5NN NR 405 K          TU VU9PHK 5NN NR 628
+CQ NA RM5KZL                                                                          CQ NA RM5KZL                                                                          CQ NA RM5KZL                           L0LO     L0LO 5NN NR 512       TU RM5KZL 5NN NR 626
+CQ AF QW7AUT                                                                                        CQ CQ AF QW7AUT                                                                                        CQ CQ AF QW7AUT                              SY2SXF                SY2SXF                SY2SXF                SY2SXF                SY27XF [DEL] SY2SXF                 SY2SLY 5NN NR 570 QRZ SY2SXF SY2SXF         SY2SXF 5NN NR 570      TU QW7AUT 5NN NR 932
+CQ CQ AN G1AS                 FX6XQ                   FX6XQ 5NN NR 128 K       TU G1AS 5NN NR 943
+CQ CQ OC IJ5LV                                                                                    CQ CQ OC IJ5NV [DEL] IJ5LV                                                                                    CQ OC IJ5LV             M7NSI        M7NSI 5NN NR 273       TU IJ5LV 5NN NR 031
+CQ TEST O2KF                                                      CQ TEST O2KF                              F0EW                F0EW 5NN NR 474 K                 TU O2KF 5NN NR 446 BK
+CQ CQ AS J5OQN          I6TR           I6TR 5NN NR 235                    TU J5OQN 5NN NR 825
+CQ SA G5RB                                            CQ CQ SA G5RB                          OG8UI                      OG8UI                      OG8UI                    OG8UI 5NN NR 873 K             TU G5RB 5NN NR 481
+CQ CQ EU AL7YUC                KC3YNU                              KC3YNU             KC3YNU 5NN NR 984             TU AL7YUC 5NN NR 486
+CQ CQ SA N4TZX                       O9IMI                           O9IMI                    O9IMI 5NN NR 928 K     TU N4TZX 5NN NR 704 BK
+CQ TEST S1QCJ                           KI7YD                      KI7YD               KI7YD 5NN NR 934 K                    TU S1QCJ 5NN NR 981
+CQ CQ NA N1LF                                                               CQ NA N1LF                                                               CQ CQ NA N1LF           UV2MGO                UV2MGO 5NN NR 122            TU N1LF 5NN NR 753 BK
+CQ CQ AF FG3WUS                                   CQ AF FG3WUS                                   CQ CQ AF FG3WUS             S7XE            S7XE 5NN NR 107 K                TU FG3WUS 5NN NR 087
+CQ CQ NA U5PU                 X3BU                    X3BU 5NN NR 430                TU U5PU 5NN NR 668
+CQ CQ NA RZ1FCW                              CQ NA RZ1FCW                      F8JO           F8JO           F8JO           F8JO         J8JO [DEL] F8JO 5NN NR 580 K                   TU RZ1FCW 5NN NR 052 BK
+CQ OC Z0VG                                               CQ OC Z0VG              MB4EA     MB4EA 5NN NR 617           TU Z0VG 5NN NR 997
+CQ NA HS7NGE                              CQ CQ NA HS7NGE                              CQ CQ NA HS7NGE                            D4DSP             D4DSP 5NN NR 267          TU HS7NGE 5NN NR 074
+CQ CQ AN L8MFD                              CQ AN L8MFD            C71DH [DEL] CW1IH               CW1IH 5NN NR 839     TU L8MFD 5NN NR 153
+CQ AF TR7PIN                     A8VP               F8VN [DEL] A8VP               A8VP               A8VP             QRZ?              A8VP A8VP              A8VP 5NN NR 659         TU TR7PIN 5NN NR 531
+CQ SA AT3VP                          DY3TJC          DY3TJ5 [DEL] DY3TJC 5NN NR 916 K            TU AT3VP 5NN NR 810 BK
+CQ OC OV4RR                        V3VNC [DEL] V3VNF                      V3VNF                      V3VNF                      V3VNF           V3VNF 5NN NR 163               TU OV4RR 5NN NR 643
+CQ SA R0YOB                                                                                     CQ CQ SA R0YOB                              V6DVF                   V6DVF 5NN NR 150 K              TU R0YOB 5NN NR 605
+CQ CQ TEST US3JHL                                 CQ CQ TEST US3JHL                      XX8EF                              XX8EF                 XX8EF 5NN NR 414 K           TU US3JHL 5NN NR 792
+CQ CQ AS BU6KR               WJ7ROM            WJ7ROM 5NN NR 897 K         TU BU6KR 5NN NR 507
+CQ EU XB4XM                                          CQ EU XB4XM                 TJ0YR            TJ0YR 5NN NR 211 K           TU XB4XM 5NN NR 802
+CQ CQ EU EK8OKZ                                     CQ EU EK8OKZ                             T9VZM          T9VZM 5NN NR 633         TU EK8OKZ 5NN NR 980
+CQ CQ OC IL9XR                     IR7COZ         IR7COZ 5NN NR 537       TU IL9XR 5NN NR 846 BK E  E  E
+CQ DX T8SQ                        EN7SE          EN7SE 5NN NR 509                 TU T8SQ 5NN NR 886 BK
+CQ AN FT6QR                                 CQ AN FT6QR                   AR6HY              AR6HY              AR6HY             AR6HY 5NN NR 975            TU FT6QR 5NN NR 209
+CQ CQ AF G0JUR                                                                                                  CQ AF G0JUR                                                                                                  CQ AF G0JUR          MZ9LY         MZ9LY 5NN NR 496          TU G0JUR 5NN NR 277
+CQ OC NB8OF [DEL] NB8OP                                                             CQ CQ OC NB8OP            VZ0NDW               VZ0NDW 5NN NR 689           TU NB8OP 5NN NR 438 BK
+CQ CQ SA KY6DQ                                             CQ SA KY6DQ                   FV7KG          FV7I3 [DEL] FV7KG               FV7KG 5NN NR 915 K         TU KY6DQ 5NN NR 134
+CQ CQ EU CI2LY                                                                                                    CQ EU CI2LY                                                                                                    CQ CQ EU CI2LY               RE9KUJ     RE9KUJ 5NN NR 608                   TU CI2LY 5NN NR 007 BK
+CQ TEST S1WL                                                                                             CQ TEST S1WL              G1PXM                           G1PXM                G1PXM 5NN NR 431         TU S1WL 5NN NR 742
+CQ SA J5NB                                                                                             CQ SA J5NB                                                                                             CQ SA J5NB                 FK6DBG                            FK6DBG          FK6DBG 5NN NR 950 K                    TU J5NB 5NN NR 128 BK
+CQ CQ TEST FT5EV                                  CQ CQ TEST FT5EV                     UB9QT                UB9QT 5NN NR 757 K     TU FT5EV 5NN NR 773
+CQ CQ TEST W5NS                                   CQ TEST W5NS                                   CQ TEST W5NS                            P3TSJ             P3TSJ 5NN NR 088 K        TU W5NS 5NN NR 156
+CQ CQ AS O4MKV                                                                                          CQ CQ AS O4MKV               E2HSP                      E2HSP                      E2HSP                      E2HSP     E2HSP 5NN NR 506 K           TU O4MKV 5NN NR 258
+CQ CQ EU M5YW                                                                   CQ CQ EU M5YW                                                                   CQ EU M5YW              S9MP           S9MP          S9MP 5NN NR 138                 TU M5YW 5NN NR 510 BK
+CQ EU QP5WPM                             CQ EU QP5WPM                          I7QNV       I7QNV 5NN NR 916            TU QP5WPM 5NN NR 409
+CQ CQ DX TN7CLK                                           CQ DX TN7CLK                                           CQ DX TN7CLK                       I3TZ               I3TZ 5NN NR 543             TU TN7CLK 5NN NR 983 [DEL] 983
+CQ CQ EU AN8XCF             Y0XEI            Y0XEI            YFEEI [DEL] Y0XEI            Y0XEI                  Y0XEI 5NN NR 091 K          TU AN8XCF 5NN NR 409 [DEL] 009
+CQ CQ TEST F9ACW            DT0PVQ                       DT0PVQ                   DT0PVQ 5NN NR 090             TU F9ACW 5NN NR 975
+CQ CQ OC MC4ZTV                                                                CQ CQ OC MC4ZTV                                                                CQ OC CC49TV [DEL] MC4ZTV                        UR9QQD               UR9QQD 5NN NR 682 K          TU MC4ZTV 5NN NR 206
+CQ AF V6VDW                                                                                                  CQ AF V6VDW               GQ6LE                 GQ6LE                 GQ6LE          GQ6LE 5NN NR 151 K          TU V6VDW 5NN NR 936 BK
+CQ CQ OC A3IKY                                                                                        CQ OC A3IKY                        KZ0LDL            KZ0LDL 5NN NR 946                  TU A3IKY 5NN NR 553 BK
+CQ AN H9FSV                                                                      CQ CQ AN H9FSV                             G2IH                    G2IH 5NN NR 252 K         TU H9FSV 5NN NR 369 BK
+CQ CQ AN B4IR                                                         CQ AN B4IR                                                         CQ AN B4IR                      Z8GT     Z8GT 5NN NR 856 K                   TU B4IR 5NN NR 26Z [DEL] 266
+CQ AS M1DB            96BT [DEL] G6BT                 G6BT              G6BT 5NN NR 539                    TU M1DB 5NN NR 628 BK
+CQ EU N6ATR                  PN5VE     PN5VE 5NN NR 633                  TU N6ATR 5NN NR 404
+CQ AN V9MM                        YP7XTF                YP7XTF 5NN NR 481 K                 TU V9MM 5NN NR 838
+CQ CQ AS WR2AU                                                                                       CQ CQ AS WR2AU                          I8IO                    I8IO 5NN NR 158 K              TU WR2AU 5NN NR 206
+CQ CQ NA YU9WJ               B4SVB                 B4SVB        B4SVB 5NN NR 442 K                    TU YU9WJ 5NN NR 864
+CQ CQ SA YS5ELN                                                                                               CQ CQ SA YS5ELN                             JO5JCB     JO5JCB 5NN NR 378                  TU YS5ELN 5NN NR 657
+CQ EU I9WMG                                                                   CQ EU I9WMG                                                                   CQ EU I9WMG                    BB9AQS              BB9AQS 5NN NR 105       TU I9WMG 5NN NR 165
+CQ CQ NA AJ2LX            X2KJ         X2KJ 5NN NR 373 K           TU AJ2LX 5NN NR 621 BK
+CQ CQ SA U8WVM                                                    CQ SA U8WVM           DQ6TT          DQ6TT 5NN NR 351        TU U8WVM 5NN NR 796
+CQ CQ AF RN0RQZ                                     CQ AF RN0RQZ                                     CQ AF RN0RQZ                          N3YCV         N3YCV 5NN NR 155 K                TU RN0RQZ 5NN NR 058
+CQ CQ EU C0BI                          Z4GOS                 Z4GOS 5NN NR 635             TU C0BI 5NN NR 313
+CQ CQ TEST M4USQ                                        CQ CQ TEST M4USQ                    QL7TV       QL7TV 5NN NR 939               TU M4USQ 5NN NR 267
+CQ CQ OC A1KI                                                                        CQ CQ OC A1KI           UM3CTA                  UM3CTA 5NN NR 835               TU A1KI 5NN NR 719
+CQ NA R5HA               NP2FU                    NP2FU 5NN NR 988 [DEL] 780           TU R5HA 5NN NR 684 BK
+CQ OC BU0UVT                                       CQ CQ OC BU0UVT                O6YD                   O6YD 5NN NR 517 K             TU BU0UVT 5NN NR 317
+CQ TEST CJ0NZE                        QP4AE               QP4AE 5NN NR 744 K                  TU CJ0NZE 5NN NR 073
+CQ CQ SA SU3EZD               S144CC [DEL] SE4PCC      SE4PCC 5NN NR 285                TU SU3EZD 5NN NR 392
+CQ DX W8YKM                          HV7IUZ          HV7IUZ 5NN NR 579 K        TU W8YKM 5NN NR 777
+CQ CQ AF FU7EMS                                                                      CQ CQ AF FU7EMS             LU5DOK              LU5DOK 5NN NR 018 K                    TU FU7EMS 5NN NR 758 BK E  E  E
+CQ AS M3NIR                                           CQ CQ AS M3NIR              K2IRW           K2IRW           K2IRW                  K2IRW 5NN NR 220 K            TU M3NIR 5NN NR 162
+CQ CQ AS TC1YB                                                  CQ CQ AS TC1YB                                                  CQ CQ AS TC1YB                O7ZQ            O7ZQ 5NN NR 215             TU TC1YB 5NN NR 236
+CQ CQ OC S3HMZ                                                                        CQ CQ OC S3HMZ                           VB4ERQ             VB4ERQ 5NN NR 145     TU S3HMZ 5NN NR 808 BK
+CQ CQ OC ZQ1OF                                             CQ OC ZQ1OF             IK9JSI                   IK9JSI 5NN NR 363          TU ZQ1OF 5NN NR 056
+CQ CQ NA RC6BO                                                            CQ CQ NA RC6BO                    A8PT                 A8PT 5NN NR 415 K         TU RC6BO 5NN NR 827
+CQ DX NF2EZ                     CQ CQ DX NF2EZ                     CQ CQ DX NF2EZ                 F2XU                    F2XU 5NN NR 473 K                  TU NF2EZ 5NN NR 638
+CQ OC MS6GY                       CQ OC MS6GY                 FI1BS               FI1BS 5NN NR 382        TU MS6GY 5NN NR 950 BK
+CQ CQ DX LN4BN                                CQ DX LN4BN                                CQ CQ DX LN4BN          DF4IJA             DF4IJA 5NN NR 121                    TU LN4BN 5NN NR 095
+CQ CQ AF Y3GY                                    CQ CQ AF Y3GY                                    CQ CQ AF Y3GY                              MA2UJQ                         MA2UJQ                         MA2UJQ                         MA2UJQ                    MA2UJQ 5NN NR 206       TU Y3GY 5NN NR 654
+CQ CQ EU G4AG                                                        CQ EU G4AG                           RA4OK              RA4OK 5NN NR 042 K             TU G4AG 5NN NR 045
+CQ OC S1VZD                         WS7PQI       WS7PQI 5NN NR 166      TU S1VZD 5NN NR 189
+CQ AN U1RJ                            C8VD                       C8VD                       C8VD                       C8VD        C8VD 5NN NR 853 K                 TU U1RJ 5NN NR 269
+CQ CQ NA K4ODU                       CQ CQ NA K4ODU                        HA8NJO          HA8NJO 5NN NR 902               TU K4ODU 5NN NR 107
+CQ AF Z2WJR                                                                          CQ CQ AF Z2WJR                                                                          CQ CQ AF Z2WJR               R2KWF           R2KWF 5NN NR 103 K          TU Z2WJR 5NN NR 020
+CQ TEST SH5DUW                                                                               CQ CQ TEST SH5DUW                     ON2AGP          ON2AGP 5NN NR 727 K                 TU SH5DUW 5NN NR 854
+CQ EU F0XPV                                                                     CQ EU F0XPV                           ZF9TYC                  ZF9TYC                  ZF9TYC 5NN NR 124         TU F0XPV 5NN NR 638
+CQ AS TS9PF                         F3UZ      F3UZ 5NN NR 256                    TU TS9PF 5NN NR 976 BK
+CQ AN H1LS                                            CQ CQ AN H1LS                                            CQ AN H1LS                             E9FWE        E9FWE 5NN NR 684          TU H1LS 5NN NR 486
+CQ CQ DX U1AC                                                                                            CQ CQ DX U1AC                                                                                            CQ DX U1AC                     TA4GG            TA4GG 5NN NR 350 K       TU U1AC 5NN NR 321 BK
+CQ CQ OC WC0CEK                           GW4TB               GW4TB               GW4TB                GW4TB 5NN NR 511 K                  TU WC0CEK 5NN NR 937
+CQ AF AJ9ECP                                                                                               CQ AF AJ9ECP                                                                                               CQ AF AJ9ECP                    HA4QTA                    HA4QTA 5NN NR 712        TU AJ9ECP 5NN NR 696
+CQ CQ OC NW6GBF                                  CQ OC NW6GBF                                  CQ CQ OC NW6GBF                          I4AB                         I4AB                         I4AB         I4AB 5NN NR 165 K           TU NW6GBF 5NN NR 460 BK
+CQ AN C4CIF                          M1VJB        M1VJB 5NN NR 511 K             TU C4CIF 5NN NR 607 BK
+CQ TEST VN0OVF                                CQ TEST VN0OVF                                CQ TEST VN0OVF                             H9DDR                    H9DDR 5NN NR 486 K           TU VN0OVF 5NN NR 227 BK
+CQ DX Y4INA                                     CQ CQ DX Y4INA                                     CQ CQ DX Y4INA                  I8XP       I8XP 5NN NR 174          TU Y4INA 5NN NR 007 BK E  E  E
+CQ CQ AS TI2CX                                                                 CQ CQ AS TI2CX                         Y2VXM                 Y2VXM 5NN NR 452 K         TU TI2CX 5NN NR 372
+CQ CQ AN DN8VM          P6YQ           P6YQ 5NN NR 754             TU DN8VM 5NN NR 785 BK
+CQ CQ EU Y1DPK                                                              CQ EU Y1DPK                          U5PT                 U5PT 5NN NR 903 K     TU Y1DPK 5NN NR 575
+CQ OC WC3NP                       P5UD                  P5UD 5NN NR 539                   TU WC3NP 5NN NR 011 E  E  E
+CQ AN MA4RA                                           CQ CQ AN MA4RA                                           CQ AN MA4RA                         R2KAE                             R2KAE                             R2KAE            R2KAE 5NN NR 637              TU MA4RA 5NN NR 145
+CQ TEST K9CAE                                                                 CQ CQ TEST K9CAE                            DU2WOV         DU2WOV 5NN NR 528     TU K9CAE 5NN NR 812 E  E  E
+CQ CQ DX VY2SX               HG2NKC              HG2NKC 5NN NR 545                TU VY2SX 5NN NR 390 BK
+CQ CQ OC AB6LF                                                                     CQ CQ OC AB6LF            HU3VMQ         HU3VMQ 5NN NR 894 K                   TU AB6LF 5NN NR 525 BK
+CQ CQ AN NO2GJZ                    CQ AN NO2GJZ                    CQ CQ AN NO2GJZ                     I6SJN                    I6SJN 5NN NR 087 K            TU NO2GJZ 5NN NR 551
+CQ CQ NA FQ3OD            LH10ZY [DEL] LH1CZY           LH1CZY 5NN NR 899 K          TU FQ3OD 5NN NR 949
+CQ EU NL4UV             RP5ELB                       RP5ELB                   RP5ELB 5NN NR 302 K        TU NL4UV 5NN NR 617
+CQ AN ZN9CG                         CQ AN ZN9CG                         CQ AN ZN9CG                     W0EJ                              W0EJ                              W0EG [DEL] W0EJ                              W0EJ           W0EJ 5NN NR 123                    TU ZN9CG 5NN NR 440 BK
+CQ AN MO7SSI                 RU9UPI                  RU9UPI 5NN NR 233                   TU MO7SSI 5NN NR 544
+CQ EU C9DEV                                        CQ EU C9DEV                                        CQ EU C9DEV          C8QZL     C8QZL 5NN NR 394 K        TU C9DEV 5NN NR 135
+CQ CQ DX ZN1VA                      UI5JD           UI5JD 5NN NR 066 K        TU ZN1VA 5NN NR 892
+CQ OC HS5EVJ                                              CQ CQ OC HS5EVJ                          MZ5WM          MZ5WM 5NN NR 861 K                TU HS5EVJ 5NN NR 365
+CQ TEST GK3KH                                            CQ TEST GK3KH                   O8MM                    O8MM 5NN NR 519 K                   TU GK3KH 5NN NR 288
+CQ AF B1TMB                                                                    CQ CQ AF B1TMB                        WB9MG                              WB9MG         WB9MG 5NN NR 658 K           TU B1TMB 5NN NR 072
+CQ TEST FH2UYN                                                                                          CQ TEST FH2UYN             RM7DAU                  RM7DAU 5NN NR 202       TU FH2UYN 5NN NR 140 BK
+CQ AF U5NQ                 S5SMP          S5SMP          S5SMP          S5SMP     S5SMP 5NN NR 973 K         TU U5NQ 5NN NR 663 BK
+CQ CQ AS FU5ED                                        CQ AS FU5ED                                        CQ CQ AS FU5ED                  R3III        R3III 5NN NR 791 K                  TU FU5ED 5NN NR 719 [DEL] 719
+CQ TEST V3DJ                    E8AHQ              E8AHQ 5NN NR 909                  TU V3DJ 5NN NR 08J [DEL] 389
+CQ EU S6ZZ                                                                                              CQ EU S6ZZ                                                                                              CQ EU S6ZZ             O2UG         O2UG 5NN NR 857 K         TU S6ZZ 5NN NR 735
+CQ CQ DX FE1ED                                                                                                    CQ DX FE1ED                       C5GJ            C5GJ 5NN NR 679      TU FE1ED 5NN NR 684
+CQ CQ OC CY2UL                             Y6PSL       Y6PSL 5NN NR 062        TU CY2UL 5NN NR 833
+CQ TEST U8RCS                       YY3TN                YY3TN                YY3TN                YY3TN            YY3TN 5NN NR 650 K                    TU U8RCS 5NN NR 791
+CQ AN MF3DPE                                                                                                  CQ CQ AN MF3DPE                                                                                                  CQ CQ AN MF3DPE               FE4JSF            FE4JSF            FE4JSF            FE4JSF            FE4JSF                   FE4JSF 5NN NR 558         TU MF3DPE 5NN NR 922
+CQ CQ AS L4YA                 YG1LW                              YG1LW                              YG1LW                              YG1LW                              YG1LW                  YG1LW 5NN NR 545 K              TU L4YA 5NN NR 542
+CQ CQ SA CR4TTN                                                                                        CQ CQ SA CR4TTN                                                                                        CQ CQ SA CR4TTN             AG0DVG             AG0DVG 5NN NR 181               TU CR4TTN 5NN NR 421 BK
+CQ EU J0YLR                                  CQ CQ EU J0YLR              FG9ME            FG9ME 5NN NR 470          TU J0YLR 5NN NR 908 BK
+CQ CQ DX BL0SY                                                                                  CQ CQ DX BL0SY                                                                                  CQ DX BL0SY              B0JMN                   B0JMN 5NN NR 365                 TU BL0SY 5NN NR 348
+CQ CQ OC H6GNJ                                                                                           CQ OC H6GNJ             U1UGH             U1UGH 5NN NR 483      TU H6GNJ 5NN NR 399
+CQ CQ AF O5FRM                                          CQ CQ AF O5FRM                                          CQ AF O5FRM                       W0XPN           QRZ?                  W0XPN W0XPN                  W0XPN 5NN NR 426 K     TU O5FRM 5NN NR 182
+CQ EU D0JT                          CQ CQ EU D0JT                          CQ CQ EU D0JT            O2MA       O2MA 5NN NR 949 K              TU D0JT 5NN NR 506
+CQ AS N1EU                                         CQ AS N1EU                                         CQ AS N1EU                  UK2HN              UK2HN 5NN NR 829 K                  TU N1EU 5NN NR 042 BK
+CQ CQ AS R6WTD                                                          CQ AS R6WTD                             Y8JF             Y8JF 5NN NR 516     TU R6WTD 5NN NR 830
+CQ AS K1UR             X3ZU        X3ZU 5NN NR 201 K          TU K1UR 5NN NR 932 BK
+CQ AF RE5SA                       CQ CQ AF RE5SA              Y0TFE                    Y0TFE 5NN NR 097 K                    TU RE5SA 5NN NR 829 BK
+CQ CQ SA F3CO [DEL] F3CX                          E8CL                E8CL                E8CL                E8CL             E8CL 5NN NR 475                  TU F3CX 5NN NR 364
+CQ CQ NA VT6CIG                             KF1DWB                KF1DWB 5NN NR 527     TU VT6CIG 5NN NR 967 BK
+CQ NA E9SO                                                                              CQ CQ NA E9SO           T0XOC      T0XOC 5NN NR 009 K               TU E9SO 5NN NR 321
+CQ CQ SA P8DL                         VM5VBH          VM5VBH 5NN NR 388         TU P8DL 5NN NR 854
+CQ CQ DX M3YV                                                             CQ DX M3YV                  YN5DER          YN5DER                YN5DER 5NN NR 183               TU M3YV 5NN NR 635
+CQ NA S7XNM                                                                                          CQ NA S7XNM                                                                                          CQ CQ NA S7XNM                      VN4NW                 VN4NW 5NN NR 409 K          TU S0KNM [DEL] S7XNM 5NN NR 093
+CQ CQ AN FP2TSK                        CQ AN FP2TSK                            Z1IUY            Z1IUY            Z1IUY 5NN NR 863     TU FP2TSK 5NN NR 979
+CQ CQ DX Q7NNB                            W6KJW                     W6KJW                 W6KJW 5NN NR 954             TU Q7NNB 5NN NR 536
+CQ CQ NA MD2TPR                                          CQ NA MD2TPR                           W7PKG              W7PKG 5NN NR 398 K            TU MD2TPR 5NN NR 396
+CQ CQ EU C3SP                                                                               CQ CQ EU C3SP                         D3OU        D3OU 5NN NR 486           TU C3SP 5NN NR 565 BK
+CQ AN NM4NY                               CQ AN NM4NY                  QW3EDI                         QW3EDI                         QW3EDI                         QW3EDI                         QW3EDI       QW3EDI 5NN NR 826            TU NM4NY 5NN NR 262
+CQ EU O4LRH                                         CQ CQ EU O4GRH [DEL] O4LRH                     DO9TAX                            DO9TAX          DO9TAX 5NN NR 246        TU O4LRH 5NN NR 341
+CQ CQ AN Z3PQD                                                                        CQ CQ AN Z3PQD                              AV0DSG        AV0DSG 5NN NR 060 K         TU Z3PQD 5NN NR 611
+CQ CQ NA M4AF                             H5FOA           H5FOA 5NN NR 434           TU M4AF 5NN NR 006
+CQ CQ EU O3UX             ND3OA      ND3OA 5NN NR 379 K            TU O3UX 5NN NR 909
+CQ CQ SA H1CXI                                                                     CQ SA H1CXI                                                                     CQ SA H1CXI                              M2IYI                         M2IYI            M2IYI 5NN NR 129       TU H1CXI 5NN NR 196
+CQ CQ DX I5GRY                                                                                        CQ DX I5GRY                                                                                        CQ CQ DX I5GRY                             VS7HNA              VS7HNA 5NN NR 643     TU I5GRY 5NN NR 104
+CQ CQ SA 7N0OYY [DEL] XN0OYY           YK5ZG      YK5ZG 5NN NR 700 K        TU XN0OYY 5NN NR 209
+CQ CQ DX EH4YFA                                                    CQ CQ DX EH4YFA                                                    CQ CQ DX EH4YFA                            H4SE            H4SE 5NN NR J42 [DEL] 942 K               TU EH4YFA 5NN NR 283
+CQ CQ OC N2OI                                    CQ OC N2OI            M1EW                M1EW 5NN NR 151                   TU N2OI 5NN NR 975 E  E  E
+CQ CQ NA TT9AHP                    SK5IN                  SK5IN 5NN NR 708         TU TT9AHP 5NN NR 163
+CQ AF Q0WT                                                                                      CQ CQ AF Q0WT                                                                                      CQ AF Q0WT                         QK3RIG                   QK3RIG                   QK3RIG         QK3RIG 5NN NR 632 K                  TU YAWT [DEL] Q0WT 5NN NR 610 BK
+CQ AF J5QZ                                                   CQ CQ AF J5QZ                 Y6JC             Y6JC 5NN NR 950 K          TU J5QZ 5NN NR 546
+CQ SA B5BZ                   I6PVR               I6PVR               I6PVR      I6PVR 5NN NR 018 K              TU B5BZ 5NN NR 154 BK
+CQ EU R5QF                                                                                       CQ EU R5QF                   E6US                E6US 5NN NR 032              TU R5QF 5NN NR 598 BK
+CQ TEST MU2WRR                           G0WPG           G0WPG           G0WPG     G0WPG 5NN NR 211 K        TU MU2WRR 5NN NR 972
+CQ DX GC3UP                                                                 CQ CQ DX GC3UP                                                                 CQ DX GC3UP                            ER6OV                  ER6OV                   ER6OV 5NN NR 319               TU GC3UP 5NN NR 270 BK
+CQ CQ AF QE2IB                                                                                CQ CQ AF QE2IB                                                                                CQ AF QE2IB               X2JT             X2JT 5NN NR 068                 TU QE2IB 5NN NR 719
+CQ NA B6STO                             CQ CQ NA B6STO                             CQ CQ NA B6STO                 N7WAJ       N7WAJ 5NN NR 790                  TU B6STO 5NN NR 372
+CQ DX VT5DLH               U7PAA           U7PAA 5NN NR 358 K                   TU VT5DLH 5NN NR 261 BK
+CQ CQ EU O6DH                                                                      CQ EU O6DH                            AI2OIO      AI2OIO 5NN NR 727            TU O6DH 5NN NR 650
+CQ CQ AS F3PTD                                                            CQ CQ AS F3PTD                                                            CQ AS F3PTD            QS0PO        QS0PO 5NN NR 086 K        TU F3PTD 5NN NR 681
+CQ NA PH9XOJ                      K4PJ                 K4PJ 5NN NR 310                  TU PH9XOJ 5NN NR 058
+CQ CQ AS KZ2BO                                               CQ AS KZ2BO                                               CQ AS KZ2BO             M0FUU                 M0FUU 5NN NR 236                 TU KZ2BO 5NN NR 514
+CQ CQ TEST D4VT                   R0FVV          R0FVV          D0FVV [DEL] R0FVV                    R0FVV 5NN NR 785            TU D4VT 5NN NR 869
+CQ DX WM2TFM                                                                                    CQ DX WM2TFM                                                                                    CQ DX WM2TFM                   K6KW         K6KW 5NN NR 215 K             TU WM2TFM 5NN NR 076
+CQ AN RJLEA [DEL] RJ0EA             P7WL                  P7WL 5NN NR 776 K                    TU RJ0EA 5NN NR 686 BK
+CQ CQ AN W8IMW                                                                                 CQ CQ AN W8IMW               MA8TF             MA8TF 5NN NR 384          TU W8IMW 5NN NR 465 BK
+CQ CQ NA K0LQ                                      CQ CQ NA K0LQ                            F5EDF             F5EDF 5NN NR 978                    TU K0LQ 5NN NR 265
+CQ CQ EU NP3CHP                                                              CQ EU NP3CHP                                                              CQ EU NP3CHP                      G7DU          G7DU 5NN NR 616 K           TU NP3CHP 5NN NR 941 BK
+CQ CQ OC Z7FR             AX1HPV                 AX1HPV           AX1HPV 5NN NR 057                  TU Z7FR 5NN NR 893
+CQ EU E5DM                                                                          CQ CQ EU E5DM                  Z1BTN                   Z1BTN 5NN NR 327                   TU E5DM 5NN NR 258
+CQ OC L3HVE                                                                             CQ OC L3HVE                                                                             CQ OC L3HVE                   LM9FPX                       LM9FPX                       LM9FPX                       LM9FPX      LM9FPX 5NN NR 951 K             TU L3HVE 5NN NR 786
+CQ NA J6QQ                                                                                          CQ NA J6QQ                      DE4RH                    DE4RH 5NN NR 823                TU J6QQ 5NN NR 910
+CQ EU ES7AFE                                                   CQ CQ EU ES7AFE                                                   CQ CQ EU ES7AFE               D7ZXK                         D7ZXK                D7ZXK 5NN NR 699 K                TU ES7AFE 5NN NR 524
+CQ AS FM5WB [DEL] FM5PB                         MK6NLG                        MK6NLG                        MK6NLG                        MK6NLG         MK6NLG 5NN NR 974 K        TU FM5PB 5NN NR 048
+CQ CQ AS U0UDO                      CQ CQ AS U0UDO                      CQ CQ AS U0UDO               P6GB                       P6GB          P6GB 5NN NR 852 K              TU U0UDO 5NN NR 533
+CQ CQ EU D5WN                                                               CQ EU D5WN                  H8BP                  H8BP 5NN NR 466 K         TU D5WN 5NN NR 378
+CQ CQ TEST JO0CW                                CQ TEST JO0CW                                CQ CQ TEST JO0CW                            USSAC [DEL] U3SAC                U3SAC 5NN NR 057 K       TU JO0CW 5NN NR 548 BK
+CQ CQ OC UR1IYN                         CQ CQ OC UR1IYN                        W9XPR           W9XPR 5NN NR 271 K       TU UR1IYN 5NN NR 701
+CQ OC R3TYO                                         CQ OC R3TYO                                         CQ OC R3TYO                  WH2PJT        WH2PJT 5NN NR 642              TU R3TYO 5NN NR 477 BK
+CQ CQ TEST N0RWR                                                                                       CQ TEST N0RWR                                                                                       CQ TEST N0RWR                         MS2IGR             MS2IGR 5NN NR 101                TU N0RWR 5NN NR 447
+CQ CQ OC DZ6JEY                          6OUJ [DEL] T1UJ            T1UJ 5NN NR 582     TU DZ6JEY 5NN NR 007
+CQ AN NW4NZ                                                    CQ CQ AN NW4NZ                                                    CQ CQ AN NW4NZ                      D8IN                              D8IN                              D8NN [DEL] D8IN           D8IN 5NN NR 399                TU NW4NZ 5NN NR 895
+CQ AS EI5ZD                      UK7OZZ             UK7OZZ 5NN NR 630     TU EI5ZD 5NN NR 014
+CQ TEST T8KVW                     PO4OHW                  PO4OHW 5NN NR 5A1 [DEL] 566 K                    TU T8KVW 5NN NR 152
+CQ CQ SA X4IUP              NY9OBD                 NY9OBD 5NN NR 100                TU X4IUP 5NN NR 212
+CQ CQ DX GA6UR                    Y5XMD         Y5XMD 5NN NR 463 K                 TU GA6UR 5NN NR 768 BK
+CQ CQ TEST FL0NK                                       CQ TEST FL0NK                                       CQ CQ TEST FL0NK                         UI8AO              UI8AO 5NN NR 985 K                 TU FL0NK 5NN NR 530
+CQ CQ TEST U8YM                                  CQ CQ TEST U8YM                                  CQ CQ TEST U8YM               U5TO      U5TO 5NN NR 676              TU U8YM 5NN NR 371
+CQ AS Q2YB                                                                  CQ AS Q2YB                                                                  CQ CQ AS Q2YB                            D8NO                   D8NO 5NN NR 858        TU Q2YB 5NN NR 119 BK
+CQ CQ SA Q0PFB                      M8PD                       M8PD           M8PD 5NN NR 893 K      TU Q0PFB 5NN NR 002
+CQ AS RQ2ML                                                CQ CQ AS RQ2ML                                                CQ CQ AS RQ2ML             DV6QUJ         DV6QUJ 5NN NR 506         TU RQ2ML 5NN NR 506 BK
+CQ CQ EU Q1JW                        HF5UPW                 HF5UPW 5NN NR 909            TU Q1JW 5NN NR 415
+CQ CQ TEST U5HFU                                                                                       CQ TEST U5HFU                                                                                       CQ TEST U5HFU                    U4MP                  U4MP                  U4MP     U4MP 5NN NR 424                  TU U5HFU 5NN NR 590
+CQ OC WT3DYA                                                                 CQ CQ OC WT3DYA                 R0WRC                 R0WRC 5NN NR 821           TU WT3DYA 5NN NR 446
+CQ NA H1AUW                                              CQ CQ NA H1AUW                                              CQ CQ NA H1AUW                    P8EN      P8EN 5NN NR 724 K                  TU H1AUW 5NN NR 025 BK E  E
+CQ CQ AN LA1HRK                                    CQ AN LUGHRK [DEL] LA1HRK                                    CQ CQ AN LA1HRK                X8AGT                   X8AGT 5NN NR 703                TU LA1HRK 5NN NR 030
+CQ EU A1HXT                         CQ EU A1HXT                              K2OYO                     K2OYO                     K2OYO                     K2OYO                  K2OYO 5NN NR 903 K      TU A1HXT 5NN NR 556
+CQ AN FM8VQP                                                                             CQ CQ AN 8M8VMP [DEL] FM8VQP               A5ZOV                A5ZOV 5NN NR 511       TU FM8VQP 5NN NR 368
+CQ OC R5XK                                                                                                    CQ OC R5XK                                                                                                    CQ CQ OC R5XK                   T3KF        T3KF 5NN NR 576     TU R5XK 5NN NR 257
+CQ AN HH0FT                                       CQ AN HH0FT                                       CQ AN HH0FT              QG2KRI            QG2KRI                   QG2KRI 5NN NR 537 K      TU HH0FT 5NN NR 545
+CQ AN XS9NC                                                                                            CQ AN XS9NC                                                                                            CQ AN XS9NC                       OC9VJ           OC9VJ     OC9VJ 5NN NR 630               TU XS9NC 5NN NR 727
+CQ CQ AN NY0EW                                                                               CQ AN NY0EW                            IH3KPB             IH3KPB 5NN NR 726 K                 TU NY0EW 5NN NR 022
+CQ AN U7TOT                                                          CQ CQ AN U7TOT           KW7VJP                   KU7VJP [DEL] KW7VJP 5NN NR 645                 TU U7TOT 5NN NR 772
+CQ NA Q8EV                                                                      CQ NA Q8EV                             H3YV        H3YV 5NN NR 216 K           TU Q8EV 5NN NR 921
+CQ CQ NA B2AG                                                      CQ CQ NA B2AG                    PE8ZS               PE8ZS               PE8ZS 5NN NR 606 K                 TU B2AG 5NN NR 120
+CQ DX YH0OSI                                                                                        CQ DX YH0OSI                                                                                        CQ CQ DX YH0OSI            FJ7UK              FJ7UK 5NN NR 144 K                   TU YH0OSI 5NN NR 622
+CQ CQ TEST SH7NCJ                                                                                       CQ CQ TEST SH7NCJ                                                                                       CQ CQ TEST SH7NCJ                     CC6GT             CC6GT 5NN NR 090           TU SH7NCJ 5NN NR 598
+CQ CQ AN M4LN                    ZB1YQ      ZB1YQ 5NN NR 286 K     TU M4LN 5NN NR 418
+CQ CQ AF K2XE                                                                                         CQ CQ AF K2XE                            QS2HY                        QS2HY               QS2HY 5NN NR 872         TU K2XE 5NN NR 531
+CQ CQ AN N6TAR                                                          CQ AN N6TAR                                                          CQ AN N6TAR                              H1POF     H1POF 5NN NR 487 K                TU N6TAR 5NN NR 396 E  E  E
+CQ AN X3OQF                          R5KRD                  R5KRD 5NN NR 433 K        TU X3OQF 5NN NR 183
+CQ NA HH8WTG                                        CQ CQ NA HH8WTG                                        CQ NA HH8WTG                      RD0FTT              RD0FTT 5NN NR 977           TU HH8WTG 5NN NR 373 BK
+CQ CQ DX T0OZ                     YT6IJ               YT6IJ        YT6IJ 5NN NR 338                 TU T0OZ 5NN NR 482
+CQ CQ OC WD4GLO                                                                                               CQ CQ OC WD4GLO                   O5SPJ                     O5SPJ        O5SPJ 5NN NR 919 K             TU WD4GLO 5NN NR 251 BK
+CQ AN IT3VXA                        JG6DB                  JG6DB 5NN NR 109 K               TU IT3VXA 5NN NR 328
+CQ CQ NA KG4SLV           A4JZ           A4JZ 5NN NR 314 K         TU KG4SLV 5NN NR 182
+CQ NA W9GJ                                                               CQ CQ NA W9GJ                          Y9ZR              Y9ZR 5NN NR 007      TU W9GJ 5NN NR 469
+CQ CQ DX F5WY                                                                                   CQ CQ DX F5WY                                                                                   CQ DX F5WY               DV9DC            DV9DC 5NN NR 417 K       TU F5WY 5NN NR 978
+CQ AF LL3YNH                       S1JE             S1JE 5NN NR 731            TU LL3YNH 5NN NR 616 BK
+CQ EU DG6LME                              CQ EU DG6LME                              CQ EU DG6LME               H4GJN                    H4GJN 5NN NR 661                    TU DG6LME 5NN NR 705
+CQ CQ SA I6YPH                             Y4WX              Y4WX              Y4WX             QRZ?                 Y4WX Y4WX       Y4WX 5NN NR 271               TU I6YPH 5NN NR 449
+CQ NA E1JL                    CQ NA E1JL                    CQ CQ NA E1JL                      E2HV                   E2HV 5NN NR 763 K            TU E1JL 5NN NR 943
+CQ TEST U1SJG                           F5DNK                           F5DNK       F5DNK 5NN NR 061 K             TU U1SJG 5NN NR 182
+CQ OC F3MO          YP7UPM            YP7UPM 5NN NR 356 K           TU F3MO 5NN NR 692
+CQ CQ DX NX9DNY                                                                                CQ CQ DX NCQDNY [DEL] NX9DNY                        RF7RBC                            RF7RBC                            RF7RBC                RF7RBC 5NN NR 455     TU NX9DNY 5NN NR 111
+CQ CQ SA TF4IP                                                                       CQ CQ SA TF4IP                                                                       CQ SA TF4IP             RF0BOR                    RF0BOR                    RF0BOR                    RF0BOR                    RF0BOR                   RF0BOR 5NN NR 528 K       TU TF4IP 5NN NR 286 E  E  E
+CQ SA JJ6JO                                                                                             CQ SA JJ6JO                                                                                             CQ CQ SA JJ6JO                          OX9BQ                              OX9BQ                              OX9BQ                              OX9BQ                   OX9BQ 5NN NR 262                 TU JJ6JO 5NN NR 812
+CQ AF EC2UJO                                                                                      CQ CQ AF EC2UJO                   F9OEU                F9OEU 5NN NR 464             TU EC2UJO 5NN NR 573
+CQ CQ DX A9OMW                         WF1PP      WF1PP 5NN NR 321       TU A9OMW 5NN NR 591
+CQ SA TN4GK                                   CQ SA TN4GK                            C0NH                   C0NH 5NN NR 156                   TU TN4GK 5NN NR 558
+CQ NA H5LV                       MR7NG        MR7NG 5NN NR 130                 TU H5LV 5NN NR 417 BK
+CQ CQ NA H5OZ                                                                       CQ NA H5OZ                                                                       CQ NA H5OZ                  NE8AXX           NE8AXX            NE8AXX 5NN NR 159                    TU H5OZ 5NN NR 136
+CQ AS NJ6NX                                                                         CQ CQ AS NJ6NX                     E3KI                             E3KI                             E3KI                             E3KI      E3KI 5NN NR 458 K              TU NJ6NX 5NN NR 976
+CQ CQ AS S6MK                                                                                      CQ AS S6MK                                                                                      CQ CQ AS S6MK                    BK5NYB            BK5NYB 5NN NR 546                 TU S6MK 5NN NR 365
+CQ AS PA4QQ                           U38PV [DEL] U3TWV           U3TWV           U3TWV            U3TWV 5NN NR 467 K                TU PA4QQ 5NN NR 771
+CQ CQ NA B5SWF            K4DZC                   K4DZC 5NN NR 866             TU B5SWF 5NN NR 248
+CQ NA CA5NV                                                                           CQ CQ NA CA5NV                                                                           CQ CQ NA CA5NV                    VH7TPT                         VH7TPT                         VH7TPT                         VH7TPT     VH7TPT 5NN NR 897          TU CA5NV 5NN NR 723
+CQ AS JJ5MF                                                             CQ CQ AS JJ5MF                      C5TQP                        C5TQP                        C5TQP            C5TQP 5NN NR 606                  TU JJ5MF 5NN NR 801
+CQ CQ DX AX1WKE                                                        CQ DX AX1WKE                            N8SE                N8SE                N8SE         N8SE 5NN NR 595            TU AX1WKE 5NN NR 896
+CQ CQ SA MK2EP                                                                         CQ SA MK2EP                 IM1EMA            IM1EMA            IM1EMA            ISLEMA [DEL] IM1EMA          IM1EMA 5NN NR 196          TU MK2EP 5NN NR 439
+CQ CQ EU U2KJA                    UE8ZVU                  UE8ZVU                   UE8ZVU 5NN NR 938                 TU U2KJA 5NN NR 241
+CQ CQ TEST LZ4BAA                                                                                           CQ TEST LZ4BAA                JU9HTM                            JU9HTM          JU9HTM 5NN NR 556       TU LZ4BAA 5NN NR 255
+CQ DX JI3QBG                                                                                              CQ DX JI3QBG                                                                                              CQ CQ DX JI3QBG                          R8LSN                            R8LSN                            R8LSN                            R8LSN             R5L4N 5NN NR 233 QRZ R8LSN R8LSN       R8LSN 5NN NR 233 K              TU JI3QBG 5NN NR 735
+CQ CQ NA ET7UCE                   U7BF          U7BF 5NN NR 082 K             TU ET7UCE 5NN NR 162 BK
+CQ CQ AF Q3BK                                                                                   CQ CQ AF Q3BK                                                                                   CQ AF Q3BK               IN9YK         IN9YK 5NN NR 766                  TU Q3BK 5NN NR 116
+CQ CQ TEST J7EJE                                                                                      CQ TEST J7EJE                                                                                      CQ TEST J7EJE            SU4FU     SU4FU 5NN NR 831                   TU J7EJE 5NN NR 265
+CQ AS D9RFU                                                                                               CQ CQ AS D9RFU                             X8CNP            X8CNP            X8CNP 5NN NR 113                TU D9RFU 5NN NR 854
+CQ CQ AN H3SDK                                                                         CQ AN H3SDK               GI9QY                   GI9QY            GI9QY 5NN NR 891 K                   TU H9SDK [DEL] H3SDK 5NN NR 681
+CQ CQ AF YE3PV                                                                                      CQ CQ AF YE3PV             G6FFZ                         G6FFZ                         G6FFZ                         G6FFZ      G6FFZ 5NN NR 015 K             TU YE3PV 5NN NR 679
+CQ CQ DX S5PJ                           EV6ESH       EV6ESH 5NN NR 108                 TU S5PJ 5NN NR 344 BK E  E
+CQ EU T8WU                                                                        CQ CQ EU T8WU                                                                        CQ CQ EU T8WU               M4BEU              M4BEU 5NN NR 171     TU T8WU 5NN NR 648
+CQ CQ AN DC2CI                                                   CQ CQ AN DC2CI                                                   CQ AN DC2CI                            XT5BO       XT5BO 5NN NR 248             TU DC2CI 5NN NR 420
+CQ EU N2FZ                                                                                     CQ CQ EU N2FZ                        JV4JRR             JV4JRR 5NN NR 828 K       TU N2FZ 5NN NR 308 E  E  E
+CQ EU BD5JBG                        OI3FMA               ZI3FMQ 5NN NR 585 QRZ OI3FMA OI3FMA                   OI3FMA 5NN NR 585 K               TU BD5JBG 5NN NR 653 BK
+CQ CQ NA V7GTB                                                         CQ CQ NA V7GTB                                                         CQ CQ NA V7GTB                        Z4CJ          Z4CJ 5NN NR 593 K                    TU V7GTB 5NN NR 650
+CQ SA UW3PTM                                                                                                 CQ SA UW3PTM                                                                                                 CQ SA UW3PTM                          LH2JE                    LH2JE 5NN NR 681             TU UW3PTM 5NN NR 997 BK
+CQ AN B9CCZ                                                      CQ AN B9CCZ            PI4QAR                   PI4QAR                  PI4QAR 5NN NR 981 K               TU B9CCZ 5NN NR 934 BK
+CQ NA Y4MW                      CQ CQ NA Y4MW                      CQ CQ NA Y4MW              H4TID      HHTID [DEL] H4TID 5NN NR 676 K                  TU Y4MW 5NN NR 884
+CQ CQ AN F2XYE                       F5XQ          F5XQ          F5XQ        F5XQ 5NN NR 758      TU F2XYE 5NN NR 633
+CQ CQ OC R9MTP                        CQ OC R9MTP                        CQ CQ OC R9MTP                              PL7PPN           PL7PPN 5NN NR 119 K              TU R9MTP 5NN NR 970
+CQ CQ NA Q6VSE                                                                 CQ NA Q6VSE                                                                 CQ CQ NA Q6VSE                     EL6XUW                          EL6XUW                          EL6XUW                  EL6XUW 5NN NR 183 K                  TU Q6VSE 5NN NR 635
+CQ EU O6TT                           I3SDX                    I3SDX 5NN NR 569 K                 TU O6TT 5NN NR 490
+CQ CQ AN MK5VS              AZ0MW             AZ0MW 5NN NR 083 K         TU MK5VS 5NN NR 217 BK
+CQ CQ OC S0QBI                                              CQ CQ OC S0QBI                 A2AWY                             A2AWY          A2AWY 5NN NR 856 K                    TU S0QBI 5NN NR 375
+CQ AN T6BR                      S8GHG                             S8GHG      S8GHG 5NN NR 859 K                TU T6BR 5NN NR 741
+CQ CQ DX Y1FWW                                                                    CQ CQ DX Y1FWW                                                                    CQ CQ DX Y1FWW                     W0BE                W0BE 5NN NR 219                   TU Y1FWW 5NN NR 867
+CQ AF R5SP            N0GRU                        N0GRU               N0GRU 5NN NR 721 K         TU R5SP 5NN NR 673
+CQ TEST ZP3BFT                        CQ TEST ZP3BFT                       JX1WJW                  JX1WJW 5NN NR 287                  TU ZP3BFT 5NN NR 520
+CQ CQ TEST U4MM                           ZF1LJ                        ZF1LJ                        ZF1LJ                        ZF1LJ        ZF1LJ 5NN NR 679            TU U4MM 5NN NR 233
+CQ AF O0FBS                                      CQ AF O0FBS                                      CQ AF O0FBS                       NA6PTJ     NA6PTJ 5NN NR 766 K      TU O0FBS 5NN NR 114
+CQ OC U1CF                                                             CQ CQ OC U1CF                       NP6QG             NP6QG 5NN NR 799 K       TU U1CF 5NN NR 081 BK
+CQ TEST JY9JW                                                                     CQ TEST JY9JW                                                                     CQ TEST JY9JW              D7LWV                  D7LWV 5NN NR 665         TU JY9JW 5NN NR 035
+CQ CQ AN OR3FUU                                                 CQ AN OR3FUU                    PY0CYM                 PY0CYM      PY0CYM 5NN NR 897 K              TU OR3FUU 5NN NR 180
+CQ NA G9SU              E2BUI                E2BUI 5NN NR 458      TU G9SU 5NN NR 414
+CQ CQ NA ID1HT                                                          CQ CQ NA ID1HT                  VO1STZ                 VO1STZ 5NN NR 566         TU ID1HT 5NN NR 716 BK
+CQ EU Q0TW              Q0DHO                        Q0DHO                        Q0DHO                 Q0DHO 5NN NR 852              TU Q0TW 5NN NR 028
+CQ CQ AF B8SZ                    CQ AF B8SZ                    CQ CQ AF B8SZ            KP4DVP            KP4DVP 5NN NR 040                  TU B8SZ 5NN NR 732
+CQ CQ TEST GP2AK                                                                           CQ CQ TEST GP2AK                                                                           CQ CQ TEST GP2AK                          XH1VPX           XH1VPX 5NN NR 431 K                   TU GP2AK 5NN NR 817
+CQ AN QL1XR                                                                                        CQ CQ AN QL1XR                             H0NU            H0NU 5NN NR 103 K        TU QL1XR 5NN NR 901 BK
+CQ EU T0MB                                     CQ CQ EU T0MB                          BY4HDW       BY4HDW 5NN NR 720 K              TU T0MB 5NN NR 143
+CQ CQ EU OA0JMF                           CQ EU EA0JMF [DEL] OA0JMF                             X6BH                              X6BH           QRZ?               X6BH X6BH         X6BH 5NN NR 257                 TU OA0JMF 5NN NR 003
+CQ CQ AS J6EWR                   RZ7WEG                   RZ7WEG                   RZ7WEG                  RZ7WEG 5NN NR 1SO [DEL] 137 K          TU J6EWR 5NN NR 757
+CQ CQ AN NZ4NG                                                                         CQ AN NZ4NG                                                                         CQ AN NZ4NG                     WS5EJ                      WS5EJ                      WS5PF [DEL] WS5EJ                      WS5EJ            WS5EJ 5NN NR 948                    TU NZ4NG 5NN NR 724
+CQ AN U7QEL                                                                                      CQ AN U7QEL                       CL5WH                    CL5WH 5NN NR 775 K        TU U7QEL 5NN NR 871
+CQ CQ NA H5CDT                                            CQ CQ NA H5CDT                                            CQ CQ NA H5CDT                 M7XRG       MUFRG [DEL] M7XRG 5NN NR 223 K             TU H5CDT 5NN NR 229
+CQ EU AC7UV                                                                                CQ EU AC7UV                                                                                CQ EU AC7UV                             MC5RUQ               MC5RUQ 5NN NR 565      TU AC7UV 5NN NR 679
+CQ SA SK4XH           RY2XDJ             RY2XDJ 5NN NR 215 K        TU SK4XH 5NN NR 722
+CQ CQ SA Q3RPA                        P7IC                  P7IC                  P7IC                 P7IC 5NN NR 123                   TU Q3RPA 5NN NR 028 E  E
+CQ DX JP8SSS                                                           CQ CQ DX JP8SSS              XZ2EAF         XZ2EAF 5NN NR 303                TU JP8SSS 5NN NR 751
+CQ CQ SA L6EN                                        CQ SA L6EN                     P2EQD      P2EQD 5NN NR 429           TU L6EN 5NN NR 027
+CQ AN E0EKX                                                                              CQ CQ AN E0EKX                        SY1OM              SY1OM              SY1OM              SY1OM      SY1OM 5NN NR 850                   TU E0EKX 5NN NR 855
+CQ NA OI0MGV                                CQ CQ NA OI0MGV                              EP5LQ                  EP5LQ 5NN NR 648                  TU OI0MGV 5NN NR 381 BK
+CQ AN YA2JN                                                        CQ AN YA2JN                      A0SIB                        A0SIB                        A0SIB           A0SIB 5NN NR 434 K                    TU YA2JN 5NN NR 46U [DEL] 461
+CQ CQ SA Q1UCW                   OV1NR                           OV1NR           OV1NR 5NN NR 331 K         TU Q1UCW 5NN NR 050 BK
+CQ CQ SA FS3GX                        CQ SA FS3GX                        CQ CQ SA FS3GX            E3ZPK              E3ZPK 5NN NR 389 K             TU FS3GX 5NN NR 477
+CQ CQ EU QF4CZ                                                                                    CQ CQ EU QF4CZ                                                                                    CQ EU QF4CZ                            TJ8EDT                              TJ8EDT                              TJ8EDT                              TJ8EDT            TJ8EDT 5NN NR 481                TU QF4CZ 5NN NR 690
+CQ AS Q0SI                                           CQ AS Q0SI                                           CQ AS Q0SI                          M7WW                M7WW 5NN NR 875 K                  TU Q0SI 5NN NR 658 E  E
+CQ AS L6PHD                   J1VX                     J1VX                     J1VX      QRZ?              J1VX J1VX                  J1VX 5NN NR 597                   TU L6PHD 5NN NR 689
+CQ CQ AF F2FR                                       CQ AF F2FR                                       CQ AF F2FR              W5OW             W5OW 5NN NR 253                  TU F2FR 5NN NR 672
+CQ OC BS7UE                         FS4HMH              FS4HMH 5NN NR 524      TU BS7UE 5NN NR 863
+CQ OC NB1WKR                                                                                               CQ CQ OC NB1WKR                                                                                               CQ OC NB1WKR                              LG4DO            LG4DO 5NN NR 767                 TU NB1WKR 5NN NR 158
+CQ CQ SA NJ6RCI                                                       CQ SA NJ6RCI             E0IMH             E0IMH 5NN NR 416 K        TU NJ6RCI 5NN NR 639
+CQ CQ SA O5EW                                         CQ SA O5EW                              XO8BS                             XO8BS                  XO8BS 5NN NR 954           TU O5EW 5NN NR 367
+CQ CQ AN Z7XUF                                                             CQ CQ AN Z7XUF                 D0WZ      D0WZ 5NN NR 325         TU Z7XUF 5NN NR 771
+CQ CQ AS UC6NRI                                                       CQ CQ AS UC6NRI                        GR0CAZ              GR0CAZ 5NN NR 413 K         TU UC6NRI 5NN NR 624
+CQ OC PV6PG                                                CQ CQ OC PV6PG                                                CQ CQ OC PV6PG                            T9ZM                    T9ZM 5NN NR 604                TU PV6PG 5NN NR 246
+CQ CQ TEST W6JT                   L9SS             L9SS 5NN NR 809        TU W6JT 5NN NR 441 BK
+CQ EU C1K2Q [DEL] C1KZQ                    OI7EAH     OI7EAH 5NN NR 800 K                 TU C1KZQ 5NN NR 870 [DEL] 870 BK
+CQ NA CE1CXC                          CQ CQ NA CE1CXC                   CK0UG             CK0UG             CK0UG         CK0UG 5NN NR 288 K                TU CE1CXC 5NN NR 502
+CQ AN Z5CCA                         C8BK                 C8BK 5NN NR 848 K                  TU Z5CCA 5NN NR 506
+CQ CQ OC XQ7ZED                                                        CQ OC XQ7ZED                                                        CQ CQ OC XQ7ZED                     LZ7HP           LZ7HP 5NN NR 255         TU XQ7ZED 5NN NR 048
+CQ CQ DX S1AJJ                          CQ DX S1AJJ            QM9PFE        QM9PFE 5NN NR 569               TU S1AJJ 5NN NR 595
+CQ AS P0BWM                      J6ECV                             J6ECV                             J6ECV                             J6ECV          J6ECV 5NN NR 915 K     TU P0BWM 5NN NR 974
+CQ AF U1TEK                                             CQ CQ AF U1TEK                                             CQ AF U1TEK                          T7YHY                          T7YHY                          T7YHY                          T7YHY             T7YHY 5NN NR 138             TU U1TEK 5NN NR 978 BK
+CQ CQ AF A9MM                                                                   CQ CQ AF A9MM                                                                   CQ CQ AF A9MM                   V1QX                  V1QX 5NN NR 886 K                    TU A9MM 5NN NR 966
+CQ CQ NA Q1MVE                                        CQ NA Q1MVE                                        CQ CQ NA Q1MVE             K1VGD                      K7VGD [DEL] K1VGD                      K1VGD                      K1VGD     K1VGD 5NN NR 5A8 [DEL] 528       TU Q1MVE 5NN NR 445
+CQ TEST B0FR                                                                            CQ CQ TEST B0FR                                                                            CQ CQ TEST B0FR           V0RUI                         V0RUI                  V0RUI 5NN NR 586 K      TU B0FR 5NN NR 991
+CQ CQ AN EA5UJ                                      CQ AN EA5UJ                                      CQ AN EA5UJ          A8PP     A8PP 5NN NR 587                TU EA5UJ 5NN NR 724
+CQ AS F7RD                  UO7SR              UO7SR 5NN NR 836 K        TU F7RD 5NN NR 225
+CQ SA EA2SV                                      CQ SA EA2SV                                      CQ SA EA2SV             M3ZQ                             M3ZQ                             M3ZQ               M3ZQ 5NN NR 755                    TU EA2SV 5NN NR 553
+CQ DX Q3ZJ                               CQ CQ DX Q3ZJ                               CQ DX Q3ZJ           G3MMG              G3MMG 5NN NR 453      TU Q3ZJ 5NN NR 794
+CQ TEST IK7KCH                                                           CQ CQ TEST IK7KCH                                                           CQ TEST IK7KCH                           GF1KS                            GF1KS        GF1KS 5NN NR 104 K                TU IK7KCH 5NN NR 073 BK
+CQ AF O3XLH                                                                                                CQ AF O3XLH                                                                                                CQ CQ AF O3XLH                            WC4GSA      WC4GSA 5NN NR 130 K              TU O3XLH 5NN NR 636 E  E  E
+CQ CQ TEST TD6YFQ            RL5YE          RL5YE          RL5YE          RL5YE          RL5YE           RL5YE 5NN NR 814 K        TU TD6YFQ 5NN NR 662 BK
+CQ NA CA0YOY                     MF6SGP                    MF6SGP                    MF6SGP                    MF6SGP            MF6SGP 5NN NR 377 K          TU CA0YOY 5NN NR 272
+CQ CQ OC K7XBH              DL5KN                   DL5KN 5NN NR 156        TU K7XBH 5NN NR 121
+CQ AF A7FX             ZZ3EAO              ZZ3EAO              ZZ3EAO              ZZ3EAO              ZZ3EAO         ZZ3EAO 5NN NR 343                   TU A7FX 5NN NR 868
+CQ CQ SA OA3PJH                                            CQ CQ SA OA3PJH                                            CQ SA OA3PJH                   FD1OY     FD1OY 5NN NR 626                   TU OA3PJH 5NN NR 715 E  E  E
+CQ CQ EU FY4FQ            JC5EB                             JC5EB               JC5EB 5NN NR 196                 TU FY4FQ 5NN NR 830
+CQ DX SG8TO                   W2YYH             W2YYH             W2YYH             W2YYH             W2YYH            W2YYH 5NN NR 212 K                   TU SG8TO 5NN NR 846
+CQ CQ TEST C3MC                                                                          CQ CQ TEST C3MC                                                                          CQ TEST C3MC                HC3FD              HC3FD 5NN NR 579 K          TU C3MC 5NN NR 970
+CQ TEST HB3ZVO                                 CQ TEST HB3ZVO                            GA9HM             GA9HM 5NN NR 475                    TU HB3ZVO 5NN NR 748 BK
+CQ CQ TEST GA1BU                T7EA                      T7EA                      T7EA                      T7EA                 T7EA 5NN NR 67Z [DEL] 672 K             TU GA1BU 5NN NR 654
+CQ EU O8LO                                                     CQ EU O8LO                                                     CQ EU O8LO                        E4AQ                  E4AQ 5NN NR M24 [DEL] 728                 TU O8LO 5NN NR 562
+CQ DX KX6FI                            X4DR              X4DR 5NN NR 428          TU KX6FI 5NN NR 738 BK
+CQ NA Q3FB                       BS1XH       BS1XH 5NN NR 467        TU Q3FB 5NN NR 614 BK
+CQ CQ DX E7NDL                                                                      CQ DX E7NDL                                                                      CQ CQ DX E7NDL                    B9UEF               B9UEF              B9UEF 5NN NR 614 K       TU E7NDL 5NN NR 258
+CQ NA GF3HJQ                                                          CQ CQ NA GF3HJQ                                                          CQ NA GF3HJQ           OX0DN              OXODT 5NN NR 541 QRZ OX0DN OX0DN       OX0DN 5NN NR 541      TU GF3HJQ 5NN NR 057
+CQ SA GS7MO                                CQ CQ SA GS7MO                   VK4PKS             VK4PKS 5NN NR 614                    TU GS7MO 5NN NR 656
+CQ CQ DX W7RFQ                             P5CKL      P5CKL 5NN NR 516 K                TU W7RFQ 5NN NR 166 BK
+CQ SA IR9UA                                                                                CQ SA IR9UA             SM4XIM        SM4XIM 5NN NR 480 K              TU IR9UA 5NN NR G99 [DEL] 399 BK
+CQ TEST BB5DE                      CQ CQ TEST BB5DE                         BH9SR                BH9SR 5NN NR 849               TU BB5DE 5NN NR 738

@@ -90,17 +90,26 @@ def _edit_distance(a: str, b: str) -> int:
 
 @torch.no_grad()
 def evaluate(model, loader, device):
+    """评估 CER，model 应为未包装的原始模型（已在 eval 模式）"""
     model.eval()
     total_d, total_chars = 0, 0
     n = 0
     pbar = tqdm(loader, desc="val", leave=False, dynamic_ncols=True)
     for blocks, num_blocks, tgt_in, tgt_out, texts in pbar:
         blocks = blocks.to(device)
+        # 直接调用未包装的模型进行贪婪解码
         pred_ids = greedy_decode(model, blocks, num_blocks, BOS_IDX, EOS_IDX)
         for pred_list, t in zip(pred_ids, texts):
-            pred_str = "".join(IDX2CHAR.get(i, "") for i in pred_list)
+            # FIX: 预测串也去掉特殊 token（BOS/EOS/PAD），与参考串对齐
+            pred_str = "".join(
+                IDX2CHAR.get(i, "") for i in pred_list
+                if i not in (BOS_IDX, EOS_IDX, PAD)
+            )
             ref_ids = encode(t)
-            ref = "".join(IDX2CHAR.get(i, "") for i in ref_ids if i not in (BOS_IDX, EOS_IDX))
+            ref = "".join(
+                IDX2CHAR.get(i, "") for i in ref_ids
+                if i not in (BOS_IDX, EOS_IDX)
+            )
             total_d += _edit_distance(pred_str, ref)
             total_chars += max(1, len(ref))
             n += 1
@@ -111,7 +120,7 @@ def evaluate(model, loader, device):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--epochs", type=int, default=50)
-    ap.add_argument("--batch", type=int, default=32)
+    ap.add_argument("--batch", type=int, default=16)
     ap.add_argument("--lr", type=float, default=5e-4)
     ap.add_argument("--seed", type=int, default=0)
     ap.add_argument("--workers", type=int, default=8)
@@ -173,6 +182,9 @@ def main():
     else:
         dp_model = model
 
+    # 用于评估和调试打印的推理模型（去掉 DataParallel 包装）
+    inference_model = model.module if hasattr(model, 'module') else model
+
     opt = torch.optim.Adam(model.parameters(), lr=args.lr)
     if args.warmup_epochs > 0:
         warmup = torch.optim.lr_scheduler.LinearLR(
@@ -215,6 +227,7 @@ def main():
         print(f"[resume] {args.resume} -> start_epoch={start_epoch} "
               f"global_step={global_step} best_cer={best_cer:.4f} "
               f"no_improve={no_improve}")
+
     writer = None if args.no_tb else SummaryWriter(args.logdir)
     try:
         for epoch in trange(start_epoch, args.epochs, desc="epoch", dynamic_ncols=True):
@@ -227,10 +240,10 @@ def main():
                 tgt_in = tgt_in.to(device, non_blocking=True)
                 tgt_out = tgt_out.to(device, non_blocking=True)
 
-                with torch.autocast(device_type=device.type, dtype=torch.float16):
-                    logits = dp_model(blocks, num_blocks, tgt_in)
-                    loss = ce_loss(logits, tgt_out, ignore_index=PAD,
-                                    bos_idx=BOS_IDX, eos_idx=EOS_IDX)
+                # MODIFIED: 直接 FP32 前向传播，不再使用 torch.autocast
+                logits = dp_model(blocks, num_blocks, tgt_in)
+                loss = ce_loss(logits, tgt_out, ignore_index=PAD,
+                               bos_idx=BOS_IDX, eos_idx=EOS_IDX)
 
                 opt.zero_grad()
                 loss.backward()
@@ -247,20 +260,30 @@ def main():
                 pbar.set_postfix(loss=f"{running / rn:.4f}",
                                  lr=f"{sched.get_last_lr()[0]:.1e}")
                 if global_step % 100 == 0:
+                    # FIX: 切换为推理模型并 eval 模式，避免 dropout 干扰打印
+                    inference_model.eval()
                     with torch.no_grad():
-                        pred_ids = greedy_decode(model, blocks, num_blocks, BOS_IDX, EOS_IDX)
+                        pred_ids = greedy_decode(inference_model, blocks,
+                                                 num_blocks, BOS_IDX, EOS_IDX)
+                    # 重新切回训练模式（对整个 model 生效）
+                    dp_model.train()
                     tqdm.write(f"[e{epoch:02d} it{global_step}] "
                                f"loss={loss.item():.4f}")
                     for t, p in zip(texts[:2], pred_ids[:2]):
                         gt_ids = encode(t)
                         gt_content = [i for i in gt_ids if i not in (BOS_IDX, EOS_IDX)]
                         gt_str = "".join(IDX2CHAR.get(i, "") for i in gt_content)
-                        pred_str = "".join(IDX2CHAR.get(i, "") for i in p)
-                        tqdm.write(f"  gt  : {gt_str}  ids={gt_ids}")
-                        tqdm.write(f"  pred: {pred_str}  ids={p}")
+                        # FIX: 预测串同样去除特殊 token
+                        pred_str = "".join(
+                            IDX2CHAR.get(i, "") for i in p
+                            if i not in (BOS_IDX, EOS_IDX, PAD)
+                        )
+                        tqdm.write(f"  gt  : {gt_str}  ")
+                        tqdm.write(f"  pred: {pred_str}")
 
             sched.step()
-            cer, n = evaluate(dp_model, val_loader, device)
+            # FIX: 评估时传入去包装后的推理模型，并在 evaluate 内部切换 eval
+            cer, n = evaluate(inference_model, val_loader, device)
             tqdm.write(f"[epoch {epoch:02d}] val CER={cer:.4f} (n={n}) "
                        f"lr={sched.get_last_lr()[0]:.2e} best={best_cer:.4f}")
 

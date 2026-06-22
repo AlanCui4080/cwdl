@@ -1,7 +1,7 @@
 import random
 import string
 
-chars = string.ascii_uppercase + string.digits + " "
+chars = string.ascii_uppercase + string.digits + " ?=/"
 lines = set()
 while len(lines) < 10000:
     n = random.randint(30, 50)
