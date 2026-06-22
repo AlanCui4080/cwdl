@@ -123,13 +123,11 @@ v5 (3.04M)结构
 - 3x1 conv1d dilation1 padding1 Norm ReLU 64ch
 - 3x1 conv1d dilation2 padding2 Norm ReLU 64ch
 - 3x1 conv1d dilation4 padding4 Norm ReLU 128ch
-- BiLSTM layer3 input128 hidden256 drop0.3
+- BiGRU layer3 input128 hidden256 drop0.3
 
-该神经网络用 random50 和 realcomm 进行训练， 添加了特殊的token [DEL]，在序列化的时候产生4-8个dot,dot间间隔有可能是1dot 有可能是2dot 但是这几个之间间隔是完全一样的 添加了特殊的token [SK] 在序列化的时候是	···-·- 添加了特殊的token [BK]  在序列化的时候是-···-·- 
-CNN层从v3best中net2net到v5作为起始权重
+该神经网络用 random50 和 realcomm 进行训练， 添加了特殊的token [DEL]，在序列化的时候产生4-8个dot,dot间间隔有可能是1dot 有可能是2dot 但是这几个之间间隔是完全一样的 添加了特殊的token [SK] 在序列化的时候是	···-·- 添加了特殊的token [BK]  在序列化的时候是-···-·- ，另加了几个常用的CW符号
 
-考虑到超长的序列需求，这里换用了LSTM ，重定义了损失函数，只要输出一个space, 则gt无论有多少连续space都是0损失的
-
-训练效率太低，改回GRU
+CNN层从v3best中net2net到v5作为起始权重。考虑到超长的序列需求，这里换用了LSTM ，重定义了损失函数，只要输出一个space, 则gt无论有多少连续space都是0损失的 （改回了GRU）
 
 测试集WPM范围改为10-100 步进5用来benchmark
+同时由于模型尺寸过于的大 3060不太能在12G的数据集上有效训练了，开始租算力（）
