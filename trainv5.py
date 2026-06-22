@@ -95,14 +95,14 @@ def _batch_cer(logits, ilens, texts, idx2char):
     return total_d / total_chars
 
 @torch.no_grad()
-def evaluate(model, loader, device, amp_dtype=None):
+def evaluate(model, loader, device, use_autocast=False, autocast_dtype=None, model_dtype=torch.float32):
     model.eval()
     total_d, total_chars = 0, 0
     n = 0
     pbar = tqdm(loader, desc="val", leave=False, dynamic_ncols=True)
     for blocks, num_blocks, target, tlens, texts in pbar:
-        blocks = blocks.to(device)
-        with torch.amp.autocast("cuda", enabled=amp_dtype is not None, dtype=amp_dtype):
+        blocks = blocks.to(device=device, dtype=model_dtype)
+        with torch.amp.autocast("cuda", enabled=use_autocast, dtype=autocast_dtype):
             logits = model(blocks, num_blocks)
         ilens = num_blocks * CNN_T
         preds = greedy_decode(logits, ilens, IDX2CHAR)
@@ -180,7 +180,7 @@ def _load_v3_to_v5(v3_path: str, v5_model: CWModel, device: torch.device):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--epochs", type=int, default=50)
-    ap.add_argument("--batch", type=int, default=48)
+    ap.add_argument("--batch", type=int, default=32)
     ap.add_argument("--lr", type=float, default=5e-3)
     ap.add_argument("--weight_decay", type=float, default=1e-2,
                     help="AdamW weight decay (decoupled)")
@@ -214,6 +214,8 @@ def main():
                     choices=["bf16", "fp16", "fp32"],
                     help="混合精度 dtype: bf16 (默认, 无需 scaler), "
                          "fp16 (需 GradScaler), fp32 (禁用)")
+    ap.add_argument("--compile", action="store_true", default=False,
+                    help="启用 torch.compile 编译模型 (需 PyTorch 2.0+)")
     args = ap.parse_args()
 
     args.logdir = os.path.join(args.logdir, datetime.now().strftime("%Y%m%d_%H%M%S"))
@@ -222,12 +224,19 @@ def main():
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     print(f"device={device}")
     if args.amp_dtype == "fp32" or device.type != "cuda":
-        amp_dtype = None
-    else:
-        amp_dtype = torch.bfloat16 if args.amp_dtype == "bf16" else torch.float16
-    use_amp = amp_dtype is not None
-    use_scaler = use_amp and amp_dtype == torch.float16  # bf16 不需要 scaler
-    print(f"amp: {args.amp_dtype}  dtype={amp_dtype}  scaler={use_scaler}")
+        model_dtype = torch.float32
+        use_autocast = False
+        use_scaler = False
+    elif args.amp_dtype == "bf16":
+        model_dtype = torch.bfloat16
+        use_autocast = False  # 整个模型直接 .to(bf16), 不用 autocast
+        use_scaler = False
+    else:  # fp16
+        model_dtype = torch.float32  # 模型权重保持 fp32, autocast 动态降精度
+        use_autocast = True
+        use_scaler = True
+    print(f"amp: {args.amp_dtype}  model_dtype={model_dtype}  "
+          f"autocast={use_autocast}  scaler={use_scaler}")
 
     train_ds = CnnSetV5(TRAIN_CSV, TRAIN_IMG)
     print(f"train sequences: {len(train_ds)}")
@@ -255,19 +264,30 @@ def main():
                             num_workers=args.workers, collate_fn=collate,
                             pin_memory=True)
 
-    model = CWModel(vocab_size=len(IDX2CHAR) - 1).to(device)
+    model = CWModel(vocab_size=len(IDX2CHAR) - 1).to(device=device, dtype=model_dtype)
     n_params = sum(p.numel() for p in model.parameters())
     print(f"params: {n_params/1e6:.2f}M")
+
+    # base_model: 始终指向原始未编译模型, 用于 state_dict 存取与权重迁移
+    base_model = model
 
     # 多卡时自动用 DataParallel;保留裸 model 引用用于存取权重
     n_gpu = torch.cuda.device_count() if device.type == "cuda" else 0
     if n_gpu > 1:
-        dp_model = nn.DataParallel(model)
+        dp_model = nn.DataParallel(base_model)
         print(f"DataParallel on {n_gpu} GPUs")
     else:
-        dp_model = model
+        dp_model = base_model
 
-    opt = torch.optim.AdamW(model.parameters(), lr=args.lr,
+    # torch.compile 在 DataParallel 之后, 编译 DP 包装后的模型
+    # (compile + DP 的 replica 机制冲突, 需 compile 在外层)
+    if args.compile and device.type == "cuda":
+        dp_model = torch.compile(dp_model)
+        print("torch.compile enabled")
+    elif args.compile:
+        print("torch.compile requested but non-CUDA, skipped")
+
+    opt = torch.optim.AdamW(base_model.parameters(), lr=args.lr,
                             weight_decay=args.weight_decay)
 
     scaler = torch.amp.GradScaler("cuda", enabled=use_scaler)
@@ -312,7 +332,7 @@ def main():
     start_epoch = 0
     if args.resume:
         ck = torch.load(args.resume, map_location=device, weights_only=False)
-        model.load_state_dict(ck["model"])
+        base_model.load_state_dict(ck["model"])
         if "opt" in ck and args.resume_lr:
             opt.load_state_dict(ck["opt"])
             sched.load_state_dict(ck["sched"])
@@ -337,7 +357,7 @@ def main():
               f"global_step={global_step} best_cer={best_cer:.4f} "
               f"no_improve={no_improve}")
     if args.pretrain_v3 and not args.resume:
-        _load_v3_to_v5(args.pretrain_v3, model, device)
+        _load_v3_to_v5(args.pretrain_v3, base_model, device)
     writer = None if args.no_tb else SummaryWriter(args.logdir)
     try:
         for epoch in trange(start_epoch, args.epochs, desc="epoch", dynamic_ncols=True):
@@ -348,11 +368,11 @@ def main():
             running_cer = 0.0
             rcn = 0
             for blocks, num_blocks, target, tlens, texts in pbar:
-                blocks = blocks.to(device, non_blocking=True)
+                blocks = blocks.to(device=device, dtype=model_dtype, non_blocking=True)
                 target = target.to(device, non_blocking=True)
                 tlens = tlens.to(device, non_blocking=True)
 
-                with torch.amp.autocast("cuda", enabled=amp_dtype is not None, dtype=amp_dtype):
+                with torch.amp.autocast("cuda", enabled=use_autocast, dtype=torch.float16):
                     logits = dp_model(blocks, num_blocks)
                     ilens = (num_blocks * CNN_T).to(device)
                     loss = ctc_loss(logits, target, ilens, tlens)
@@ -360,7 +380,7 @@ def main():
                 opt.zero_grad()
                 scaler.scale(loss).backward()
                 scaler.unscale_(opt)
-                torch.nn.utils.clip_grad_norm_(model.parameters(), 10.0)
+                torch.nn.utils.clip_grad_norm_(base_model.parameters(), 10.0)
                 scaler.step(opt)
                 scaler.update()
 
@@ -388,7 +408,7 @@ def main():
                         tqdm.write(f"  pred: {p}")
 
             sched.step()
-            cer, n = evaluate(dp_model, val_loader, device, amp_dtype=amp_dtype)
+            cer, n = evaluate(dp_model, val_loader, device, use_autocast=use_autocast, autocast_dtype=torch.float16, model_dtype=model_dtype)
             tqdm.write(f"[epoch {epoch:02d}] val CER={cer:.4f} (n={n}) "
                        f"lr={sched.get_last_lr()[0]:.2e} best={best_cer:.4f}")
 
@@ -399,7 +419,7 @@ def main():
             if cer < best_cer:
                 best_cer = cer
                 no_improve = 0
-                torch.save({"model": model.state_dict(), "epoch": epoch,
+                torch.save({"model": base_model.state_dict(), "epoch": epoch,
                             "cer": cer, "vocab": IDX2CHAR,
                             "opt": opt.state_dict(), "sched": sched.state_dict(),
                             "scaler": scaler.state_dict(),
@@ -409,7 +429,7 @@ def main():
                 tqdm.write(f"  -> saved best_v5.pt (CER={cer:.4f})")
             else:
                 no_improve += 1
-            torch.save({"model": model.state_dict(), "epoch": epoch,
+            torch.save({"model": base_model.state_dict(), "epoch": epoch,
                         "opt": opt.state_dict(), "sched": sched.state_dict(),
                         "scaler": scaler.state_dict(),
                         "global_step": global_step, "best_cer": best_cer,

@@ -43,7 +43,7 @@ random50：10000个30-50位随机长度的随机字母数字空格
 
 CNN网络首先通过卷积层快速将高度压缩到1px，意图使网络快速学会忽略和压缩频偏，然后做1D CNN提取点划空特征，随后提取到的这些特征送入BiGRU，接入CTC后进行学习。
 
-v1 结构 (0.17M)：
+v1 (0.17M) 最佳 epoch=43, cer=0.1097 结构：
 - 3x3 conv2d stride4x1 padding0x1 Norm ReLU 16ch
 - 3x3 conv2d stride4x1 padding0x1 Norm ReLU 32ch
 至此，模型已经完全和压缩频偏（高度为1），随后：
@@ -54,10 +54,9 @@ v1 结构 (0.17M)：
 最终贪心以后得到结果，损失直接使用标准CTCLoss。
 第一次最佳 epoch=27, cer=0.1137 手动降低学习率，随后
 第二次最佳 epoch=30, cer=0.1110 改进学习率下降函数 降低学习率
-第二次最佳 epoch=43, cer=0.1097 
-![](cer_heatmap.png)
+![](cer_heatmapv1_v3method.png)
 
-v1.1(参数加大加宽版 0.7M) 结构：
+v1.1(参数加大加宽版 0.7M) 最佳 epoch=33, cer=0.1092 结构：
 - 3x3 conv2d stride4x1 padding0x1 Norm ReLU 32ch
 - 3x3 conv2d stride4x1 padding0x1 Norm ReLU 64ch
 至此，模型已经完全和压缩频偏（高度为1），随后：
@@ -68,8 +67,7 @@ v1.1(参数加大加宽版 0.7M) 结构：
 - BiGRU layer2 input128 hidden128 drop0.3
 最终贪心以后得到结果，损失直接使用标准CTCLoss。
 第一次最佳 epoch=7, cer=0.1172 手动降低学习率，随后
-第二次最佳 epoch=33, cer=0.1092
-![](cer_heatmapv11.png)
+![](cer_heatmapv1p1_v3method.png)
 
 纵然CER仍相对较高，但是我认为这是测试集中存在较低SNR和较极端WPM的样本，
 尤其的，有较低WPM的样本，模型感受野可能不足以识别整个点划。 顺便一提
@@ -78,18 +76,17 @@ v1.1(参数加大加宽版 0.7M) 结构：
 v2 (~~变形金刚~~版 1.92M) 结构：
 - 3x3 conv2d stride4x1 padding0x1 Norm ReLU 64ch
 - 3x3 conv2d stride4x1 padding0x1 Norm ReLU 128ch
-此处完全移除了1D卷积层，意图使Transfomer模型直接理解1D莫尔斯序列
 - EncoderOnlyTransfomer dmodel128 dffn512 nhead4 layer4 drop0.3
-最终贪心以后得到结果，损失直接使用标准CTCLoss。效果十分不好（）
 
-v3 (0.79M)结构：
+此处完全移除了1D卷积层，意图使Transfomer模型直接理解1D莫尔斯序列 难以收敛（）
+
+v3 (0.79M) 最佳 epoch=3  cer=0.0440 结构：
 - 3x3 conv2d stride4x1 padding0x1 Norm ReLU 16ch
 - 3x3 conv2d stride4x1 padding0x1 Norm ReLU 32ch
 - 3x1 conv1d dilation1 padding1 Norm ReLU 64ch
 - 3x1 conv1d dilation2 padding2 Norm ReLU 64ch
 - 3x1 conv1d dilation4 padding4 Norm ReLU 64ch
 - BiGRU layer3 input64 hidden128 drop0.3
-该神经网络只用 random50 进行训练,加入了DataParallel。
 - 附加噪声功率的范围改变到+18dB到-15dB，3dB每步 （验证集只执行+10到-10dB）
 - 验证集和测试集WPM范围改为10 25 30 35 40 45 50 55 60 65 80 （验证集只执行25到65）
 - 加入每个点划的WPM偏倚，范围为正负20%
@@ -99,13 +96,12 @@ v3 (0.79M)结构：
 - 50%的样本添加了随机的0.1-0.25单位的多径延迟，随机抽取3-5个多径
 这总共产生了约6.6G+2.2G+2.2G的数据集 发现val集有4w条数据，非常大，按1：5均匀抽取后，最终结果就是6：0.4 = 15：1
 
+该神经网络只用 random50 进行训练,加入了DataParallel。
+
 （阅读实现，发现LLM的val集一直是从test集中抽0.5%抽出来的，所以一定要盯着LLM写实现）
-最终结果： epoch=3  cer=0.044039199433132344
 分析特征图发现似乎卷积通道和1dCNN并没有提取出很好的特征，感觉过大是没必要的？
 
 ![](cer_heatmapv3.png)
-应当注意的是，v1和v3所运行的测试集难度不一样，所以不应用来互相比较。以下是同方法的v1结果：
-![](cer_heatmapv11_v3method.png)
 
 
 v4 (2.02M) 结构：
@@ -115,9 +111,10 @@ v4 (2.02M) 结构：
 - 3x1 conv1d dilation2 padding2 Norm GELU 128ch
 - 3x1 conv1d dilation4 padding4 Norm GELU 128ch
 - Transfomer d_model128 dimff512 nhead8 encode4 decode4 drop0.15
-再试试变形金刚,GELU
 - 添加了<bos>和<eos>token，添加了<unk>token
-阅读了代码 添加了便于读者理解的辅助注释
+
+再试试变形金刚,GELU 阅读了代码 添加了便于读者理解的辅助注释
+
 结果不收敛 依然非常不好
 
 v5 (3.04M)结构
@@ -127,10 +124,12 @@ v5 (3.04M)结构
 - 3x1 conv1d dilation2 padding2 Norm ReLU 64ch
 - 3x1 conv1d dilation4 padding4 Norm ReLU 128ch
 - BiLSTM layer3 input128 hidden256 drop0.3
+
 该神经网络用 random50 和 realcomm 进行训练， 添加了特殊的token [DEL]，在序列化的时候产生4-8个dot,dot间间隔有可能是1dot 有可能是2dot 但是这几个之间间隔是完全一样的 添加了特殊的token [SK] 在序列化的时候是	···-·- 添加了特殊的token [BK]  在序列化的时候是-···-·- 
 CNN层从v3best中net2net到v5作为起始权重
-考虑到超长的序列需求，这里换用了LSTM
-考虑到超长的序列需求，重定义了损失函数，只要输出一个space, 则gt无论有多少连续space都是0损失的
+
+考虑到超长的序列需求，这里换用了LSTM ，重定义了损失函数，只要输出一个space, 则gt无论有多少连续space都是0损失的
+
 训练效率太低，改回GRU
 
 测试集WPM范围改为10-100 步进5用来benchmark

@@ -13,10 +13,10 @@ from torch.utils.data import DataLoader
 # v3 的测试方法: 用 CnnSetV3 读 .npy, 直接从 seqs 取 wpm/noise
 from cnnsetv3 import CnnSetV3, collate, IDX2CHAR
 # v1 的模型
-from model import CWModel, greedy_decode, CNN_T
+from modelv1p1 import CWModel, greedy_decode, CNN_T
 
 ROOT = Path(__file__).parent
-CKPT = ROOT / "checkpoints" / "best.pt"
+CKPT = ROOT / "checkpoints" / "best_v11.pt"
 TEST_CSV = ROOT / "cnntriset" / "testset" / "index.csv"
 TEST_ROOT = ROOT / "cnntriset" / "testset"
 
@@ -41,7 +41,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--ckpt", default=str(CKPT))
     ap.add_argument("--batch-size", type=int, default=32)
-    ap.add_argument("--out", default=str(ROOT / "cer_heatmapv1_v3method.png"))
+    ap.add_argument("--out", default=str(ROOT / "cer_heatmapv1p1_v3method.png"))
     ap.add_argument("--device", default=None)
     args = ap.parse_args()
 
@@ -115,7 +115,7 @@ def _plot(grid, wpms, noises, out):
     ax.set_yticklabels([str(n) for n in noises])
     ax.set_xlabel("WPM")
     ax.set_ylabel("noise_db")
-    ax.set_title("Testset CER v1 (v3 dataset) (noise_db x WPM)")
+    ax.set_title("Testset CER v1.1 (v3 dataset) (noise_db x WPM)")
     for i in range(grid.shape[0]):
         for j in range(grid.shape[1]):
             v = grid[i, j]

@@ -91,7 +91,8 @@ class CWModel(nn.Module):
 def ctc_loss(logits: torch.Tensor, targets: torch.Tensor,
              input_lengths: torch.Tensor, target_lengths: torch.Tensor):
 
-    logp = F.log_softmax(logits, dim=-1).transpose(0, 1)
+    # log_softmax 在低精度下数值不稳定, 强制 upcast 到 fp32
+    logp = F.log_softmax(logits.float(), dim=-1).transpose(0, 1)
     return F.ctc_loss(logp, targets, input_lengths, target_lengths,
                       blank=0, reduction="mean", zero_infinity=True)
 

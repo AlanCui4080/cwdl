@@ -22,6 +22,9 @@ TEST_WPMS = tuple(range(10, 101, 5))
 PER_CAT = EVAL_PER_CAT // 10
 
 
+ALLOWED_CHARS = set("ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789 ")
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--workers", type=int, default=0,
@@ -30,6 +33,9 @@ def main():
 
     pool = _load_tagged(RANDOM50_TXT, "random50")
     print(f"random50 pool: {len(pool)}")
+
+    pool = [(t, s) for t, s in pool if set(t) <= ALLOWED_CHARS]
+    print(f"random50 after vocab filter: {len(pool)}")
 
     _, _, p_test = _split_pool(pool, POOL_SPLIT)
     print(f"random50 split: test={len(p_test)}")
