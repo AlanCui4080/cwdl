@@ -103,6 +103,11 @@ v3 (0.79M)结构：
 最终结果： epoch=3  cer=0.044039199433132344
 分析特征图发现似乎卷积通道和1dCNN并没有提取出很好的特征，感觉过大是没必要的？
 
+![](cer_heatmapv3.png)
+应当注意的是，v1和v3所运行的测试集难度不一样，所以不应用来互相比较。以下是同方法的v1结果：
+![](cer_heatmapv11_v3method.png)
+
+
 v4 (2.02M) 结构：
 - 3x3 conv2d stride4x1 padding0x1 Norm GELU 32ch
 - 3x3 conv2d stride4x1 padding0x1 Norm GELU 64ch
@@ -115,7 +120,7 @@ v4 (2.02M) 结构：
 阅读了代码 添加了便于读者理解的辅助注释
 结果不收敛 依然非常不好
 
-v5 (4.02M)结构
+v5 (3.04M)结构
 - 3x3 conv2d stride4x1 padding0x1 Norm ReLU 32ch
 - 3x3 conv2d stride4x1 padding0x1 Norm ReLU 32ch
 - 3x1 conv1d dilation1 padding1 Norm ReLU 64ch
@@ -127,3 +132,5 @@ CNN层从v3best中net2net到v5作为起始权重
 考虑到超长的序列需求，这里换用了LSTM
 考虑到超长的序列需求，重定义了损失函数，只要输出一个space, 则gt无论有多少连续space都是0损失的
 训练效率太低，改回GRU
+
+测试集WPM范围改为10-100 步进5用来benchmark
