@@ -10,11 +10,13 @@ import numpy as np
 import torch
 from torch.utils.data import DataLoader
 
+# v3 的测试方法: 用 CnnSetV3 读 .npy, 直接从 seqs 取 wpm/noise
 from cnnsetv3 import CnnSetV3, collate, IDX2CHAR
-from modelv3 import CWModel, greedy_decode, CNN_T
+# v1 的模型
+from modelv1p1 import CWModel, greedy_decode, CNN_T
 
 ROOT = Path(__file__).parent
-CKPT = ROOT / "checkpoints" / "best_v3.pt"
+CKPT = ROOT / "checkpoints" / "best_v11.pt"
 TEST_CSV = ROOT / "cnntriset" / "testset" / "index.csv"
 TEST_ROOT = ROOT / "cnntriset" / "testset"
 
@@ -39,7 +41,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--ckpt", default=str(CKPT))
     ap.add_argument("--batch-size", type=int, default=32)
-    ap.add_argument("--out", default=str(ROOT / "cer_heatmapv3.png"))
+    ap.add_argument("--out", default=str(ROOT / "cer_heatmapv11_v3method.png"))
     ap.add_argument("--device", default=None)
     args = ap.parse_args()
 
@@ -58,7 +60,6 @@ def main():
     loader = DataLoader(ds, batch_size=args.batch_size, shuffle=False,
                         collate_fn=collate, num_workers=4)
 
-    # seqs stores (path, text, wpm, noise_db) per sample
     sums = defaultdict(list)
     n_done = 0
     with torch.no_grad():
@@ -114,7 +115,7 @@ def _plot(grid, wpms, noises, out):
     ax.set_yticklabels([str(n) for n in noises])
     ax.set_xlabel("WPM")
     ax.set_ylabel("noise_db")
-    ax.set_title("Testset CER v3 (noise_db x WPM)")
+    ax.set_title("Testset CER v1.1 (v3 method) (noise_db x WPM)")
     for i in range(grid.shape[0]):
         for j in range(grid.shape[1]):
             v = grid[i, j]
