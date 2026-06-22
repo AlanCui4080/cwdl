@@ -166,8 +166,13 @@ def _triangle_freq_offset(n: int) -> np.ndarray:
     amp = sign * amp_abs
     phase0 = np.random.uniform(0.0, 2.0 * np.pi)
 
-    t = np.arange(n) / SAMPLE_RATE
-    tri = signal.sawtooth(2.0 * np.pi * fm * t + phase0, width=0.5)
+    # 等价于 scipy.signal.sawtooth(x, width=0.5): 周期 2pi, 上升 pi (-1→1) 后下降 pi (1→-1)
+    x = 2.0 * np.pi * fm * np.arange(n, dtype=np.float64) / SAMPLE_RATE + phase0
+    ph = np.mod(x, 2.0 * np.pi)
+    w = np.pi  # 2*pi*width, width=0.5
+    tri = np.where(ph < w,
+                   -1.0 + 2.0 * ph / w,
+                   1.0 - 2.0 * (ph - w) / w)
     return amp * tri
 
 def _add_noise(sig: np.ndarray, noise_db: float, sig_power: float) -> np.ndarray:
