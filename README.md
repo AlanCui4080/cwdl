@@ -104,11 +104,11 @@ v3 (0.79M)结构：
 分析特征图发现似乎卷积通道和1dCNN并没有提取出很好的特征，感觉过大是没必要的？
 
 v4 (2.02M) 结构：
-- 3x3 conv2d stride4x1 padding0x1 Norm ReLU 32ch
-- 3x3 conv2d stride4x1 padding0x1 Norm ReLU 64ch
-- 3x1 conv1d dilation1 padding1 Norm ReLU 128ch
-- 3x1 conv1d dilation2 padding2 Norm ReLU 128ch
-- 3x1 conv1d dilation4 padding4 Norm ReLU 128ch
+- 3x3 conv2d stride4x1 padding0x1 Norm GELU 32ch
+- 3x3 conv2d stride4x1 padding0x1 Norm GELU 64ch
+- 3x1 conv1d dilation1 padding1 Norm GELU 128ch
+- 3x1 conv1d dilation2 padding2 Norm GELU 128ch
+- 3x1 conv1d dilation4 padding4 Norm GELU 128ch
 - Transfomer d_model128 dimff512 nhead8 encode4 decode4 drop0.15
-再试试变形金刚,GeLu是从whisper论文中学来的,FlashAttention!
+再试试变形金刚,GELU
 - 添加了<bos>和<eos>token，添加了<unk>token

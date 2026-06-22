@@ -13,28 +13,32 @@ class CWModel(nn.Module):
     def __init__(self, vocab_size: int, max_enc_len: int = 20000, max_dec_len: int = 128):
         super().__init__()
         self.vocab_size = vocab_size
-        self.d_model = 128
 
         self.cnn2d = nn.Sequential(
             nn.Conv2d(1, 32, kernel_size=3, stride=(4, 1), padding=(0, 1), bias=False),
             nn.BatchNorm2d(32),
-            nn.ReLU(inplace=True),
+            nn.GELU(),
+
             nn.Conv2d(32, 64, kernel_size=3, stride=(4, 1), padding=(0, 1), bias=False),
             nn.BatchNorm2d(64),
-            nn.ReLU(inplace=True),
+            nn.GELU(),
         )
 
         self.cnn1d = nn.Sequential(
             nn.Conv1d(64, 128, kernel_size=3, dilation=1, padding=1, bias=False),
             nn.BatchNorm1d(128),
-            nn.ReLU(inplace=True),
+            nn.GELU(),
+
             nn.Conv1d(128, 128, kernel_size=3, dilation=2, padding=2, bias=False),
             nn.BatchNorm1d(128),
-            nn.ReLU(inplace=True),
+            nn.GELU(),
+
             nn.Conv1d(128, 128, kernel_size=3, dilation=4, padding=4, bias=False),
             nn.BatchNorm1d(128),
-            nn.ReLU(inplace=True),
+            nn.GELU(),
         )
+
+        self.d_model = 128
 
         self.register_buffer('encoder_pe', self._sinusoidal_pe(max_enc_len, self.d_model))
 
@@ -74,18 +78,6 @@ class CWModel(nn.Module):
                 nn.init.constant_(m.weight, 1)
                 nn.init.constant_(m.bias, 0)
 
-    def encode_blocks(self, blocks: torch.Tensor, num_blocks: torch.Tensor):
-        B, K = blocks.shape[:2]
-        x = blocks.reshape(B * K, 1, 16, 128)
-        x = self.cnn2d(x)
-        x = x.squeeze(2)
-        x = self.cnn1d(x)
-        x = x.transpose(1, 2)
-        feat = x.reshape(B, K * CNN_T, self.d_model)
-        feat = feat + self.encoder_pe[:feat.size(1)]
-        memory = self.transformer.encoder(feat)
-        return memory
-
     def forward(self, blocks: torch.Tensor, num_blocks: torch.Tensor,
                 tgt: torch.Tensor) -> torch.Tensor:
 
@@ -93,15 +85,29 @@ class CWModel(nn.Module):
         if K == 0:
             return torch.empty(B, 0, self.vocab_size, device=blocks.device)
 
-        memory = self.encode_blocks(blocks, num_blocks)
+        # ===== CNN EXTRACTER =====
+        # blocks is (B batchsize, K blockcount, 16 height, 128 length)
+        cnn_in = blocks.reshape(B * K, 1, 16, 128)
+        # cnn_in is (B*K, 1, 16 height, 128 length)
+        cnn_result = self.cnn1d(self.cnn2d(cnn_in).squeeze(2))
+        # cnn_result is (B*K, 128 channel, 128 length)
+        encoder_in = cnn_result.transpose(1, 2).reshape(B, K * CNN_T, self.d_model)
 
-        tgt_emb = self.decoder_embed(tgt) + self.decoder_pe(torch.arange(tgt.size(1), device=blocks.device))
+        # ===== TRANSFOMER ENCODER =====
+        # encoder_in is (B, K*128 length, 128 channel)
+        encoder_in = encoder_in + self.encoder_pe[:encoder_in.size(1)]
+        # encoder_in += position encoding
+        encoder_out = self.transformer.encoder(encoder_in)
+        
+        # ===== TRANSFOMER DECODER =====
+        tgt_emb = self.decoder_embed(tgt)
+        tgt_emb = tgt_emb + self.decoder_pe(torch.arange(tgt.size(1), device=blocks.device))
+        # tgt_emb += position encoding
         tgt_mask = self.transformer.generate_square_subsequent_mask(tgt.size(1)).to(blocks.device)
-        out = self.transformer.decoder(tgt_emb, memory,
-                                       tgt_mask=tgt_mask,
-                                       tgt_is_causal=False)
-        logits = self.head(out)
-        return logits
+        # tgt_emb += causal attention mask
+        
+        decoder_out = self.transformer.decoder(tgt_emb, encoder_out, tgt_mask=tgt_mask, tgt_is_causal=False)
+        return self.head(decoder_out)
 
 
 def ce_loss(logits: torch.Tensor, targets: torch.Tensor, ignore_index: int = 0,
