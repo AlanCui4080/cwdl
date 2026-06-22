@@ -36,7 +36,7 @@ class CWModel(nn.Module):
         self.relu = nn.ReLU(inplace=True)
 
         # BiLSTM: 超长序列用 LSTM 替代 GRU
-        self.bilstm = nn.LSTM(
+        self.bigru = nn.GRU(
             input_size=128,
             hidden_size=256,
             num_layers=3,
@@ -81,7 +81,7 @@ class CWModel(nn.Module):
 
         packed = nn.utils.rnn.pack_padded_sequence(
             feat, lengths.cpu(), batch_first=True, enforce_sorted=False)
-        out, _ = self.bilstm(packed)
+        out, _ = self.bigru(packed)
         out, _ = nn.utils.rnn.pad_packed_sequence(
             out, batch_first=True, total_length=K * CNN_T)
         logits = self.head(out)
