@@ -18,6 +18,7 @@ from torch.utils.tensorboard import SummaryWriter
 
 from cnnsetv5 import CnnSetV5, collate, IDX2CHAR, encode
 from modelv5 import CWModel, ctc_loss, greedy_decode, CNN_T
+from modelv5 import prefix_beam_decode
 from tqdm import tqdm
 
 print("IDX2CHAR:", IDX2CHAR)
@@ -86,7 +87,7 @@ def _edit_distance(a: str, b: str) -> int:
 
 def _batch_cer(logits, ilens, texts, idx2char):
 
-    preds = greedy_decode(logits, ilens, idx2char)
+    preds = greedy_decode(logits, ilens, idx2char)  # 训练阶段用 greedy 保持速度
     total_d, total_chars = 0, 0
     for p, t in zip(preds, texts):
         ref = _collapse_spaces(t.upper())
@@ -95,7 +96,7 @@ def _batch_cer(logits, ilens, texts, idx2char):
     return total_d / total_chars
 
 @torch.no_grad()
-def evaluate(model, loader, device):
+def evaluate(model, loader, device, decode_fn=greedy_decode):
     model.eval()
     total_d, total_chars = 0, 0
     n = 0
@@ -104,7 +105,7 @@ def evaluate(model, loader, device):
         blocks = blocks.to(device)
         logits = model(blocks, num_blocks)
         ilens = num_blocks * CNN_T
-        preds = greedy_decode(logits, ilens, IDX2CHAR)
+        preds = decode_fn(logits, ilens, IDX2CHAR)
         for p, t in zip(preds, texts):
             ref = _collapse_spaces(t.upper())
             total_d += _edit_distance(p, ref)
@@ -209,6 +210,9 @@ def main():
                     help="线性 warmup 的 epoch 数, 0 关闭")
     ap.add_argument("--patience", type=int, default=5,
                     help="连续若干 epoch 无更佳 checkpoint 则早停, 0 关闭")
+    ap.add_argument("--beam_size", type=int, default=10,
+                    help="验证/展示解码的 prefix beam search 宽度; "
+                         "0 表示用 greedy decode (默认)")
     args = ap.parse_args()
 
     args.logdir = os.path.join(args.logdir, datetime.now().strftime("%Y%m%d_%H%M%S"))
@@ -216,6 +220,15 @@ def main():
     set_seed(args.seed)
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     print(f"device={device}")
+
+    # 评估用解码器: beam_size>0 时用 prefix beam search, 否则 greedy
+    if args.beam_size and args.beam_size > 0:
+        def decode_fn(logits, ilens, idx2char, _bs=args.beam_size):
+            return prefix_beam_decode(logits, ilens, idx2char, beam_size=_bs)
+        print(f"decode: prefix beam search (beam_size={args.beam_size})")
+    else:
+        decode_fn = greedy_decode
+        print("decode: greedy")
 
     train_ds = CnnSetV5(TRAIN_CSV, TRAIN_IMG)
     print(f"train sequences: {len(train_ds)}")
@@ -361,7 +374,7 @@ def main():
                                  lr=f"{sched.get_last_lr()[0]:.1e}")
                 if global_step % 100 == 0:
                     with torch.no_grad():
-                        preds = greedy_decode(logits, ilens, IDX2CHAR)
+                        preds = decode_fn(logits, ilens, IDX2CHAR)
                     tqdm.write(f"[e{epoch:02d} it{global_step}] "
                                f"loss={loss.item():.4f} cer={batch_cer:.3f}")
                     for t, p in zip(texts[:2], preds[:2]):
@@ -369,7 +382,7 @@ def main():
                         tqdm.write(f"  pred: {p}")
 
             sched.step()
-            cer, n = evaluate(dp_model, val_loader, device)
+            cer, n = evaluate(dp_model, val_loader, device, decode_fn=decode_fn)
             tqdm.write(f"[epoch {epoch:02d}] val CER={cer:.4f} (n={n}) "
                        f"lr={sched.get_last_lr()[0]:.2e} best={best_cer:.4f}")
 

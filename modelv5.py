@@ -1,5 +1,10 @@
 from __future__ import annotations
 
+import collections
+import math
+from typing import Tuple
+
+import numpy as np
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
@@ -113,4 +118,98 @@ def greedy_decode(logits: torch.Tensor, input_lengths: torch.Tensor,
                 s.append(idx2char[i])
             prev = i
         out.append("".join(s))
+    return out
+
+
+# ---------------------------------------------------------------------------
+
+NEG_INF = -float("inf")
+
+
+def _make_new_beam():
+    return collections.defaultdict(lambda: (NEG_INF, NEG_INF))
+
+
+def _logsumexp(*args) -> float:
+    """Numerically stable logsumexp over a variable number of log-probs."""
+    m = max(args)
+    if m == NEG_INF:
+        return NEG_INF
+    acc = 0.0
+    for a in args:
+        acc += math.exp(a - m)
+    return m + math.log(acc)
+
+
+def _prefix_beam_search(log_probs: np.ndarray, beam_size: int = 10,
+                        blank: int = 0) -> Tuple[tuple, float]:
+    """Run prefix beam search on a single (T x S) log-probability matrix.
+
+    Returns the best label-id prefix (blanks already collapsed) and its
+    total log-likelihood (logsumexp of p_blank and p_no_blank).
+    """
+    T, S = log_probs.shape
+    # beam: list of (prefix, (p_blank, p_no_blank)) in log space.
+    beam = [(tuple(), (0.0, NEG_INF))]
+
+    for t in range(T):
+        next_beam = _make_new_beam()
+        for s in range(S):
+            p = float(log_probs[t, s])
+            for prefix, (p_b, p_nb) in beam:
+                if s == blank:
+                    n_p_b, n_p_nb = next_beam[prefix]
+                    n_p_b = _logsumexp(n_p_b, p_b + p, p_nb + p)
+                    next_beam[prefix] = (n_p_b, n_p_nb)
+                    continue
+
+                end_t = prefix[-1] if prefix else None
+                n_prefix = prefix + (s,)
+                n_p_b, n_p_nb = next_beam[n_prefix]
+                if s != end_t:
+                    n_p_nb = _logsumexp(n_p_nb, p_b + p, p_nb + p)
+                else:
+                    # Repeated char at end: CTC merges, so drop p_nb path.
+                    n_p_nb = _logsumexp(n_p_nb, p_b + p)
+                next_beam[n_prefix] = (n_p_b, n_p_nb)
+
+                if s == end_t:
+                    # Merging case: also keep the unchanged prefix.
+                    n_p_b2, n_p_nb2 = next_beam[prefix]
+                    n_p_nb2 = _logsumexp(n_p_nb2, p_nb + p)
+                    next_beam[prefix] = (n_p_b2, n_p_nb2)
+
+        beam = sorted(next_beam.items(),
+                      key=lambda x: _logsumexp(*x[1]),
+                      reverse=True)[:beam_size]
+
+    best = beam[0]
+    return best[0], _logsumexp(*best[1])
+
+
+@torch.no_grad()
+def prefix_beam_decode(logits: torch.Tensor,
+                       input_lengths: torch.Tensor,
+                       idx2char: list[str],
+                       beam_size: int = 10,
+                       blank: int = 0) -> list[str]:
+    """CTC prefix beam search decoding for a batch.
+
+    Arguments:
+      logits: (B, T, S) raw logits from the model.
+      input_lengths: (B,) valid time steps per sample.
+      idx2char: vocabulary table; idx2char[0] must be the blank token.
+      beam_size: beam width.
+      blank: CTC blank index (default 0, matches this model).
+
+    Returns a list of decoded strings (one per batch item).
+    """
+    # log_softmax in fp32 for numerical stability, matching ctc_loss.
+    logp = F.log_softmax(logits.float(), dim=-1).cpu().numpy()
+    out: list[str] = []
+    for b in range(logp.shape[0]):
+        L = int(input_lengths[b].item())
+        prefix, _ = _prefix_beam_search(logp[b, :L], beam_size=beam_size,
+                                         blank=blank)
+        out.append("".join(idx2char[i] for i in prefix))
     return out
